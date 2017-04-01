@@ -1,6 +1,615 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Sat Apr 01 13:27:50 +0000 2017",
+		"id": 848165005275025400,
+		"id_str": "848165005275025408",
+		"text": "RT @xiu_nyang: 기사 제목 뭔데 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 박동원 뒷모습 아련해서 더 욱김ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/5ngkTclvHw",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "xiu_nyang",
+					"name": "모냥",
+					"id": 3226228284,
+					"id_str": "3226228284",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 847769872075432000,
+					"id_str": "847769872075431936",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/C8PiNPxVoAAf-XJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8PiNPxVoAAf-XJ.jpg",
+					"url": "https://t.co/5ngkTclvHw",
+					"display_url": "pic.twitter.com/5ngkTclvHw",
+					"expanded_url": "https://twitter.com/xiu_nyang/status/847769881189666816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 749,
+							"h": 712,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 646,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 749,
+							"h": 712,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 847769881189666800,
+					"source_status_id_str": "847769881189666816",
+					"source_user_id": 3226228284,
+					"source_user_id_str": "3226228284"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 847769872075432000,
+					"id_str": "847769872075431936",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/C8PiNPxVoAAf-XJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8PiNPxVoAAf-XJ.jpg",
+					"url": "https://t.co/5ngkTclvHw",
+					"display_url": "pic.twitter.com/5ngkTclvHw",
+					"expanded_url": "https://twitter.com/xiu_nyang/status/847769881189666816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 749,
+							"h": 712,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 646,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 749,
+							"h": 712,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 847769881189666800,
+					"source_status_id_str": "847769881189666816",
+					"source_user_id": 3226228284,
+					"source_user_id_str": "3226228284"
+				},
+				{
+					"id": 847769872079609900,
+					"id_str": "847769872079609856",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/C8PiNPyVYAAl_u1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8PiNPyVYAAl_u1.jpg",
+					"url": "https://t.co/5ngkTclvHw",
+					"display_url": "pic.twitter.com/5ngkTclvHw",
+					"expanded_url": "https://twitter.com/xiu_nyang/status/847769881189666816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 668,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 764,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 764,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 847769881189666800,
+					"source_status_id_str": "847769881189666816",
+					"source_user_id": 3226228284,
+					"source_user_id_str": "3226228284"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5719,
+			"friends_count": 1131,
+			"listed_count": 126,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5493,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125567,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 31 11:17:45 +0000 2017",
+			"id": 847769881189666800,
+			"id_str": "847769881189666816",
+			"text": "기사 제목 뭔데 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 박동원 뒷모습 아련해서 더 욱김ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/5ngkTclvHw",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 847769872075432000,
+						"id_str": "847769872075431936",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/media/C8PiNPxVoAAf-XJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8PiNPxVoAAf-XJ.jpg",
+						"url": "https://t.co/5ngkTclvHw",
+						"display_url": "pic.twitter.com/5ngkTclvHw",
+						"expanded_url": "https://twitter.com/xiu_nyang/status/847769881189666816/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 749,
+								"h": 712,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 646,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 749,
+								"h": 712,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 847769872075432000,
+						"id_str": "847769872075431936",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/media/C8PiNPxVoAAf-XJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8PiNPxVoAAf-XJ.jpg",
+						"url": "https://t.co/5ngkTclvHw",
+						"display_url": "pic.twitter.com/5ngkTclvHw",
+						"expanded_url": "https://twitter.com/xiu_nyang/status/847769881189666816/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 749,
+								"h": 712,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 646,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 749,
+								"h": 712,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 847769872079609900,
+						"id_str": "847769872079609856",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/media/C8PiNPyVYAAl_u1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8PiNPyVYAAl_u1.jpg",
+						"url": "https://t.co/5ngkTclvHw",
+						"display_url": "pic.twitter.com/5ngkTclvHw",
+						"expanded_url": "https://twitter.com/xiu_nyang/status/847769881189666816/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 668,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 764,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 750,
+								"h": 764,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3226228284,
+				"id_str": "3226228284",
+				"name": "모냥",
+				"screen_name": "xiu_nyang",
+				"location": "NO XIUMIN NO LIFE",
+				"description": "시우민에게 사랑을 맹세하세요.",
+				"url": "https://t.co/V6VsSNkyjE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/V6VsSNkyjE",
+								"expanded_url": "https://youtu.be/AOzVyVv1HtQ",
+								"display_url": "youtu.be/AOzVyVv1HtQ",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1209,
+				"friends_count": 148,
+				"listed_count": 10,
+				"created_at": "Mon May 25 15:16:45 +0000 2015",
+				"favourites_count": 2528,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 19817,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/827002400128917504/hZPu5Fs8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/827002400128917504/hZPu5Fs8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3226228284/1477305966",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12834,
+			"favorite_count": 1814,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 12834,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Apr 01 13:24:07 +0000 2017",
+		"id": 848164073220972500,
+		"id_str": "848164073220972545",
+		"text": "RT @JTBC_news: [JTBC 뉴스룸] 정치권 일각에서 박 전 대통령을 용서하자는 주장 나와…기소가 되기 전부터 사면 논쟁도 불거져. 박 전 대통령 구속 찬성여론이 70%가 넘었음에도 국민 정서와 동떨어진 주장을 한다는 비판도.https://…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JTBC_news",
+					"name": "JTBC 뉴스",
+					"id": 397672819,
+					"id_str": "397672819",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5719,
+			"friends_count": 1131,
+			"listed_count": 126,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5493,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125567,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 01 12:28:01 +0000 2017",
+			"id": 848149953796948000,
+			"id_str": "848149953796947968",
+			"text": "[JTBC 뉴스룸] 정치권 일각에서 박 전 대통령을 용서하자는 주장 나와…기소가 되기 전부터 사면 논쟁도 불거져. 박 전 대통령 구속 찬성여론이 70%가 넘었음에도 국민 정서와 동떨어진 주장을 한다는 비판도… https://t.co/jk2JGbhM5N",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/jk2JGbhM5N",
+						"expanded_url": "https://twitter.com/i/web/status/848149953796947968",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 397672819,
+				"id_str": "397672819",
+				"name": "JTBC 뉴스",
+				"screen_name": "JTBC_news",
+				"location": "서울시 마포구 상암산로 48-6",
+				"description": "JTBC 뉴스 공식 트위터입니다!!\n이곳은 트친 여러분의 이야기와 목소리에 귀 기울이는 곳입니다.\n많은 관심과 사랑 부탁드립니다. ^^",
+				"url": "http://t.co/CrCzofZgOd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/CrCzofZgOd",
+								"expanded_url": "http://facebook.com/jtbcnews",
+								"display_url": "facebook.com/jtbcnews",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 458122,
+				"friends_count": 51744,
+				"listed_count": 2255,
+				"created_at": "Tue Oct 25 00:50:16 +0000 2011",
+				"favourites_count": 303,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 46012,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "A9A9A9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/829154861392359424/Lxx50vdu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/829154861392359424/Lxx50vdu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/397672819/1490597618",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 191,
+			"favorite_count": 36,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 191,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Apr 01 11:20:34 +0000 2017",
 		"id": 848132977737551900,
 		"id_str": "848132977737551872",
