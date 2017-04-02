@@ -1,6 +1,336 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Sun Apr 02 02:16:46 +0000 2017",
+		"id": 848358515638911000,
+		"id_str": "848358515638910976",
+		"text": "RT @laziale84: 스타벅스서 군인 이벤트한다고 하니 몰려가서 항의 중인 워마드 클라스.jpg https://t.co/e8LaWG7jTS",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "laziale84",
+					"name": "노잼 잉여",
+					"id": 95850548,
+					"id_str": "95850548",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 745449834350403600,
+					"id_str": "745449834350403584",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/ClherL5UYAAl2FY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ClherL5UYAAl2FY.jpg",
+					"url": "https://t.co/e8LaWG7jTS",
+					"display_url": "pic.twitter.com/e8LaWG7jTS",
+					"expanded_url": "https://twitter.com/sldpnc/status/745450253449453568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 674,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 790,
+							"h": 783,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 790,
+							"h": 783,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 745450253449453600,
+					"source_status_id_str": "745450253449453568",
+					"source_user_id": 95850548,
+					"source_user_id_str": "95850548"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 745449834350403600,
+					"id_str": "745449834350403584",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/ClherL5UYAAl2FY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ClherL5UYAAl2FY.jpg",
+					"url": "https://t.co/e8LaWG7jTS",
+					"display_url": "pic.twitter.com/e8LaWG7jTS",
+					"expanded_url": "https://twitter.com/sldpnc/status/745450253449453568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 674,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 790,
+							"h": 783,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 790,
+							"h": 783,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 745450253449453600,
+					"source_status_id_str": "745450253449453568",
+					"source_user_id": 95850548,
+					"source_user_id_str": "95850548"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5719,
+			"friends_count": 1130,
+			"listed_count": 126,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5493,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125578,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jun 22 02:56:04 +0000 2016",
+			"id": 745450253449453600,
+			"id_str": "745450253449453568",
+			"text": "스타벅스서 군인 이벤트한다고 하니 몰려가서 항의 중인 워마드 클라스.jpg https://t.co/e8LaWG7jTS",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 745449834350403600,
+						"id_str": "745449834350403584",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/media/ClherL5UYAAl2FY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ClherL5UYAAl2FY.jpg",
+						"url": "https://t.co/e8LaWG7jTS",
+						"display_url": "pic.twitter.com/e8LaWG7jTS",
+						"expanded_url": "https://twitter.com/sldpnc/status/745450253449453568/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 674,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 790,
+								"h": 783,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 790,
+								"h": 783,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 745449834350403600,
+						"id_str": "745449834350403584",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/media/ClherL5UYAAl2FY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ClherL5UYAAl2FY.jpg",
+						"url": "https://t.co/e8LaWG7jTS",
+						"display_url": "pic.twitter.com/e8LaWG7jTS",
+						"expanded_url": "https://twitter.com/sldpnc/status/745450253449453568/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 674,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 790,
+								"h": 783,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 790,
+								"h": 783,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 95850548,
+				"id_str": "95850548",
+				"name": "노잼 잉여",
+				"screen_name": "laziale84",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4975,
+				"friends_count": 2690,
+				"listed_count": 60,
+				"created_at": "Thu Dec 10 07:39:08 +0000 2009",
+				"favourites_count": 1872,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 30957,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/583237655829159936/JIZ9eahH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/583237655829159936/JIZ9eahH_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 142,
+			"favorite_count": 6,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 142,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sun Apr 02 00:54:05 +0000 2017",
 		"id": 848337706585161700,
 		"id_str": "848337706585161728",
