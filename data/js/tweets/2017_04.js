@@ -1,6 +1,609 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Sun Apr 02 11:10:02 +0000 2017",
+		"id": 848492716371484700,
+		"id_str": "848492716371484672",
+		"text": "@moonjg003 어쩌다 얻어걸린 것인지, 아니면 전략적으로 노리고 한 것인지는 모르겠지만 잘됐네요 ㅎㅎㅎ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "moonjg003",
+					"name": "moonjg",
+					"id": 594986946,
+					"id_str": "594986946",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 848482534920921100,
+		"in_reply_to_status_id_str": "848482534920921088",
+		"in_reply_to_user_id": 594986946,
+		"in_reply_to_user_id_str": "594986946",
+		"in_reply_to_screen_name": "moonjg003",
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5716,
+			"friends_count": 1130,
+			"listed_count": 127,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5494,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125602,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Apr 02 11:08:22 +0000 2017",
+		"id": 848492299118035000,
+		"id_str": "848492299118034944",
+		"text": "RT @uklondon21: 목기춘 오늘 올린 트윗으로 선거법 위반 신고당함 ㅋㅋㅋ\nhttps://t.co/mysjvy3LTr https://t.co/hBRBy2ZeAY",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "uklondon21",
+					"name": "보부상",
+					"id": 111457242,
+					"id_str": "111457242",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mysjvy3LTr",
+					"expanded_url": "http://www.ddanzi.com/index.php?mid=free&page=3&document_srl=174700436",
+					"display_url": "ddanzi.com/index.php?mid=…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 848489399499329500,
+					"id_str": "848489399499329536",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/C8ZwnQTXkAAV4XQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8ZwnQTXkAAV4XQ.jpg",
+					"url": "https://t.co/hBRBy2ZeAY",
+					"display_url": "pic.twitter.com/hBRBy2ZeAY",
+					"expanded_url": "https://twitter.com/uklondon21/status/848489555707691008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 496,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1973,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 876,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 848489555707691000,
+					"source_status_id_str": "848489555707691008",
+					"source_user_id": 111457242,
+					"source_user_id_str": "111457242"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 848489399499329500,
+					"id_str": "848489399499329536",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/C8ZwnQTXkAAV4XQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8ZwnQTXkAAV4XQ.jpg",
+					"url": "https://t.co/hBRBy2ZeAY",
+					"display_url": "pic.twitter.com/hBRBy2ZeAY",
+					"expanded_url": "https://twitter.com/uklondon21/status/848489555707691008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 496,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1973,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 876,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 848489555707691000,
+					"source_status_id_str": "848489555707691008",
+					"source_user_id": 111457242,
+					"source_user_id_str": "111457242"
+				},
+				{
+					"id": 848489427689254900,
+					"id_str": "848489427689254913",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/C8Zwo5UXsAE9CXy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8Zwo5UXsAE9CXy.jpg",
+					"url": "https://t.co/hBRBy2ZeAY",
+					"display_url": "pic.twitter.com/hBRBy2ZeAY",
+					"expanded_url": "https://twitter.com/uklondon21/status/848489555707691008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1412,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 667,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1177,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 848489555707691000,
+					"source_status_id_str": "848489555707691008",
+					"source_user_id": 111457242,
+					"source_user_id_str": "111457242"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5716,
+			"friends_count": 1130,
+			"listed_count": 127,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5494,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125602,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 02 10:57:28 +0000 2017",
+			"id": 848489555707691000,
+			"id_str": "848489555707691008",
+			"text": "목기춘 오늘 올린 트윗으로 선거법 위반 신고당함 ㅋㅋㅋ\nhttps://t.co/mysjvy3LTr https://t.co/hBRBy2ZeAY",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/mysjvy3LTr",
+						"expanded_url": "http://www.ddanzi.com/index.php?mid=free&page=3&document_srl=174700436",
+						"display_url": "ddanzi.com/index.php?mid=…",
+						"indices": [
+							31,
+							54
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 848489399499329500,
+						"id_str": "848489399499329536",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/media/C8ZwnQTXkAAV4XQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8ZwnQTXkAAV4XQ.jpg",
+						"url": "https://t.co/hBRBy2ZeAY",
+						"display_url": "pic.twitter.com/hBRBy2ZeAY",
+						"expanded_url": "https://twitter.com/uklondon21/status/848489555707691008/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 496,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1440,
+								"h": 1973,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 876,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 848489399499329500,
+						"id_str": "848489399499329536",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/media/C8ZwnQTXkAAV4XQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8ZwnQTXkAAV4XQ.jpg",
+						"url": "https://t.co/hBRBy2ZeAY",
+						"display_url": "pic.twitter.com/hBRBy2ZeAY",
+						"expanded_url": "https://twitter.com/uklondon21/status/848489555707691008/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 496,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1440,
+								"h": 1973,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 876,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 848489427689254900,
+						"id_str": "848489427689254913",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/media/C8Zwo5UXsAE9CXy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8Zwo5UXsAE9CXy.jpg",
+						"url": "https://t.co/hBRBy2ZeAY",
+						"display_url": "pic.twitter.com/hBRBy2ZeAY",
+						"expanded_url": "https://twitter.com/uklondon21/status/848489555707691008/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1440,
+								"h": 1412,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 667,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1177,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 111457242,
+				"id_str": "111457242",
+				"name": "보부상",
+				"screen_name": "uklondon21",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1468,
+				"friends_count": 327,
+				"listed_count": 11,
+				"created_at": "Fri Feb 05 00:29:56 +0000 2010",
+				"favourites_count": 6347,
+				"utc_offset": -18000,
+				"time_zone": "Monterrey",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14791,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/706783380398997504/zgAbNfoI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/706783380398997504/zgAbNfoI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/111457242/1457345264",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 43,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Apr 02 10:52:35 +0000 2017",
+		"id": 848488325790842900,
+		"id_str": "848488325790842881",
+		"text": "탐라에 '수동적인 이미지에서 벗어나 능동적이고 주체적인 여성의 이미지 사용' 이런 글 가득하고, 현기차는 아저씨들이나 태워 뭐 이런 글 돌길래 분명히 리트윗하고 글 썼는데 걍 자기 보고 싶은 부분만 보고 리… https://t.co/2YHLbfbQE7",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2YHLbfbQE7",
+					"expanded_url": "https://twitter.com/i/web/status/848488325790842881",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5716,
+			"friends_count": 1130,
+			"listed_count": 127,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5494,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125602,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sun Apr 02 10:04:03 +0000 2017",
 		"id": 848476110643908600,
 		"id_str": "848476110643908608",
