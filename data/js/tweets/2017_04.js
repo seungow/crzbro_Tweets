@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Mon Apr 03 20:43:19 +0000 2017",
+		"id": 848999375950893000,
+		"id_str": "848999375950893056",
+		"text": "RT @kwang82: 윈도우의 \"30년 천하\"가 끝났다. OS 점유율에서 구글 안드로이드가 마이크로소프트 윈도우를 제쳤다. 3월 점유율이 안드로이드 39.93%, 윈도우 37.91%. 처음으로 역전됐다. https://t.co/l8tr92PNgl…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kwang82",
+					"name": "광파리_IT 이야기",
+					"id": 41998762,
+					"id_str": "41998762",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/l8tr92PNgl",
+					"expanded_url": "http://buff.ly/2oQ1C0j",
+					"display_url": "buff.ly/2oQ1C0j",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5718,
+			"friends_count": 1130,
+			"listed_count": 126,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5496,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125672,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 03 12:05:26 +0000 2017",
+			"id": 848869046883930100,
+			"id_str": "848869046883930112",
+			"text": "윈도우의 \"30년 천하\"가 끝났다. OS 점유율에서 구글 안드로이드가 마이크로소프트 윈도우를 제쳤다. 3월 점유율이 안드로이드 39.93%, 윈도우 37.91%. 처음으로 역전됐다.… https://t.co/jA4k0zsH9m",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/jA4k0zsH9m",
+						"expanded_url": "https://twitter.com/i/web/status/848869046883930112",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							103,
+							126
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 41998762,
+				"id_str": "41998762",
+				"name": "광파리_IT 이야기",
+				"screen_name": "kwang82",
+				"location": "Seoul, Korea",
+				"description": "IT 큐레이터 광파리. 주로 국내외 IT와 스타트업 이야기를 합니다. 페이스북 페이지는https://t.co/5fQ2ZGXZnN",
+				"url": "http://t.co/XP5cJbursY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/XP5cJbursY",
+								"expanded_url": "http://kwang82.blogspot.com/",
+								"display_url": "kwang82.blogspot.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/5fQ2ZGXZnN",
+								"expanded_url": "https://www.facebook.com/kwang8e",
+								"display_url": "facebook.com/kwang8e",
+								"indices": [
+									48,
+									71
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 392508,
+				"friends_count": 2776,
+				"listed_count": 4687,
+				"created_at": "Sat May 23 08:39:59 +0000 2009",
+				"favourites_count": 1190,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 31941,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/712243289391431684/3evqj5oW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/712243289391431684/3evqj5oW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/41998762/1472275483",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 78,
+			"favorite_count": 28,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 78,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Mon Apr 03 19:38:24 +0000 2017",
 		"id": 848983037647835100,
 		"id_str": "848983037647835136",
