@@ -1,6 +1,351 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Mon Apr 03 12:11:32 +0000 2017",
+		"id": 848870582665924600,
+		"id_str": "848870582665924609",
+		"text": "국민 알 권리 중요하니까 이 대선후보들 한 명도 빼놓지 않고 한 자리에 다 모아서 토론하도록 하죠!!! 지지율 5% 이상 제한 그런거 없이 모여셔 예능 찍자! https://t.co/DAqUth4Ujy",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 848870556371796000,
+					"id_str": "848870556371795968",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/C8fLRgTUQAAJmsc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8fLRgTUQAAJmsc.jpg",
+					"url": "https://t.co/DAqUth4Ujy",
+					"display_url": "pic.twitter.com/DAqUth4Ujy",
+					"expanded_url": "https://twitter.com/crzbro/status/848870582665924609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1360,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 452,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 797,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 848870556371796000,
+					"id_str": "848870556371795968",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/C8fLRgTUQAAJmsc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8fLRgTUQAAJmsc.jpg",
+					"url": "https://t.co/DAqUth4Ujy",
+					"display_url": "pic.twitter.com/DAqUth4Ujy",
+					"expanded_url": "https://twitter.com/crzbro/status/848870582665924609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1360,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 452,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 797,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5709,
+			"friends_count": 1130,
+			"listed_count": 125,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5494,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125641,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Apr 03 12:07:47 +0000 2017",
+		"id": 848869638028935200,
+		"id_str": "848869638028935168",
+		"text": "RT @sangjungsim: [홍보팀] 정의당에서 문제제기하자 KBS는 ‘4당이 동의한다면 예외적으로 가능하다’고 전해왔습니다. 국민 알권리를 왜 4당에 맡깁니까? 타 지상파와달리 왜 KBS만 선관위보다 기준이높은지 납득하기어렵습니다.  https…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sangjungsim",
+					"name": "심상정",
+					"id": 27821557,
+					"id_str": "27821557",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5709,
+			"friends_count": 1130,
+			"listed_count": 125,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5494,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125641,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 03 08:53:41 +0000 2017",
+			"id": 848820790539595800,
+			"id_str": "848820790539595776",
+			"text": "[홍보팀] 정의당에서 문제제기하자 KBS는 ‘4당이 동의한다면 예외적으로 가능하다’고 전해왔습니다. 국민 알권리를 왜 4당에 맡깁니까? 타 지상파와달리 왜 KBS만 선관위보다 기준이높은지 납득하기어렵습니다.  https://t.co/iiQ70z8V7t",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/iiQ70z8V7t",
+						"expanded_url": "http://goo.gl/U9XV7D",
+						"display_url": "goo.gl/U9XV7D",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 27821557,
+				"id_str": "27821557",
+				"name": "심상정",
+				"screen_name": "sangjungsim",
+				"location": "Korea",
+				"description": "#심블리 가 여러분의 자부심이 되겠습니다. 정의당 19대 대통령 예비후보 심상정입니다.",
+				"url": "https://t.co/7J5NHatNdv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7J5NHatNdv",
+								"expanded_url": "http://www.minsim.or.kr",
+								"display_url": "minsim.or.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 658309,
+				"friends_count": 88636,
+				"listed_count": 8060,
+				"created_at": "Tue Mar 31 05:29:28 +0000 2009",
+				"favourites_count": 71,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 7481,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "517180",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/468976167/___-___-_____IMG_0495.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/468976167/___-___-_____IMG_0495.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/844135391166906368/-YCfgsHu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/844135391166906368/-YCfgsHu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/27821557/1490426649",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 749,
+			"favorite_count": 346,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 749,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Mon Apr 03 00:43:09 +0000 2017",
 		"id": 848697345415839700,
 		"id_str": "848697345415839744",
