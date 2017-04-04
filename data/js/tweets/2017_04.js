@@ -1,6 +1,413 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Tue Apr 04 04:30:52 +0000 2017",
+		"id": 849117040577175600,
+		"id_str": "849117040577175554",
+		"text": "RT @minampeace46: 서서히 비빔면의 계절이 다가오는군... 중불로 켜놓고 물이 끓기시작할 때 쯔음 8분정도 더 끓이면 왼쪽같은 아름다운 반숙이 됩니다 https://t.co/M2ctoPgdM3",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "minampeace46",
+					"name": "텐더",
+					"id": 3270820658,
+					"id_str": "3270820658",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 848791189142642700,
+					"id_str": "848791189142642688",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/C8eDFuVUIAAkYiC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8eDFuVUIAAkYiC.jpg",
+					"url": "https://t.co/M2ctoPgdM3",
+					"display_url": "pic.twitter.com/M2ctoPgdM3",
+					"expanded_url": "https://twitter.com/minampeace46/status/848791228673961984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 848791228673962000,
+					"source_status_id_str": "848791228673961984",
+					"source_user_id": 3270820658,
+					"source_user_id_str": "3270820658"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 848791189142642700,
+					"id_str": "848791189142642688",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/C8eDFuVUIAAkYiC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8eDFuVUIAAkYiC.jpg",
+					"url": "https://t.co/M2ctoPgdM3",
+					"display_url": "pic.twitter.com/M2ctoPgdM3",
+					"expanded_url": "https://twitter.com/minampeace46/status/848791228673961984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 848791228673962000,
+					"source_status_id_str": "848791228673961984",
+					"source_user_id": 3270820658,
+					"source_user_id_str": "3270820658"
+				},
+				{
+					"id": 848791219060658200,
+					"id_str": "848791219060658176",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/C8eDHdyU0AAJUAH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8eDHdyU0AAJUAH.jpg",
+					"url": "https://t.co/M2ctoPgdM3",
+					"display_url": "pic.twitter.com/M2ctoPgdM3",
+					"expanded_url": "https://twitter.com/minampeace46/status/848791228673961984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 640,
+							"h": 560,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 560,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 560,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 848791228673962000,
+					"source_status_id_str": "848791228673961984",
+					"source_user_id": 3270820658,
+					"source_user_id_str": "3270820658"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5721,
+			"friends_count": 1129,
+			"listed_count": 126,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5496,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125694,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 03 06:56:13 +0000 2017",
+			"id": 848791228673962000,
+			"id_str": "848791228673961984",
+			"text": "서서히 비빔면의 계절이 다가오는군... 중불로 켜놓고 물이 끓기시작할 때 쯔음 8분정도 더 끓이면 왼쪽같은 아름다운 반숙이 됩니다 https://t.co/M2ctoPgdM3",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 848791189142642700,
+						"id_str": "848791189142642688",
+						"indices": [
+							73,
+							96
+						],
+						"media_url": "http://pbs.twimg.com/media/C8eDFuVUIAAkYiC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8eDFuVUIAAkYiC.jpg",
+						"url": "https://t.co/M2ctoPgdM3",
+						"display_url": "pic.twitter.com/M2ctoPgdM3",
+						"expanded_url": "https://twitter.com/minampeace46/status/848791228673961984/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 848791189142642700,
+						"id_str": "848791189142642688",
+						"indices": [
+							73,
+							96
+						],
+						"media_url": "http://pbs.twimg.com/media/C8eDFuVUIAAkYiC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8eDFuVUIAAkYiC.jpg",
+						"url": "https://t.co/M2ctoPgdM3",
+						"display_url": "pic.twitter.com/M2ctoPgdM3",
+						"expanded_url": "https://twitter.com/minampeace46/status/848791228673961984/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 848791219060658200,
+						"id_str": "848791219060658176",
+						"indices": [
+							73,
+							96
+						],
+						"media_url": "http://pbs.twimg.com/media/C8eDHdyU0AAJUAH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8eDHdyU0AAJUAH.jpg",
+						"url": "https://t.co/M2ctoPgdM3",
+						"display_url": "pic.twitter.com/M2ctoPgdM3",
+						"expanded_url": "https://twitter.com/minampeace46/status/848791228673961984/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 640,
+								"h": 560,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 560,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 640,
+								"h": 560,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3270820658,
+				"id_str": "3270820658",
+				"name": "텐더",
+				"screen_name": "minampeace46",
+				"location": "비팔알람끔",
+				"description": "힘들 땐 힘 내려 사람",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12302,
+				"friends_count": 243,
+				"listed_count": 61,
+				"created_at": "Tue Jul 07 08:54:21 +0000 2015",
+				"favourites_count": 1699,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 24510,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/836484389512962048/w4A-CPeq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/836484389512962048/w4A-CPeq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3270820658/1490978972",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13797,
+			"favorite_count": 5132,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 13797,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Tue Apr 04 03:53:26 +0000 2017",
 		"id": 849107616550625300,
 		"id_str": "849107616550625280",
