@@ -1,6 +1,370 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Tue Apr 04 09:45:03 +0000 2017",
+		"id": 849196103522111500,
+		"id_str": "849196103522111489",
+		"text": "RT @onsenbiyori: 일반인과 일베와 메갈이 기사 읽는 방법이라는데 너무나 적절해서 공중제비를 돌고 있다. https://t.co/p5IFb7uqXA",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "onsenbiyori",
+					"name": "밀레이유",
+					"id": 105699879,
+					"id_str": "105699879",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 849132706671714300,
+					"id_str": "849132706671714304",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/C8i5sqRVYAAH5r9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8i5sqRVYAAH5r9.jpg",
+					"url": "https://t.co/p5IFb7uqXA",
+					"display_url": "pic.twitter.com/p5IFb7uqXA",
+					"expanded_url": "https://twitter.com/onsenbiyori/status/849132714238238720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 562,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 329,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 187,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 849132714238238700,
+					"source_status_id_str": "849132714238238720",
+					"source_user_id": 105699879,
+					"source_user_id_str": "105699879"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 849132706671714300,
+					"id_str": "849132706671714304",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/C8i5sqRVYAAH5r9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8i5sqRVYAAH5r9.jpg",
+					"url": "https://t.co/p5IFb7uqXA",
+					"display_url": "pic.twitter.com/p5IFb7uqXA",
+					"expanded_url": "https://twitter.com/onsenbiyori/status/849132714238238720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 562,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 329,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 187,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 849132714238238700,
+					"source_status_id_str": "849132714238238720",
+					"source_user_id": 105699879,
+					"source_user_id_str": "105699879"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5722,
+			"friends_count": 1129,
+			"listed_count": 126,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5496,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125696,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 04 05:33:09 +0000 2017",
+			"id": 849132714238238700,
+			"id_str": "849132714238238720",
+			"text": "일반인과 일베와 메갈이 기사 읽는 방법이라는데 너무나 적절해서 공중제비를 돌고 있다. https://t.co/p5IFb7uqXA",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 849132706671714300,
+						"id_str": "849132706671714304",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/media/C8i5sqRVYAAH5r9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8i5sqRVYAAH5r9.jpg",
+						"url": "https://t.co/p5IFb7uqXA",
+						"display_url": "pic.twitter.com/p5IFb7uqXA",
+						"expanded_url": "https://twitter.com/onsenbiyori/status/849132714238238720/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 562,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 329,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 187,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 849132706671714300,
+						"id_str": "849132706671714304",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/media/C8i5sqRVYAAH5r9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8i5sqRVYAAH5r9.jpg",
+						"url": "https://t.co/p5IFb7uqXA",
+						"display_url": "pic.twitter.com/p5IFb7uqXA",
+						"expanded_url": "https://twitter.com/onsenbiyori/status/849132714238238720/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 562,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 329,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 187,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 105699879,
+				"id_str": "105699879",
+				"name": "밀레이유",
+				"screen_name": "onsenbiyori",
+				"location": "千葉県千葉市",
+				"description": "闇の気象予報士。",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 659,
+				"friends_count": 353,
+				"listed_count": 19,
+				"created_at": "Sun Jan 17 05:24:42 +0000 2010",
+				"favourites_count": 208,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 21983,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/822754628605394944/4_rwhYLM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/822754628605394944/4_rwhYLM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/105699879/1484018833",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "43d0bb3c4e9eb702",
+				"url": "https://api.twitter.com/1.1/geo/id/43d0bb3c4e9eb702.json",
+				"place_type": "city",
+				"name": "千葉市 美浜区",
+				"full_name": "千葉 千葉市 美浜区",
+				"country_code": "JP",
+				"country": "일본",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								140.025283996937,
+								35.5939754317197
+							],
+							[
+								140.110531997775,
+								35.5939754317197
+							],
+							[
+								140.110531997775,
+								35.6550850000666
+							],
+							[
+								140.025283996937,
+								35.6550850000666
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 362,
+			"favorite_count": 48,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 362,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Tue Apr 04 05:48:09 +0000 2017",
 		"id": 849136486268100600,
 		"id_str": "849136486268100608",
