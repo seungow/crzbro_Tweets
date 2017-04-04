@@ -1,6 +1,182 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Tue Apr 04 00:06:11 +0000 2017",
+		"id": 849050428767522800,
+		"id_str": "849050428767522816",
+		"text": "RT @adhoclala: 오늘 서울,인천 국민의당 경선참여자는 3만5,502표로써 서울,인천 유권자 수 1080만명에 비하면 0.32%로 국민의당 경선흥행 기준인 투표율 0.2%를 넘어 성공했다고 평가될만.\n이런 엄청난 흥행성공을 기획한 박지원 국…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "adhoclala",
+					"name": "13세기 Leucrota",
+					"id": 1421748320,
+					"id_str": "1421748320",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5720,
+			"friends_count": 1130,
+			"listed_count": 126,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5496,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125676,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 02 12:16:23 +0000 2017",
+			"id": 848509414365577200,
+			"id_str": "848509414365577216",
+			"text": "오늘 서울,인천 국민의당 경선참여자는 3만5,502표로써 서울,인천 유권자 수 1080만명에 비하면 0.32%로 국민의당 경선흥행 기준인 투표율 0.2%를 넘어 성공했다고 평가될만.\n이런 엄청난 흥행성공을… https://t.co/3oqIUv6OqY",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/3oqIUv6OqY",
+						"expanded_url": "https://twitter.com/i/web/status/848509414365577216",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1421748320,
+				"id_str": "1421748320",
+				"name": "13세기 Leucrota",
+				"screen_name": "adhoclala",
+				"location": "",
+				"description": "플픽은 요끌라님에게 얻은 레우크로타.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 22882,
+				"friends_count": 702,
+				"listed_count": 197,
+				"created_at": "Sat May 11 22:40:11 +0000 2013",
+				"favourites_count": 6811,
+				"utc_offset": -25200,
+				"time_zone": "Arizona",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 57613,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/812430419798827008/Arvx4ahy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/812430419798827008/Arvx4ahy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1421748320/1402535457",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 335,
+			"favorite_count": 110,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 335,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Mon Apr 03 22:29:36 +0000 2017",
 		"id": 849026121681092600,
 		"id_str": "849026121681092609",
