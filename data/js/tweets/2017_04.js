@@ -1,6 +1,496 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Sat Apr 08 09:02:58 +0000 2017",
+		"id": 850635064438276100,
+		"id_str": "850635064438276096",
+		"text": "RT @debirth: 수중카메라를 뒤집어서 찍은 싱크로나이즈드 스위밍. https://t.co/yEMYwA7n3I",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debirth",
+					"name": "SeaBlue",
+					"id": 225040295,
+					"id_str": "225040295",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 850610220304810000,
+					"id_str": "850610220304809984",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/850610220304809984/pu/img/lpC52mFrS7u-w5t4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/850610220304809984/pu/img/lpC52mFrS7u-w5t4.jpg",
+					"url": "https://t.co/yEMYwA7n3I",
+					"display_url": "pic.twitter.com/yEMYwA7n3I",
+					"expanded_url": "https://twitter.com/25bravofox2/status/850610302093672448/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 180,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 317,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 338,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 850610302093672400,
+					"source_status_id_str": "850610302093672448",
+					"source_user_id": 2884921177,
+					"source_user_id_str": "2884921177"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 850610220304810000,
+					"id_str": "850610220304809984",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/850610220304809984/pu/img/lpC52mFrS7u-w5t4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/850610220304809984/pu/img/lpC52mFrS7u-w5t4.jpg",
+					"url": "https://t.co/yEMYwA7n3I",
+					"display_url": "pic.twitter.com/yEMYwA7n3I",
+					"expanded_url": "https://twitter.com/25bravofox2/status/850610302093672448/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 180,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 317,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 338,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 850610302093672400,
+					"source_status_id_str": "850610302093672448",
+					"source_user_id": 2884921177,
+					"source_user_id_str": "2884921177",
+					"video_info": {
+						"aspect_ratio": [
+							320,
+							169
+						],
+						"duration_millis": 34200,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/850610220304809984/pu/pl/NzF7ufHMn7F3hzzW.m3u8"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/850610220304809984/pu/vid/340x180/O9nAzHJkB49n6EVF.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 2884921177,
+							"id_str": "2884921177",
+							"name": "sato_kurumi",
+							"screen_name": "25bravofox2",
+							"location": "TOKYO",
+							"description": "料理、漫画、映画、メカ、アニメ、動物、面白動画好き。御無礼あらばお許しを。日々是勉強ナリ。ツィートゼロ、アフィリエイト系はブロックさせていただきます。悪しからず。フォロバは慎重。R18作家さんもフォローしているのでTLにポロリ発生あるやも、ご注意。巻き込みリプはお断り。♂今年は2017年、平成29年です。",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 6496,
+							"friends_count": 885,
+							"listed_count": 137,
+							"created_at": "Fri Oct 31 11:31:04 +0000 2014",
+							"favourites_count": 9454,
+							"utc_offset": 32400,
+							"time_zone": "Seoul",
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 29339,
+							"lang": "ja",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/812893750804365313/KsbeTskS_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/812893750804365313/KsbeTskS_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/2884921177/1414988359",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5719,
+			"friends_count": 1128,
+			"listed_count": 125,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5488,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125390,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 08 08:48:01 +0000 2017",
+			"id": 850631303229710300,
+			"id_str": "850631303229710336",
+			"text": "수중카메라를 뒤집어서 찍은 싱크로나이즈드 스위밍. https://t.co/yEMYwA7n3I",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 850610220304810000,
+						"id_str": "850610220304809984",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/850610220304809984/pu/img/lpC52mFrS7u-w5t4.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/850610220304809984/pu/img/lpC52mFrS7u-w5t4.jpg",
+						"url": "https://t.co/yEMYwA7n3I",
+						"display_url": "pic.twitter.com/yEMYwA7n3I",
+						"expanded_url": "https://twitter.com/25bravofox2/status/850610302093672448/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 180,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 317,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 338,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 850610302093672400,
+						"source_status_id_str": "850610302093672448",
+						"source_user_id": 2884921177,
+						"source_user_id_str": "2884921177"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 850610220304810000,
+						"id_str": "850610220304809984",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/850610220304809984/pu/img/lpC52mFrS7u-w5t4.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/850610220304809984/pu/img/lpC52mFrS7u-w5t4.jpg",
+						"url": "https://t.co/yEMYwA7n3I",
+						"display_url": "pic.twitter.com/yEMYwA7n3I",
+						"expanded_url": "https://twitter.com/25bravofox2/status/850610302093672448/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 180,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 317,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 338,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 850610302093672400,
+						"source_status_id_str": "850610302093672448",
+						"source_user_id": 2884921177,
+						"source_user_id_str": "2884921177",
+						"video_info": {
+							"aspect_ratio": [
+								320,
+								169
+							],
+							"duration_millis": 34200,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/850610220304809984/pu/pl/NzF7ufHMn7F3hzzW.m3u8"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/850610220304809984/pu/vid/340x180/O9nAzHJkB49n6EVF.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 2884921177,
+								"id_str": "2884921177",
+								"name": "sato_kurumi",
+								"screen_name": "25bravofox2",
+								"location": "TOKYO",
+								"description": "料理、漫画、映画、メカ、アニメ、動物、面白動画好き。御無礼あらばお許しを。日々是勉強ナリ。ツィートゼロ、アフィリエイト系はブロックさせていただきます。悪しからず。フォロバは慎重。R18作家さんもフォローしているのでTLにポロリ発生あるやも、ご注意。巻き込みリプはお断り。♂今年は2017年、平成29年です。",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 6496,
+								"friends_count": 885,
+								"listed_count": 137,
+								"created_at": "Fri Oct 31 11:31:04 +0000 2014",
+								"favourites_count": 9454,
+								"utc_offset": 32400,
+								"time_zone": "Seoul",
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 29339,
+								"lang": "ja",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "C0DEED",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/812893750804365313/KsbeTskS_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/812893750804365313/KsbeTskS_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/2884921177/1414988359",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 225040295,
+				"id_str": "225040295",
+				"name": "SeaBlue",
+				"screen_name": "debirth",
+				"location": "三咲市三咲町白犬塚",
+				"description": "Z1000 & 86",
+				"url": "https://t.co/iJqOVG5x6Z",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iJqOVG5x6Z",
+								"expanded_url": "http://fightforjustice.info",
+								"display_url": "fightforjustice.info",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4457,
+				"friends_count": 99,
+				"listed_count": 56,
+				"created_at": "Fri Dec 10 14:30:21 +0000 2010",
+				"favourites_count": 473,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 37740,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/180121881/Untitled-4.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/180121881/Untitled-4.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3759071188/a98ca3c8c679f04b0fa11a8475ed5c74_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3759071188/a98ca3c8c679f04b0fa11a8475ed5c74_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/225040295/1399741670",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 135,
+			"favorite_count": 48,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 135,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Apr 08 06:42:17 +0000 2017",
 		"id": 850599661836525600,
 		"id_str": "850599661836525568",
