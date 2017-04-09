@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Sun Apr 09 18:51:47 +0000 2017",
+		"id": 851145634081980400,
+		"id_str": "851145634081980416",
+		"text": "RT @jk_space: 제가 안철수후보를 너무 몰랐군요. 카이스트 '정문술석좌교수'였다는 것도 이번에 알았네요. 300억 기부한 정문술이 추천한 석좌교수, 정문술은 안철수테마주 팔아서 돈벌고. 이런! https://t.co/J8NxbyaOQW",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jk_space",
+					"name": "김진애",
+					"id": 86482203,
+					"id_str": "86482203",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/J8NxbyaOQW",
+					"expanded_url": "http://news.chosun.com/site/data/html_dir/2012/10/19/2012101900190.html",
+					"display_url": "news.chosun.com/site/data/html…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5719,
+			"friends_count": 1127,
+			"listed_count": 126,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5487,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125430,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 09 11:15:23 +0000 2017",
+			"id": 851030778276225000,
+			"id_str": "851030778276225025",
+			"text": "제가 안철수후보를 너무 몰랐군요. 카이스트 '정문술석좌교수'였다는 것도 이번에 알았네요. 300억 기부한 정문술이 추천한 석좌교수, 정문술은 안철수테마주 팔아서 돈벌고. 이런! https://t.co/J8NxbyaOQW",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/J8NxbyaOQW",
+						"expanded_url": "http://news.chosun.com/site/data/html_dir/2012/10/19/2012101900190.html",
+						"display_url": "news.chosun.com/site/data/html…",
+						"indices": [
+							99,
+							122
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twtkr.com\" rel=\"nofollow\">twtkr</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 86482203,
+				"id_str": "86482203",
+				"name": "김진애",
+				"screen_name": "jk_space",
+				"location": "대한민국, 서울",
+				"description": "사람은 테마, 공간은 그릇, 정치란 인생에 대한 것-도시건축가-(사)인간도시컨센서스 공동대표-인생을 바꾸는 건축수업-한번은 독해져라-왜 공부하는가",
+				"url": "http://t.co/fzMbDrSrk9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/fzMbDrSrk9",
+								"expanded_url": "http://www.humancity.org",
+								"display_url": "humancity.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 215872,
+				"friends_count": 47722,
+				"listed_count": 3529,
+				"created_at": "Sat Oct 31 07:34:36 +0000 2009",
+				"favourites_count": 26,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 28674,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FAFAFA",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/557653615/free_twitter_designer_12_120521.JPG",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/557653615/free_twitter_designer_12_120521.JPG",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/613101389300903936/nEONgUnp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/613101389300903936/nEONgUnp_normal.jpg",
+				"profile_link_color": "C23E7E",
+				"profile_sidebar_border_color": "CC0502",
+				"profile_sidebar_fill_color": "B2B3A1",
+				"profile_text_color": "050505",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 875,
+			"favorite_count": 358,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 875,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sun Apr 09 17:57:40 +0000 2017",
 		"id": 851132017248948200,
 		"id_str": "851132017248948228",
