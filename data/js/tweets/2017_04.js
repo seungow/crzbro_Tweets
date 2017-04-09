@@ -1,6 +1,371 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Sun Apr 09 19:34:42 +0000 2017",
+		"id": 851156436834857000,
+		"id_str": "851156436834856960",
+		"text": "RT @SexGifx: http://t.co/fBia7gKSn9",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SexGifx",
+					"name": "SexGif",
+					"id": 2518733306,
+					"id_str": "2518733306",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 649934084173529100,
+					"id_str": "649934084173529088",
+					"indices": [
+						13,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/CQUHmyaVAAA7qcL.png",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CQUHmyaVAAA7qcL.png",
+					"url": "http://t.co/fBia7gKSn9",
+					"display_url": "pic.twitter.com/fBia7gKSn9",
+					"expanded_url": "https://twitter.com/naughtyxxxness/status/649934142197469184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 649934142197469200,
+					"source_status_id_str": "649934142197469184",
+					"source_user_id": 561534820,
+					"source_user_id_str": "561534820"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 649934084173529100,
+					"id_str": "649934084173529088",
+					"indices": [
+						13,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/CQUHmyaVAAA7qcL.png",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CQUHmyaVAAA7qcL.png",
+					"url": "http://t.co/fBia7gKSn9",
+					"display_url": "pic.twitter.com/fBia7gKSn9",
+					"expanded_url": "https://twitter.com/naughtyxxxness/status/649934142197469184/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 649934142197469200,
+					"source_status_id_str": "649934142197469184",
+					"source_user_id": 561534820,
+					"source_user_id_str": "561534820",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/CQUHmyaVAAA7qcL.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5720,
+			"friends_count": 1127,
+			"listed_count": 126,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5487,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125431,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Oct 03 15:57:51 +0000 2015",
+			"id": 650338984032342000,
+			"id_str": "650338984032342016",
+			"text": "http://t.co/fBia7gKSn9",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 649934084173529100,
+						"id_str": "649934084173529088",
+						"indices": [
+							0,
+							22
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/CQUHmyaVAAA7qcL.png",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CQUHmyaVAAA7qcL.png",
+						"url": "http://t.co/fBia7gKSn9",
+						"display_url": "pic.twitter.com/fBia7gKSn9",
+						"expanded_url": "https://twitter.com/naughtyxxxness/status/649934142197469184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 649934142197469200,
+						"source_status_id_str": "649934142197469184",
+						"source_user_id": 561534820,
+						"source_user_id_str": "561534820"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 649934084173529100,
+						"id_str": "649934084173529088",
+						"indices": [
+							0,
+							22
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/CQUHmyaVAAA7qcL.png",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CQUHmyaVAAA7qcL.png",
+						"url": "http://t.co/fBia7gKSn9",
+						"display_url": "pic.twitter.com/fBia7gKSn9",
+						"expanded_url": "https://twitter.com/naughtyxxxness/status/649934142197469184/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 649934142197469200,
+						"source_status_id_str": "649934142197469184",
+						"source_user_id": 561534820,
+						"source_user_id_str": "561534820",
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/CQUHmyaVAAA7qcL.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2518733306,
+				"id_str": "2518733306",
+				"name": "SexGif",
+				"screen_name": "SexGifx",
+				"location": "En tu cama.",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2314,
+				"friends_count": 428,
+				"listed_count": 9,
+				"created_at": "Fri May 23 21:32:58 +0000 2014",
+				"favourites_count": 125,
+				"utc_offset": -10800,
+				"time_zone": "Brasilia",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 538,
+				"lang": "es",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/516222487051657216/cnU_MAy8_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/516222487051657216/cnU_MAy8_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2518733306/1411911999",
+				"profile_link_color": "B30065",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 52,
+			"favorite_count": 44,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Sun Apr 09 18:51:47 +0000 2017",
 		"id": 851145634081980400,
 		"id_str": "851145634081980416",
