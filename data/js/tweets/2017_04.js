@@ -1,6 +1,1253 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Mon Apr 10 18:40:47 +0000 2017",
+		"id": 851505252893315100,
+		"id_str": "851505252893315073",
+		"text": "RT @SexGifx: http://t.co/fBia7gKSn9",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SexGifx",
+					"name": "SexGif",
+					"id": 2518733306,
+					"id_str": "2518733306",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 649934084173529100,
+					"id_str": "649934084173529088",
+					"indices": [
+						13,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/CQUHmyaVAAA7qcL.png",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CQUHmyaVAAA7qcL.png",
+					"url": "http://t.co/fBia7gKSn9",
+					"display_url": "pic.twitter.com/fBia7gKSn9",
+					"expanded_url": "https://twitter.com/naughtyxxxness/status/649934142197469184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 649934142197469200,
+					"source_status_id_str": "649934142197469184",
+					"source_user_id": 561534820,
+					"source_user_id_str": "561534820"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 649934084173529100,
+					"id_str": "649934084173529088",
+					"indices": [
+						13,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/CQUHmyaVAAA7qcL.png",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CQUHmyaVAAA7qcL.png",
+					"url": "http://t.co/fBia7gKSn9",
+					"display_url": "pic.twitter.com/fBia7gKSn9",
+					"expanded_url": "https://twitter.com/naughtyxxxness/status/649934142197469184/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 649934142197469200,
+					"source_status_id_str": "649934142197469184",
+					"source_user_id": 561534820,
+					"source_user_id_str": "561534820",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/CQUHmyaVAAA7qcL.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5715,
+			"friends_count": 1127,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5488,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125477,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Oct 03 15:57:51 +0000 2015",
+			"id": 650338984032342000,
+			"id_str": "650338984032342016",
+			"text": "http://t.co/fBia7gKSn9",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 649934084173529100,
+						"id_str": "649934084173529088",
+						"indices": [
+							0,
+							22
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/CQUHmyaVAAA7qcL.png",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CQUHmyaVAAA7qcL.png",
+						"url": "http://t.co/fBia7gKSn9",
+						"display_url": "pic.twitter.com/fBia7gKSn9",
+						"expanded_url": "https://twitter.com/naughtyxxxness/status/649934142197469184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 649934142197469200,
+						"source_status_id_str": "649934142197469184",
+						"source_user_id": 561534820,
+						"source_user_id_str": "561534820"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 649934084173529100,
+						"id_str": "649934084173529088",
+						"indices": [
+							0,
+							22
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/CQUHmyaVAAA7qcL.png",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CQUHmyaVAAA7qcL.png",
+						"url": "http://t.co/fBia7gKSn9",
+						"display_url": "pic.twitter.com/fBia7gKSn9",
+						"expanded_url": "https://twitter.com/naughtyxxxness/status/649934142197469184/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 649934142197469200,
+						"source_status_id_str": "649934142197469184",
+						"source_user_id": 561534820,
+						"source_user_id_str": "561534820",
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/CQUHmyaVAAA7qcL.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2518733306,
+				"id_str": "2518733306",
+				"name": "SexGif",
+				"screen_name": "SexGifx",
+				"location": "En tu cama.",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2321,
+				"friends_count": 428,
+				"listed_count": 9,
+				"created_at": "Fri May 23 21:32:58 +0000 2014",
+				"favourites_count": 125,
+				"utc_offset": -10800,
+				"time_zone": "Brasilia",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 538,
+				"lang": "es",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/516222487051657216/cnU_MAy8_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/516222487051657216/cnU_MAy8_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2518733306/1411911999",
+				"profile_link_color": "B30065",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 55,
+			"favorite_count": 45,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 55,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Mon Apr 10 18:38:58 +0000 2017",
+		"id": 851504795126857700,
+		"id_str": "851504795126857728",
+		"text": "RT @mr_sun_shine_: 친구들 앞에서 이런 수모라니.. https://t.co/r6CzJUg18n",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mr_sun_shine_",
+					"name": "어쩔수없어요, 이렇게 태어난걸요",
+					"id": 3241166220,
+					"id_str": "3241166220",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 685099070134693900,
+					"id_str": "685099070134693888",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/CYH1-XdUMAAxNvX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CYH1-XdUMAAxNvX.jpg",
+					"url": "https://t.co/r6CzJUg18n",
+					"display_url": "pic.twitter.com/r6CzJUg18n",
+					"expanded_url": "https://twitter.com/iam_dero/status/685099071393038336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 770,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 256,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 451,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 685099071393038300,
+					"source_status_id_str": "685099071393038336",
+					"source_user_id": 3241166220,
+					"source_user_id_str": "3241166220"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 685099070134693900,
+					"id_str": "685099070134693888",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/CYH1-XdUMAAxNvX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CYH1-XdUMAAxNvX.jpg",
+					"url": "https://t.co/r6CzJUg18n",
+					"display_url": "pic.twitter.com/r6CzJUg18n",
+					"expanded_url": "https://twitter.com/iam_dero/status/685099071393038336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 770,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 256,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 451,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 685099071393038300,
+					"source_status_id_str": "685099071393038336",
+					"source_user_id": 3241166220,
+					"source_user_id_str": "3241166220"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5715,
+			"friends_count": 1127,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5488,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125477,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jan 07 14:02:01 +0000 2016",
+			"id": 685099071393038300,
+			"id_str": "685099071393038336",
+			"text": "친구들 앞에서 이런 수모라니.. https://t.co/r6CzJUg18n",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 685099070134693900,
+						"id_str": "685099070134693888",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/media/CYH1-XdUMAAxNvX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CYH1-XdUMAAxNvX.jpg",
+						"url": "https://t.co/r6CzJUg18n",
+						"display_url": "pic.twitter.com/r6CzJUg18n",
+						"expanded_url": "https://twitter.com/iam_dero/status/685099071393038336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 770,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 256,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 451,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 685099070134693900,
+						"id_str": "685099070134693888",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/media/CYH1-XdUMAAxNvX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CYH1-XdUMAAxNvX.jpg",
+						"url": "https://t.co/r6CzJUg18n",
+						"display_url": "pic.twitter.com/r6CzJUg18n",
+						"expanded_url": "https://twitter.com/iam_dero/status/685099071393038336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 770,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 256,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 451,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3241166220,
+				"id_str": "3241166220",
+				"name": "어쩔수없어요, 이렇게 태어난걸요",
+				"screen_name": "mr_sun_shine_",
+				"location": "Seoul",
+				"description": "그냥 나로 존재하려구욥, 강요나 압박없이. 나에게 뿐만아니라 남에게도 그럴 수 있기를(제발). G삼땡",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 91,
+				"friends_count": 757,
+				"listed_count": 0,
+				"created_at": "Wed Jun 10 10:03:03 +0000 2015",
+				"favourites_count": 839,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 597,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "94D487",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/850187021566042112/T27zJDvM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/850187021566042112/T27zJDvM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3241166220/1485227780",
+				"profile_link_color": "F5ABB5",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2338,
+			"favorite_count": 325,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2338,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Apr 10 18:36:38 +0000 2017",
+		"id": 851504208490528800,
+		"id_str": "851504208490528768",
+		"text": "새벽이니 즐떡 https://t.co/KnhreQ4jqA",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 851504184557936600,
+					"id_str": "851504184557936640",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/media/C9Emi11VoAA4o14.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9Emi11VoAA4o14.jpg",
+					"url": "https://t.co/KnhreQ4jqA",
+					"display_url": "pic.twitter.com/KnhreQ4jqA",
+					"expanded_url": "https://twitter.com/crzbro/status/851504208490528768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 851504184557936600,
+					"id_str": "851504184557936640",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/media/C9Emi11VoAA4o14.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9Emi11VoAA4o14.jpg",
+					"url": "https://t.co/KnhreQ4jqA",
+					"display_url": "pic.twitter.com/KnhreQ4jqA",
+					"expanded_url": "https://twitter.com/crzbro/status/851504208490528768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5715,
+			"friends_count": 1127,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5488,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125477,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Apr 10 18:29:55 +0000 2017",
+		"id": 851502521235324900,
+		"id_str": "851502521235324928",
+		"text": "너무 참신한 개소리라 웃김 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/ahYfkwdPT4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ahYfkwdPT4",
+					"expanded_url": "https://twitter.com/clien_hot20/status/851498973852569601",
+					"display_url": "twitter.com/clien_hot20/st…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5715,
+			"friends_count": 1127,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5488,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125477,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 851498973852569600,
+		"quoted_status_id_str": "851498973852569601",
+		"quoted_status": {
+			"created_at": "Mon Apr 10 18:15:50 +0000 2017",
+			"id": 851498973852569600,
+			"id_str": "851498973852569601",
+			"text": "다시 설명해 드리죠 [87] https://t.co/uuqBA23YhW",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/uuqBA23YhW",
+						"expanded_url": "http://ift.tt/2pmtbhH",
+						"display_url": "ift.tt/2pmtbhH",
+						"indices": [
+							16,
+							39
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1871962392,
+				"id_str": "1871962392",
+				"name": "클리앙 HOT20",
+				"screen_name": "clien_hot20",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1135,
+				"friends_count": 0,
+				"listed_count": 40,
+				"created_at": "Mon Sep 16 15:11:10 +0000 2013",
+				"favourites_count": 0,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 127400,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/434846044845658112/FDutUeNz_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/434846044845658112/FDutUeNz_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Apr 10 18:22:44 +0000 2017",
+		"id": 851500710034260000,
+		"id_str": "851500710034259968",
+		"text": "RT @slickdeals: 256GB Microsoft Surface 4 Pro 12.3\" Tablet (Silver) $880 + Free Shipping https://t.co/tj32hkoehf",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "slickdeals",
+					"name": "slickdeals",
+					"id": 7542702,
+					"id_str": "7542702",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tj32hkoehf",
+					"expanded_url": "https://slickdeals.net/f/10038080-256gb-microsoft-12-3-surface-4-pro-i5-cpu-8gb-memory-256gb-ssd-2736x1824-screen-more-880-free-shipping?utm_campaign=278948&utm_medium=fptweet&utm_source=twitter",
+					"display_url": "slickdeals.net/f/10038080-256…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5715,
+			"friends_count": 1127,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5488,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125477,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 10 18:20:38 +0000 2017",
+			"id": 851500183246389200,
+			"id_str": "851500183246389250",
+			"text": "256GB Microsoft Surface 4 Pro 12.3\" Tablet (Silver) $880 + Free Shipping https://t.co/tj32hkoehf",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/tj32hkoehf",
+						"expanded_url": "https://slickdeals.net/f/10038080-256gb-microsoft-12-3-surface-4-pro-i5-cpu-8gb-memory-256gb-ssd-2736x1824-screen-more-880-free-shipping?utm_campaign=278948&utm_medium=fptweet&utm_source=twitter",
+						"display_url": "slickdeals.net/f/10038080-256…",
+						"indices": [
+							73,
+							96
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://slickdeals.net\" rel=\"nofollow\">Slickdeals</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7542702,
+				"id_str": "7542702",
+				"name": "slickdeals",
+				"screen_name": "slickdeals",
+				"location": "",
+				"description": "The largest & best community driven deal sharing site for deals and coupons! https://t.co/KfovNh8vOY Check out our News section at https://t.co/DM09hl7KcC",
+				"url": "https://t.co/Szmo4c315F",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Szmo4c315F",
+								"expanded_url": "https://slickdeals.net/",
+								"display_url": "slickdeals.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/KfovNh8vOY",
+								"expanded_url": "https://slickdeals.net",
+								"display_url": "slickdeals.net",
+								"indices": [
+									77,
+									100
+								]
+							},
+							{
+								"url": "https://t.co/DM09hl7KcC",
+								"expanded_url": "https://slickdeals.net/news/",
+								"display_url": "slickdeals.net/news/",
+								"indices": [
+									131,
+									154
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 206716,
+				"friends_count": 351,
+				"listed_count": 4506,
+				"created_at": "Tue Jul 17 21:51:48 +0000 2007",
+				"favourites_count": 1207,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 103115,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/38457633/sdtwitterbg.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/38457633/sdtwitterbg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/525336046439919616/5y0yLwmJ_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/525336046439919616/5y0yLwmJ_normal.png",
+				"profile_link_color": "0065AD",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "595959",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Apr 10 18:04:42 +0000 2017",
 		"id": 851496175182069800,
 		"id_str": "851496175182069765",
@@ -1130,7 +2377,7 @@ Grailbird.data.tweets_2017_04 =
 							"name": "ヘイリー 넛님",
 							"screen_name": "asuna_haelz",
 							"location": "알아서뭐함 딩가딩가",
-							"description": "뉴질랜드 LGBT 🏳️‍🌈 / SKE48 쥬리나오시 / ONE OK ROCK / Messgram / 잘문다 / 취미로 작곡합니다 - 주로 음악 위주로 이야기를 하고싶은데 가끔 다른것들도 많이 올라옵니다.",
+							"description": "뉴질랜드 LGBT 🏳️🌈 / SKE48 쥬리나오시 / ONE OK ROCK / Messgram / 잘문다 / 취미로 작곡합니다 - 주로 음악 위주로 이야기를 하고싶은데 가끔 다른것들도 많이 올라옵니다.",
 							"url": null,
 							"entities": {
 								"description": {
@@ -1367,7 +2614,7 @@ Grailbird.data.tweets_2017_04 =
 				"name": "ヘイリー 넛님",
 				"screen_name": "asuna_haelz",
 				"location": "알아서뭐함 딩가딩가",
-				"description": "뉴질랜드 LGBT 🏳️‍🌈 / SKE48 쥬리나오시 / ONE OK ROCK / Messgram / 잘문다 / 취미로 작곡합니다 - 주로 음악 위주로 이야기를 하고싶은데 가끔 다른것들도 많이 올라옵니다.",
+				"description": "뉴질랜드 LGBT 🏳️🌈 / SKE48 쥬리나오시 / ONE OK ROCK / Messgram / 잘문다 / 취미로 작곡합니다 - 주로 음악 위주로 이야기를 하고싶은데 가끔 다른것들도 많이 올라옵니다.",
 				"url": null,
 				"entities": {
 					"description": {
