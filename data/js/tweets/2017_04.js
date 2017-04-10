@@ -1,6 +1,409 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Mon Apr 10 12:59:59 +0000 2017",
+		"id": 851419489568563200,
+		"id_str": "851419489568563201",
+		"text": "RT @fakemommy: 안철수의 제일 황당한 부분은 자기 딸 재산은 2014년부터 비공개로 돌려놓았으면서 2015년에 일명 '음서제방지법'인 공직자윤리법 개정안을 본인이 발의했다는 점. '나 빼고 법대로' 너무 적나라해서 좀 어이없다.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fakemommy",
+					"name": "루나(안남시 참교육 학부모회장)",
+					"id": 453845917,
+					"id_str": "453845917",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5715,
+			"friends_count": 1127,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5487,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125440,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 10 08:14:26 +0000 2017",
+			"id": 851347629665419300,
+			"id_str": "851347629665419264",
+			"text": "안철수의 제일 황당한 부분은 자기 딸 재산은 2014년부터 비공개로 돌려놓았으면서 2015년에 일명 '음서제방지법'인 공직자윤리법 개정안을 본인이 발의했다는 점. '나 빼고 법대로' 너무 적나라해서 좀 어이없다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 453845917,
+				"id_str": "453845917",
+				"name": "루나(안남시 참교육 학부모회장)",
+				"screen_name": "fakemommy",
+				"location": "대한민국 어딘가",
+				"description": "애엄마, 가끔 욕도 합니다. 공감한답시고 반말하는 사람, 인용알티 싫어합니다.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5380,
+				"friends_count": 848,
+				"listed_count": 79,
+				"created_at": "Tue Jan 03 10:30:36 +0000 2012",
+				"favourites_count": 744,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 29463,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2132184900/____normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2132184900/____normal.jpg",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 172,
+			"favorite_count": 50,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 172,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Apr 10 12:57:08 +0000 2017",
+		"id": 851418772829122600,
+		"id_str": "851418772829122562",
+		"text": "RT @ppomppu_co_kr: 세월호 기념사진 논란 국민의당 vs 더민주 팩트 체크 최종정리. https://t.co/SYdbcrApFH #ppomppu #뽐뿌",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ppomppu",
+					"indices": [
+						79,
+						87
+					]
+				},
+				{
+					"text": "뽐뿌",
+					"indices": [
+						88,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ppomppu_co_kr",
+					"name": "ppomppu",
+					"id": 110123115,
+					"id_str": "110123115",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SYdbcrApFH",
+					"expanded_url": "http://www.ppomppu.co.kr/zboard/view.php?id=freeboard&no=5215666",
+					"display_url": "ppomppu.co.kr/zboard/view.ph…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5715,
+			"friends_count": 1127,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5487,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125440,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 10 12:50:03 +0000 2017",
+			"id": 851416990866579500,
+			"id_str": "851416990866579456",
+			"text": "세월호 기념사진 논란 국민의당 vs 더민주 팩트 체크 최종정리. https://t.co/SYdbcrApFH #ppomppu #뽐뿌",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ppomppu",
+						"indices": [
+							60,
+							68
+						]
+					},
+					{
+						"text": "뽐뿌",
+						"indices": [
+							69,
+							72
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/SYdbcrApFH",
+						"expanded_url": "http://www.ppomppu.co.kr/zboard/view.php?id=freeboard&no=5215666",
+						"display_url": "ppomppu.co.kr/zboard/view.ph…",
+						"indices": [
+							36,
+							59
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.ppomppu.co.kr\" rel=\"nofollow\">PPOMPPU Hot</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 110123115,
+				"id_str": "110123115",
+				"name": "ppomppu",
+				"screen_name": "ppomppu_co_kr",
+				"location": "Secoul",
+				"description": "뽐뿌(http://t.co/RfOvWeFTDX)공식계정\n핫 게시글과 인기글을 자동으로 트윗합니다!",
+				"url": "http://t.co/VdR14fSRoF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/VdR14fSRoF",
+								"expanded_url": "http://www.ppomppu.co.kr",
+								"display_url": "ppomppu.co.kr",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/RfOvWeFTDX",
+								"expanded_url": "http://ppomppu.co.kr",
+								"display_url": "ppomppu.co.kr",
+								"indices": [
+									3,
+									25
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3110,
+				"friends_count": 82,
+				"listed_count": 146,
+				"created_at": "Sun Jan 31 12:21:15 +0000 2010",
+				"favourites_count": 0,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 221228,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2083428033/logo_normal.gif",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2083428033/logo_normal.gif",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Mon Apr 10 10:55:19 +0000 2017",
 		"id": 851388116812283900,
 		"id_str": "851388116812283904",
