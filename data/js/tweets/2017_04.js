@@ -1,6 +1,871 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Tue Apr 11 11:06:28 +0000 2017",
+		"id": 851753310671347700,
+		"id_str": "851753310671347712",
+		"text": "아오 예비군 가기 싫어…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5718,
+			"friends_count": 1127,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5488,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125500,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Apr 11 11:04:01 +0000 2017",
+		"id": 851752693114601500,
+		"id_str": "851752693114601472",
+		"text": "RT @OFF_nim: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ\n배민신춘문예 당선작중\n젤터진겈ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ\nㅋㅋㅋㅋㅋㅋ\nㅋㅋㅋ\nㅋ\nㅋㅋ\n\nㅋㅋ\nㅋㅋㅋㅋㅋㅋ\nㅋ\nㅋ\nㅋ\nㅋ\nㅋ\nㅋㅋㅋㅋㅋ\n\n와카레마시따~~~~ https://t.co/xXuL9wbgSc",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OFF_nim",
+					"name": "OFF",
+					"id": 2719520316,
+					"id_str": "2719520316",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 851632370427895800,
+					"id_str": "851632370427895808",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/C9GbIPaUIAAFK1m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9GbIPaUIAAFK1m.jpg",
+					"url": "https://t.co/xXuL9wbgSc",
+					"display_url": "pic.twitter.com/xXuL9wbgSc",
+					"expanded_url": "https://twitter.com/OFF_nim/status/851632486891175936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 325,
+							"h": 275,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 325,
+							"h": 275,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 325,
+							"h": 275,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 851632486891176000,
+					"source_status_id_str": "851632486891175936",
+					"source_user_id": 2719520316,
+					"source_user_id_str": "2719520316"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 851632370427895800,
+					"id_str": "851632370427895808",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/C9GbIPaUIAAFK1m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9GbIPaUIAAFK1m.jpg",
+					"url": "https://t.co/xXuL9wbgSc",
+					"display_url": "pic.twitter.com/xXuL9wbgSc",
+					"expanded_url": "https://twitter.com/OFF_nim/status/851632486891175936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 325,
+							"h": 275,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 325,
+							"h": 275,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 325,
+							"h": 275,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 851632486891176000,
+					"source_status_id_str": "851632486891175936",
+					"source_user_id": 2719520316,
+					"source_user_id_str": "2719520316"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5718,
+			"friends_count": 1127,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5488,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125500,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 11 03:06:22 +0000 2017",
+			"id": 851632486891176000,
+			"id_str": "851632486891175936",
+			"text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ\n배민신춘문예 당선작중\n젤터진겈ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ\nㅋㅋㅋㅋㅋㅋ\nㅋㅋㅋ\nㅋ\nㅋㅋ\n\nㅋㅋ\nㅋㅋㅋㅋㅋㅋ\nㅋ\nㅋ\nㅋ\nㅋ\nㅋ\nㅋㅋㅋㅋㅋ\n\n와카레마시따~~~~ https://t.co/xXuL9wbgSc",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 851632370427895800,
+						"id_str": "851632370427895808",
+						"indices": [
+							97,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/media/C9GbIPaUIAAFK1m.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9GbIPaUIAAFK1m.jpg",
+						"url": "https://t.co/xXuL9wbgSc",
+						"display_url": "pic.twitter.com/xXuL9wbgSc",
+						"expanded_url": "https://twitter.com/OFF_nim/status/851632486891175936/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 325,
+								"h": 275,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 325,
+								"h": 275,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 325,
+								"h": 275,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 851632370427895800,
+						"id_str": "851632370427895808",
+						"indices": [
+							97,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/media/C9GbIPaUIAAFK1m.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9GbIPaUIAAFK1m.jpg",
+						"url": "https://t.co/xXuL9wbgSc",
+						"display_url": "pic.twitter.com/xXuL9wbgSc",
+						"expanded_url": "https://twitter.com/OFF_nim/status/851632486891175936/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 325,
+								"h": 275,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 325,
+								"h": 275,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 325,
+								"h": 275,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2719520316,
+				"id_str": "2719520316",
+				"name": "OFF",
+				"screen_name": "OFF_nim",
+				"location": "에오르제아",
+				"description": "1차/앤캐덕후/프로야구(혀로즈)/god(호상)/잡담과낙서/ 앤오님이 그려주신 프사에 호흡곤란이온 오푸",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 105,
+				"friends_count": 99,
+				"listed_count": 1,
+				"created_at": "Sat Aug 09 15:15:10 +0000 2014",
+				"favourites_count": 770,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9026,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/830419020423712769/JGICFYxM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/830419020423712769/JGICFYxM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2719520316/1439396336",
+				"profile_link_color": "FFCC4D",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3220,
+			"favorite_count": 386,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3220,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Apr 11 11:02:35 +0000 2017",
+		"id": 851752331632754700,
+		"id_str": "851752331632754688",
+		"text": "RT @wikitree: 살아 있는 강아지 쓰레기봉투에 버린 여성 붙잡혀 https://t.co/i2wxBPULbD  #강아지 https://t.co/Bg95qVBXce",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "강아지",
+					"indices": [
+						66,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wikitree",
+					"name": "위키트리 WIKITREE",
+					"id": 47856818,
+					"id_str": "47856818",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/i2wxBPULbD",
+					"expanded_url": "http://i.wik.im/298302",
+					"display_url": "i.wik.im/298302",
+					"indices": [
+						41,
+						64
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 851632299779031000,
+					"id_str": "851632299779031041",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/C9GbEIOUAAEwT5R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9GbEIOUAAEwT5R.jpg",
+					"url": "https://t.co/Bg95qVBXce",
+					"display_url": "pic.twitter.com/Bg95qVBXce",
+					"expanded_url": "https://twitter.com/wikitree/status/851632301490323456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 399,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 906,
+							"h": 532,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 906,
+							"h": 532,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 851632301490323500,
+					"source_status_id_str": "851632301490323456",
+					"source_user_id": 47856818,
+					"source_user_id_str": "47856818"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 851632299779031000,
+					"id_str": "851632299779031041",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/C9GbEIOUAAEwT5R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9GbEIOUAAEwT5R.jpg",
+					"url": "https://t.co/Bg95qVBXce",
+					"display_url": "pic.twitter.com/Bg95qVBXce",
+					"expanded_url": "https://twitter.com/wikitree/status/851632301490323456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 399,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 906,
+							"h": 532,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 906,
+							"h": 532,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 851632301490323500,
+					"source_status_id_str": "851632301490323456",
+					"source_user_id": 47856818,
+					"source_user_id_str": "47856818"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5718,
+			"friends_count": 1127,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5488,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125500,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 11 03:05:37 +0000 2017",
+			"id": 851632301490323500,
+			"id_str": "851632301490323456",
+			"text": "살아 있는 강아지 쓰레기봉투에 버린 여성 붙잡혀 https://t.co/i2wxBPULbD  #강아지 https://t.co/Bg95qVBXce",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "강아지",
+						"indices": [
+							52,
+							56
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/i2wxBPULbD",
+						"expanded_url": "http://i.wik.im/298302",
+						"display_url": "i.wik.im/298302",
+						"indices": [
+							27,
+							50
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 851632299779031000,
+						"id_str": "851632299779031041",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/C9GbEIOUAAEwT5R.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9GbEIOUAAEwT5R.jpg",
+						"url": "https://t.co/Bg95qVBXce",
+						"display_url": "pic.twitter.com/Bg95qVBXce",
+						"expanded_url": "https://twitter.com/wikitree/status/851632301490323456/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 399,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 906,
+								"h": 532,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 906,
+								"h": 532,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 851632299779031000,
+						"id_str": "851632299779031041",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/C9GbEIOUAAEwT5R.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9GbEIOUAAEwT5R.jpg",
+						"url": "https://t.co/Bg95qVBXce",
+						"display_url": "pic.twitter.com/Bg95qVBXce",
+						"expanded_url": "https://twitter.com/wikitree/status/851632301490323456/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 399,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 906,
+								"h": 532,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 906,
+								"h": 532,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.wikitree.co.kr/\" rel=\"nofollow\">[위키트리] 소셜뉴스</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 47856818,
+				"id_str": "47856818",
+				"name": "위키트리 WIKITREE",
+				"screen_name": "wikitree",
+				"location": "대한민국 서울",
+				"description": "Wikid Voice 세상을 깨우는 재미진 목소리",
+				"url": "http://t.co/1rzZs7QDMx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/1rzZs7QDMx",
+								"expanded_url": "http://www.wikitree.co.kr",
+								"display_url": "wikitree.co.kr",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 318091,
+				"friends_count": 58356,
+				"listed_count": 6286,
+				"created_at": "Wed Jun 17 04:35:24 +0000 2009",
+				"favourites_count": 1899,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 198811,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "5BB601",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/704815553/8c4828c45546062abc77ec7a26d7bb70.gif",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/704815553/8c4828c45546062abc77ec7a26d7bb70.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/712467445294891008/AmnU95lu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/712467445294891008/AmnU95lu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/47856818/1471414258",
+				"profile_link_color": "7A56FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "CAE6CB",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2442,
+			"favorite_count": 120,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2442,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Apr 11 10:34:20 +0000 2017",
+		"id": 851745222702751700,
+		"id_str": "851745222702751745",
+		"text": "그렇다보니 당장 트위터만 봐도 '우리나라의 법과 사법부는 범죄자가 술을 마셨다고 하면 당연히 자동적으로 형을 감경해준다 → 그러니 일부러 술을 마시고 범행을 하면 감형받을 것이다' 같은 기적의 논리를 펴고, 이를 믿고 있는 사람들을 흔히 볼 수 있지.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 851737110277050400,
+		"in_reply_to_status_id_str": "851737110277050368",
+		"in_reply_to_user_id": 95255804,
+		"in_reply_to_user_id_str": "95255804",
+		"in_reply_to_screen_name": "crzbro",
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5718,
+			"friends_count": 1127,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5488,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125500,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Tue Apr 11 10:02:06 +0000 2017",
 		"id": 851737110277050400,
 		"id_str": "851737110277050368",
