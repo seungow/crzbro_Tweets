@@ -1,6 +1,1906 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Tue Apr 11 15:01:56 +0000 2017",
+		"id": 851812568414904300,
+		"id_str": "851812568414904320",
+		"text": "@yoonniim ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ SKT 유튜브 빠름???",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yoonniim",
+					"name": "윤꼬기",
+					"id": 150747685,
+					"id_str": "150747685",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 851812408863498200,
+		"in_reply_to_status_id_str": "851812408863498241",
+		"in_reply_to_user_id": 150747685,
+		"in_reply_to_user_id_str": "150747685",
+		"in_reply_to_screen_name": "yoonniim",
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5716,
+			"friends_count": 1127,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5488,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125535,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Apr 11 15:01:24 +0000 2017",
+		"id": 851812432804585500,
+		"id_str": "851812432804585472",
+		"text": "RT @bulbsheep: 취업전쟁에 수십군데 지원하느라 정신없을 수는 있죠. 그런데 저런 건 실수로 이해해줄 수 없는, 하면 안 되는 거에요. 회사 이름이 기억이 안나면 대신 주소를 물어본다는지, 공고에 있을 내용은 미리 확인해야죠. 심지어 전화를…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bulbsheep",
+					"name": "전구양",
+					"id": 63572488,
+					"id_str": "63572488",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5716,
+			"friends_count": 1127,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5488,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125535,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 11 14:57:04 +0000 2017",
+			"id": 851811343850012700,
+			"id_str": "851811343850012672",
+			"text": "취업전쟁에 수십군데 지원하느라 정신없을 수는 있죠. 그런데 저런 건 실수로 이해해줄 수 없는, 하면 안 되는 거에요. 회사 이름이 기억이 안나면 대신 주소를 물어본다는지, 공고에 있을 내용은 미리 확인해야죠. 심지어 전화를 건 게 지원자님이잖아요.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 851797384329744400,
+			"in_reply_to_status_id_str": "851797384329744384",
+			"in_reply_to_user_id": 63572488,
+			"in_reply_to_user_id_str": "63572488",
+			"in_reply_to_screen_name": "bulbsheep",
+			"user": {
+				"id": 63572488,
+				"id_str": "63572488",
+				"name": "전구양",
+				"screen_name": "bulbsheep",
+				"location": "Seoul, Korea",
+				"description": "워킹대드.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9166,
+				"friends_count": 1122,
+				"listed_count": 111,
+				"created_at": "Thu Aug 06 23:19:47 +0000 2009",
+				"favourites_count": 2477,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 64661,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "F5ABB5",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28367085/DSCF4080-1.JPG",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28367085/DSCF4080-1.JPG",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/757923550632083456/1YwDqP3A_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/757923550632083456/1YwDqP3A_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/63572488/1388708944",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Apr 11 15:01:20 +0000 2017",
+		"id": 851812417130553300,
+		"id_str": "851812417130553345",
+		"text": "RT @bulbsheep: 네 선의가 넘치는 회사에 가서 면접 잘 보시고, 면접볼 때 면접관한테 연장자시니 면접 스킬과 이력서 쓰는 방법을 가르쳐달라고 꼭 얘기하시기 바랍니다. 끝나고 나오실 때 회사 이름이 뭐였는지 물어보는 거 잊지 마시구요. @g…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bulbsheep",
+					"name": "전구양",
+					"id": 63572488,
+					"id_str": "63572488",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5716,
+			"friends_count": 1127,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5488,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125535,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 11 14:01:36 +0000 2017",
+			"id": 851797384329744400,
+			"id_str": "851797384329744384",
+			"text": "네 선의가 넘치는 회사에 가서 면접 잘 보시고, 면접볼 때 면접관한테 연장자시니 면접 스킬과 이력서 쓰는 방법을 가르쳐달라고 꼭 얘기하시기 바랍니다. 끝나고 나오실 때 회사 이름이 뭐였는지 물어보는 거 잊지… https://t.co/HRchYHEGhp",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/HRchYHEGhp",
+						"expanded_url": "https://twitter.com/i/web/status/851797384329744384",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 851606721558495200,
+			"in_reply_to_status_id_str": "851606721558495232",
+			"in_reply_to_user_id": 63572488,
+			"in_reply_to_user_id_str": "63572488",
+			"in_reply_to_screen_name": "bulbsheep",
+			"user": {
+				"id": 63572488,
+				"id_str": "63572488",
+				"name": "전구양",
+				"screen_name": "bulbsheep",
+				"location": "Seoul, Korea",
+				"description": "워킹대드.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9166,
+				"friends_count": 1122,
+				"listed_count": 111,
+				"created_at": "Thu Aug 06 23:19:47 +0000 2009",
+				"favourites_count": 2477,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 64661,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "F5ABB5",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28367085/DSCF4080-1.JPG",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28367085/DSCF4080-1.JPG",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/757923550632083456/1YwDqP3A_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/757923550632083456/1YwDqP3A_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/63572488/1388708944",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Apr 11 15:01:17 +0000 2017",
+		"id": 851812401204805600,
+		"id_str": "851812401204805633",
+		"text": "RT @bulbsheep: 우와....\n채용공고 어떤 지원자가 오늘 아침에 지원서류를 내고 전화가 왔는데, 이미 면접공고에 나와 있는 내용만 계속 물어보더니 마지막에, \"제가 지원을 많이 해서 그러는데 회사 이름이 뭐지요?\"라고...",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bulbsheep",
+					"name": "전구양",
+					"id": 63572488,
+					"id_str": "63572488",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5716,
+			"friends_count": 1127,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5488,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125535,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 11 01:06:17 +0000 2017",
+			"id": 851602268855992300,
+			"id_str": "851602268855992321",
+			"text": "우와....\n채용공고 어떤 지원자가 오늘 아침에 지원서류를 내고 전화가 왔는데, 이미 면접공고에 나와 있는 내용만 계속 물어보더니 마지막에, \"제가 지원을 많이 해서 그러는데 회사 이름이 뭐지요?\"라고...",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 63572488,
+				"id_str": "63572488",
+				"name": "전구양",
+				"screen_name": "bulbsheep",
+				"location": "Seoul, Korea",
+				"description": "워킹대드.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9166,
+				"friends_count": 1122,
+				"listed_count": 111,
+				"created_at": "Thu Aug 06 23:19:47 +0000 2009",
+				"favourites_count": 2477,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 64661,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "F5ABB5",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28367085/DSCF4080-1.JPG",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28367085/DSCF4080-1.JPG",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/757923550632083456/1YwDqP3A_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/757923550632083456/1YwDqP3A_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/63572488/1388708944",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 158,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 158,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Apr 11 14:59:19 +0000 2017",
+		"id": 851811910043410400,
+		"id_str": "851811910043410432",
+		"text": "나 내일 갤8 예약구매하러 가는데, 통신사 어디가 좋음? 번호이동해야 하고, 갈 곳은 SKT와 KT 중 하나임. 오지(5G)에서는 통신사 중에 어디가 괜찮으려나",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5716,
+			"friends_count": 1127,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5488,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125535,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Apr 11 14:49:46 +0000 2017",
+		"id": 851809505503400000,
+		"id_str": "851809505503399938",
+		"text": "RT @gnpths: 나는 예전부터 임경선을 싫어했는데 역사를 돌이켜보니 유희열 라디오때부터 였다 조금 비뚤어진 에고를 굉장히 특별하다고 생각하는 사람이라 싫어졌던 기억인데 트위터를 보면서는 자꾸 저렇게 정신머리가 왔다갔다 하시기에 실은 자존감이 무…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gnpths",
+					"name": "훼손",
+					"id": 2204551483,
+					"id_str": "2204551483",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5716,
+			"friends_count": 1127,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5488,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125535,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 10 13:48:40 +0000 2017",
+			"id": 851431739658428400,
+			"id_str": "851431739658428423",
+			"text": "나는 예전부터 임경선을 싫어했는데 역사를 돌이켜보니 유희열 라디오때부터 였다 조금 비뚤어진 에고를 굉장히 특별하다고 생각하는 사람이라 싫어졌던 기억인데 트위터를 보면서는 자꾸 저렇게 정신머리가 왔다갔다 하시… https://t.co/sVeEkLZYNT",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/sVeEkLZYNT",
+						"expanded_url": "https://twitter.com/i/web/status/851431739658428423",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2204551483,
+				"id_str": "2204551483",
+				"name": "훼손",
+				"screen_name": "gnpths",
+				"location": "http://ask.fm/gnpths",
+				"description": "부서진  조각들을 모으는 시절. 위로와 응원의 시절.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 168,
+				"friends_count": 74,
+				"listed_count": 6,
+				"created_at": "Wed Nov 20 08:50:10 +0000 2013",
+				"favourites_count": 1488,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1929,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/842035969649926144/NI-ozru__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/842035969649926144/NI-ozru__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2204551483/1490009037",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 851047757053702100,
+			"quoted_status_id_str": "851047757053702145",
+			"quoted_status": {
+				"created_at": "Sun Apr 09 12:22:51 +0000 2017",
+				"id": 851047757053702100,
+				"id_str": "851047757053702145",
+				"text": "자기 비판하는 멘션 쓰니까 블락을 주는 사람 @slowgoodbye https://t.co/EsRj8yu04d",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "slowgoodbye",
+							"name": "임경선",
+							"id": 56243288,
+							"id_str": "56243288",
+							"indices": [
+								25,
+								37
+							]
+						}
+					],
+					"urls": [],
+					"media": [
+						{
+							"id": 851047730637971500,
+							"id_str": "851047730637971458",
+							"indices": [
+								38,
+								61
+							],
+							"media_url": "http://pbs.twimg.com/media/C8-HZueUIAII1UE.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/C8-HZueUIAII1UE.jpg",
+							"url": "https://t.co/EsRj8yu04d",
+							"display_url": "pic.twitter.com/EsRj8yu04d",
+							"expanded_url": "https://twitter.com/jindolism/status/851047757053702145/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 674,
+									"h": 1200,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1151,
+									"h": 2048,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 382,
+									"h": 680,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 851047730637971500,
+							"id_str": "851047730637971458",
+							"indices": [
+								38,
+								61
+							],
+							"media_url": "http://pbs.twimg.com/media/C8-HZueUIAII1UE.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/C8-HZueUIAII1UE.jpg",
+							"url": "https://t.co/EsRj8yu04d",
+							"display_url": "pic.twitter.com/EsRj8yu04d",
+							"expanded_url": "https://twitter.com/jindolism/status/851047757053702145/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 674,
+									"h": 1200,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1151,
+									"h": 2048,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 382,
+									"h": 680,
+									"resize": "fit"
+								}
+							}
+						},
+						{
+							"id": 851047730591842300,
+							"id_str": "851047730591842306",
+							"indices": [
+								38,
+								61
+							],
+							"media_url": "http://pbs.twimg.com/media/C8-HZuTUQAISBHx.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/C8-HZuTUQAISBHx.jpg",
+							"url": "https://t.co/EsRj8yu04d",
+							"display_url": "pic.twitter.com/EsRj8yu04d",
+							"expanded_url": "https://twitter.com/jindolism/status/851047757053702145/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 675,
+									"h": 1200,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 383,
+									"h": 680,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 1152,
+									"h": 2048,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 112428896,
+					"id_str": "112428896",
+					"name": "Jay",
+					"screen_name": "jindolism",
+					"location": "",
+					"description": "#프로멀티노동자",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 2959,
+					"friends_count": 769,
+					"listed_count": 60,
+					"created_at": "Mon Feb 08 13:25:54 +0000 2010",
+					"favourites_count": 5507,
+					"utc_offset": 32400,
+					"time_zone": "Seoul",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 159397,
+					"lang": "ko",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/728212170626867200/HONkFdxP_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/728212170626867200/HONkFdxP_normal.jpg",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 217,
+				"favorite_count": 38,
+				"favorited": false,
+				"retweeted": true,
+				"possibly_sensitive": false,
+				"lang": "ko"
+			},
+			"retweet_count": 13,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 851047757053702100,
+		"quoted_status_id_str": "851047757053702145",
+		"retweet_count": 13,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Apr 11 14:48:16 +0000 2017",
+		"id": 851809126086656000,
+		"id_str": "851809126086656000",
+		"text": "RT @crzbro: 탐라에 매일같이 보이는 '갓양남 신앙'과 그 신도들을 볼 때마다, 그 갓양남과 결혼했다가 갖은 학대와 폭행, 그리고 시집살이에 시달리다 못해 이혼하고 한국으로 쫓겨나듯이 돌아온 지인 두 명의 이야기를 하고 싶을 때가 좀 있음.…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "crzbro",
+					"name": "미오",
+					"id": 95255804,
+					"id_str": "95255804",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5716,
+			"friends_count": 1127,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5488,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125535,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Dec 04 05:30:46 +0000 2015",
+			"id": 672649222798217200,
+			"id_str": "672649222798217217",
+			"text": "탐라에 매일같이 보이는 '갓양남 신앙'과 그 신도들을 볼 때마다, 그 갓양남과 결혼했다가 갖은 학대와 폭행, 그리고 시집살이에 시달리다 못해 이혼하고 한국으로 쫓겨나듯이 돌아온 지인 두 명의 이야기를 하고 싶을 때가 좀 있음. 그거 다 케바케…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 95255804,
+				"id_str": "95255804",
+				"name": "미오",
+				"screen_name": "crzbro",
+				"location": "sol",
+				"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5716,
+				"friends_count": 1127,
+				"listed_count": 124,
+				"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+				"favourites_count": 5488,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 125535,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 45,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Apr 11 14:47:36 +0000 2017",
+		"id": 851808961439256600,
+		"id_str": "851808961439256576",
+		"text": "RT @crzbro: 내가 지금까지 여러 경로로 만나보고 겪어보고 생활해 본 갓양남들의 속도 뭐 그렇게 크게 다르지 않더라… 심지어 한국에 와있는 갓양남들의 경우에는 한국 여성에 대해 묘한 편견을 느끼고 있는 경우가 많았음. 이 묘한 편견이 무엇인진…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "crzbro",
+					"name": "미오",
+					"id": 95255804,
+					"id_str": "95255804",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5716,
+			"friends_count": 1127,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5488,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125535,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Nov 21 08:10:27 +0000 2015",
+			"id": 667978364498522100,
+			"id_str": "667978364498522112",
+			"text": "내가 지금까지 여러 경로로 만나보고 겪어보고 생활해 본 갓양남들의 속도 뭐 그렇게 크게 다르지 않더라… 심지어 한국에 와있는 갓양남들의 경우에는 한국 여성에 대해 묘한 편견을 느끼고 있는 경우가 많았음. 이 묘한 편견이 무엇인진 탐라에 말하지 않기로-",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 95255804,
+				"id_str": "95255804",
+				"name": "미오",
+				"screen_name": "crzbro",
+				"location": "sol",
+				"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5716,
+				"friends_count": 1127,
+				"listed_count": 124,
+				"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+				"favourites_count": 5488,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 125535,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Apr 11 14:45:31 +0000 2017",
+		"id": 851808437209940000,
+		"id_str": "851808437209939968",
+		"text": "RT @anes_nurse: https://t.co/PxLm8tFzvS\n제가 이거 진짜 공유해드리고 싶은건데. 외국남자와의 연애도 기회가 된다면 생각해보는 분들은 필독. 나쁜남자 외국버전 걸러내기입니다. 한국거주하셨던 외국여성분께서 쓰신것. 한국말은…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "anes_nurse",
+					"name": "마취과 간호사",
+					"id": 4763489479,
+					"id_str": "4763489479",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PxLm8tFzvS",
+					"expanded_url": "http://mooingcow.tistory.com/m/entry/%EC%B9%BC%EB%9F%BC-%EC%84%9C%EC%96%91%EB%82%A8%EC%9E%90%EB%93%A4%EC%9D%98-%EA%B1%B0%EC%A7%93%EB%A7%90-%ED%95%9C%EA%B5%AD%EB%82%A8%EC%9E%90%EC%99%80-%EC%84%9C%EC%96%91%EB%82%A8%EC%9E%90%EC%9D%98-%EC%82%AC%EB%9E%91%EC%97%90-%EB%B9%A0%EC%A1%8C%EC%9D%84-%EB%95%8C%EC%9D%98-%EA%B3%B5%ED%86%B5%EC%A0%90-%EB%82%98%EC%81%9C-%EC%84%9C%EC%96%91-%EB%82%A8%EC%9E%90-%EA%B5%AC%EB%B3%84%EB%B2%95-%EB%93%B1",
+					"display_url": "mooingcow.tistory.com/m/entry/%EC%B9…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5716,
+			"friends_count": 1127,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5488,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125535,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 10 14:27:33 +0000 2017",
+			"id": 851441527997911000,
+			"id_str": "851441527997911041",
+			"text": "https://t.co/PxLm8tFzvS\n제가 이거 진짜 공유해드리고 싶은건데. 외국남자와의 연애도 기회가 된다면 생각해보는 분들은 필독. 나쁜남자 외국버전 걸러내기입니다. 한국거주하셨던 외국여성분께서 쓰신것. 한국말은 조금 어색한데 이해어렵진않아요",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/PxLm8tFzvS",
+						"expanded_url": "http://mooingcow.tistory.com/m/entry/%EC%B9%BC%EB%9F%BC-%EC%84%9C%EC%96%91%EB%82%A8%EC%9E%90%EB%93%A4%EC%9D%98-%EA%B1%B0%EC%A7%93%EB%A7%90-%ED%95%9C%EA%B5%AD%EB%82%A8%EC%9E%90%EC%99%80-%EC%84%9C%EC%96%91%EB%82%A8%EC%9E%90%EC%9D%98-%EC%82%AC%EB%9E%91%EC%97%90-%EB%B9%A0%EC%A1%8C%EC%9D%84-%EB%95%8C%EC%9D%98-%EA%B3%B5%ED%86%B5%EC%A0%90-%EB%82%98%EC%81%9C-%EC%84%9C%EC%96%91-%EB%82%A8%EC%9E%90-%EA%B5%AC%EB%B3%84%EB%B2%95-%EB%93%B1",
+						"display_url": "mooingcow.tistory.com/m/entry/%EC%B9…",
+						"indices": [
+							0,
+							23
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4763489479,
+				"id_str": "4763489479",
+				"name": "마취과 간호사",
+				"screen_name": "anes_nurse",
+				"location": "",
+				"description": "국제 연애중인 마취과 간호사. 외국인 남친과 병원에 대한 이야기를 합니다.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 854,
+				"friends_count": 45,
+				"listed_count": 5,
+				"created_at": "Fri Jan 15 15:12:52 +0000 2016",
+				"favourites_count": 43,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4646,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/688020590469484544/ngV-eRG0_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/688020590469484544/ngV-eRG0_normal.png",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2943,
+			"favorite_count": 1294,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2943,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Apr 11 14:40:30 +0000 2017",
+		"id": 851807174393081900,
+		"id_str": "851807174393081856",
+		"text": "RT @moonrise365: 맘카페 회원들이 안철수한테 분노하는 이유. 미쿡에서 일년 생활비만 몇억씩 쓰는 너한테는 한달 60만원이 껌값이겠지만 서민들 등골 휜다. https://t.co/AW9UxLA2EW",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "moonrise365",
+					"name": "Walking on the Moon",
+					"id": 1045836385,
+					"id_str": "1045836385",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 851761846914695200,
+					"id_str": "851761846914695172",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/C9IQ4w6UwAQPgrt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9IQ4w6UwAQPgrt.jpg",
+					"url": "https://t.co/AW9UxLA2EW",
+					"display_url": "pic.twitter.com/AW9UxLA2EW",
+					"expanded_url": "https://twitter.com/moonrise365/status/851762049885413376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 300,
+							"h": 422,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 300,
+							"h": 422,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 300,
+							"h": 422,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 851762049885413400,
+					"source_status_id_str": "851762049885413376",
+					"source_user_id": 1045836385,
+					"source_user_id_str": "1045836385"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 851761846914695200,
+					"id_str": "851761846914695172",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/C9IQ4w6UwAQPgrt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9IQ4w6UwAQPgrt.jpg",
+					"url": "https://t.co/AW9UxLA2EW",
+					"display_url": "pic.twitter.com/AW9UxLA2EW",
+					"expanded_url": "https://twitter.com/moonrise365/status/851762049885413376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 300,
+							"h": 422,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 300,
+							"h": 422,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 300,
+							"h": 422,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 851762049885413400,
+					"source_status_id_str": "851762049885413376",
+					"source_user_id": 1045836385,
+					"source_user_id_str": "1045836385"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5716,
+			"friends_count": 1127,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5488,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125535,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 11 11:41:12 +0000 2017",
+			"id": 851762049885413400,
+			"id_str": "851762049885413376",
+			"text": "맘카페 회원들이 안철수한테 분노하는 이유. 미쿡에서 일년 생활비만 몇억씩 쓰는 너한테는 한달 60만원이 껌값이겠지만 서민들 등골 휜다. https://t.co/AW9UxLA2EW",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 851761846914695200,
+						"id_str": "851761846914695172",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/C9IQ4w6UwAQPgrt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9IQ4w6UwAQPgrt.jpg",
+						"url": "https://t.co/AW9UxLA2EW",
+						"display_url": "pic.twitter.com/AW9UxLA2EW",
+						"expanded_url": "https://twitter.com/moonrise365/status/851762049885413376/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 300,
+								"h": 422,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 300,
+								"h": 422,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 300,
+								"h": 422,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 851761846914695200,
+						"id_str": "851761846914695172",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/C9IQ4w6UwAQPgrt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9IQ4w6UwAQPgrt.jpg",
+						"url": "https://t.co/AW9UxLA2EW",
+						"display_url": "pic.twitter.com/AW9UxLA2EW",
+						"expanded_url": "https://twitter.com/moonrise365/status/851762049885413376/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 300,
+								"h": 422,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 300,
+								"h": 422,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 300,
+								"h": 422,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1045836385,
+				"id_str": "1045836385",
+				"name": "Walking on the Moon",
+				"screen_name": "moonrise365",
+				"location": "",
+				"description": "매일 맑은 달이 뜨는 나라를 향해",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5585,
+				"friends_count": 3566,
+				"listed_count": 43,
+				"created_at": "Sat Dec 29 19:54:33 +0000 2012",
+				"favourites_count": 3586,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8601,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/750634810/06eeba8aeb30473819ec109af9e6f46c.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/750634810/06eeba8aeb30473819ec109af9e6f46c.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3040160117/393a7a7d2532e11a4360031090da01ab_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3040160117/393a7a7d2532e11a4360031090da01ab_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1045836385/1483800610",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 329,
+			"favorite_count": 88,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 329,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Tue Apr 11 12:54:25 +0000 2017",
 		"id": 851780478134702100,
 		"id_str": "851780478134702084",
