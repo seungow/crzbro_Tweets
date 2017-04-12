@@ -1,6 +1,578 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Wed Apr 12 04:54:42 +0000 2017",
+		"id": 852022137384616000,
+		"id_str": "852022137384615937",
+		"text": "헬로모바일이나 알뜰폰 통신사 뭐 이런데는 갤S8 불법보조금 막 쏴주는데 없나…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5718,
+			"friends_count": 1127,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5486,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125574,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Apr 12 04:48:22 +0000 2017",
+		"id": 852020544610238500,
+		"id_str": "852020544610238464",
+		"text": "RT @SteellraiN: 한걸레가 기사에 찰스의 클로즈업 사진만 고집하는 이유 https://t.co/JMyJ78dwnf",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SteellraiN",
+					"name": "①🌱The SteelraiN_강철비",
+					"id": 179338595,
+					"id_str": "179338595",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 851754076450603000,
+					"id_str": "851754076450603008",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/C9IJ0drUQAANern.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9IJ0drUQAANern.jpg",
+					"url": "https://t.co/JMyJ78dwnf",
+					"display_url": "pic.twitter.com/JMyJ78dwnf",
+					"expanded_url": "https://twitter.com/SteellraiN/status/851754523894857729/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1029,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1029,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 529,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 851754523894857700,
+					"source_status_id_str": "851754523894857729",
+					"source_user_id": 179338595,
+					"source_user_id_str": "179338595"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 851754076450603000,
+					"id_str": "851754076450603008",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/C9IJ0drUQAANern.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9IJ0drUQAANern.jpg",
+					"url": "https://t.co/JMyJ78dwnf",
+					"display_url": "pic.twitter.com/JMyJ78dwnf",
+					"expanded_url": "https://twitter.com/SteellraiN/status/851754523894857729/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1029,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1029,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 529,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 851754523894857700,
+					"source_status_id_str": "851754523894857729",
+					"source_user_id": 179338595,
+					"source_user_id_str": "179338595"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5718,
+			"friends_count": 1127,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5486,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125574,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 11 11:11:17 +0000 2017",
+			"id": 851754523894857700,
+			"id_str": "851754523894857729",
+			"text": "한걸레가 기사에 찰스의 클로즈업 사진만 고집하는 이유 https://t.co/JMyJ78dwnf",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 851754076450603000,
+						"id_str": "851754076450603008",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/media/C9IJ0drUQAANern.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9IJ0drUQAANern.jpg",
+						"url": "https://t.co/JMyJ78dwnf",
+						"display_url": "pic.twitter.com/JMyJ78dwnf",
+						"expanded_url": "https://twitter.com/SteellraiN/status/851754523894857729/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 800,
+								"h": 1029,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 1029,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 529,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 851754076450603000,
+						"id_str": "851754076450603008",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/media/C9IJ0drUQAANern.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9IJ0drUQAANern.jpg",
+						"url": "https://t.co/JMyJ78dwnf",
+						"display_url": "pic.twitter.com/JMyJ78dwnf",
+						"expanded_url": "https://twitter.com/SteellraiN/status/851754523894857729/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 800,
+								"h": 1029,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 1029,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 529,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 179338595,
+				"id_str": "179338595",
+				"name": "①🌱The SteelraiN_강철비",
+				"screen_name": "SteellraiN",
+				"location": "서울",
+				"description": "희망이 곧 무기다/더불어 민주당 권리당원/ 저는 문재인과 더불어 민주당 다이아몬드 지지층 입니다.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 21975,
+				"friends_count": 20097,
+				"listed_count": 69,
+				"created_at": "Tue Aug 17 02:02:04 +0000 2010",
+				"favourites_count": 875,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 104394,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/669282411/34dda431c923e0ecbd47cd445eea27ab.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/669282411/34dda431c923e0ecbd47cd445eea27ab.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/809325171911757824/jyC-Hlic_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/809325171911757824/jyC-Hlic_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/179338595/1491225742",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "E9DBA6",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "E4D498",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 910,
+			"favorite_count": 101,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 910,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Apr 12 04:48:00 +0000 2017",
+		"id": 852020453489033200,
+		"id_str": "852020453489033216",
+		"text": "RT @BLIDX: 정파성 운운하는 사람치고 본인이 정파성에 안빠져 있는 꼴을 못봤다",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLIDX",
+					"name": "jhoon",
+					"id": 99902846,
+					"id_str": "99902846",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5718,
+			"friends_count": 1127,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5486,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125574,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Apr 12 04:46:58 +0000 2017",
+			"id": 852020191189848000,
+			"id_str": "852020191189848065",
+			"text": "정파성 운운하는 사람치고 본인이 정파성에 안빠져 있는 꼴을 못봤다",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 99902846,
+				"id_str": "99902846",
+				"name": "jhoon",
+				"screen_name": "BLIDX",
+				"location": "Seoul, Korea",
+				"description": "망국의 유희 개발자",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9755,
+				"friends_count": 1782,
+				"listed_count": 163,
+				"created_at": "Mon Dec 28 08:56:36 +0000 2009",
+				"favourites_count": 1424,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 70714,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/600137832/profile_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/600137832/profile_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed Apr 12 04:04:31 +0000 2017",
 		"id": 852009508792549400,
 		"id_str": "852009508792549378",
