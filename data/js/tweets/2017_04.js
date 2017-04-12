@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Wed Apr 12 13:28:40 +0000 2017",
+		"id": 852151484145745900,
+		"id_str": "852151484145745920",
+		"text": "RT @mediamongu: 궁금했었는데... [취재일기] 안철수와 지하철 함께 탄 청년의 댓글은 왜 삭제됐을까? | 다음뉴스 https://t.co/ZrqGCJeR64",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mediamongu",
+					"name": "미디어몽구",
+					"id": 61760149,
+					"id_str": "61760149",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZrqGCJeR64",
+					"expanded_url": "http://v.media.daum.net/v/20170412060406974",
+					"display_url": "v.media.daum.net/v/201704120604…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5716,
+			"friends_count": 1127,
+			"listed_count": 0,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5487,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125601,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 11 22:17:53 +0000 2017",
+			"id": 851922275158773800,
+			"id_str": "851922275158773760",
+			"text": "궁금했었는데... [취재일기] 안철수와 지하철 함께 탄 청년의 댓글은 왜 삭제됐을까? | 다음뉴스 https://t.co/ZrqGCJeR64",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ZrqGCJeR64",
+						"expanded_url": "http://v.media.daum.net/v/20170412060406974",
+						"display_url": "v.media.daum.net/v/201704120604…",
+						"indices": [
+							55,
+							78
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 61760149,
+				"id_str": "61760149",
+				"name": "미디어몽구",
+				"screen_name": "mediamongu",
+				"location": "현장",
+				"description": "시대의기록자🎗",
+				"url": "https://t.co/tPayjRkhkp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tPayjRkhkp",
+								"expanded_url": "http://mongu.net",
+								"display_url": "mongu.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 310235,
+				"friends_count": 1660,
+				"listed_count": 5955,
+				"created_at": "Fri Jul 31 12:33:02 +0000 2009",
+				"favourites_count": 181,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9699,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/229901446/mongu_bg.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/229901446/mongu_bg.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1699113480/__2_reasonably_small_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1699113480/__2_reasonably_small_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/61760149/1462620235",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1296,
+			"favorite_count": 483,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1296,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed Apr 12 13:07:56 +0000 2017",
 		"id": 852146266234527700,
 		"id_str": "852146266234527746",
