@@ -1,6 +1,631 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Wed Apr 12 13:07:56 +0000 2017",
+		"id": 852146266234527700,
+		"id_str": "852146266234527746",
+		"text": "RT @JTBC_news: [JTBC 뉴스룸] #단독 국민의당 경선 '동원 의혹' 학생들의 카카오톡 단체방 화면 입수…당초 총학생회 해명과 달리 참가인원을 강제 할당하고 식사도 무료 제공해. 일부는 특정 후보를 찍으란 말도 들었다 밝혀.https:/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "단독",
+					"indices": [
+						26,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JTBC_news",
+					"name": "JTBC 뉴스",
+					"id": 397672819,
+					"id_str": "397672819",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5717,
+			"friends_count": 1127,
+			"listed_count": 0,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5487,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125600,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Apr 12 13:06:07 +0000 2017",
+			"id": 852145810561257500,
+			"id_str": "852145810561257473",
+			"text": "[JTBC 뉴스룸] #단독 국민의당 경선 '동원 의혹' 학생들의 카카오톡 단체방 화면 입수…당초 총학생회 해명과 달리 참가인원을 강제 할당하고 식사도 무료 제공해. 일부는 특정 후보를 찍으란 말도 들었다 밝… https://t.co/QLxj5MDlgA",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "단독",
+						"indices": [
+							11,
+							14
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/QLxj5MDlgA",
+						"expanded_url": "https://twitter.com/i/web/status/852145810561257473",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 397672819,
+				"id_str": "397672819",
+				"name": "JTBC 뉴스",
+				"screen_name": "JTBC_news",
+				"location": "서울시 마포구 상암산로 48-6",
+				"description": "JTBC 뉴스 공식 트위터입니다!!\n이곳은 트친 여러분의 이야기와 목소리에 귀 기울이는 곳입니다.\n많은 관심과 사랑 부탁드립니다. ^^",
+				"url": "http://t.co/CrCzofZgOd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/CrCzofZgOd",
+								"expanded_url": "http://facebook.com/jtbcnews",
+								"display_url": "facebook.com/jtbcnews",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 475511,
+				"friends_count": 51695,
+				"listed_count": 2253,
+				"created_at": "Tue Oct 25 00:50:16 +0000 2011",
+				"favourites_count": 303,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 46254,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "A9A9A9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/829154861392359424/Lxx50vdu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/829154861392359424/Lxx50vdu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/397672819/1490597618",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 64,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 64,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Apr 12 13:06:28 +0000 2017",
+		"id": 852145894992498700,
+		"id_str": "852145894992498690",
+		"text": "RT @Craft_Codes: 방문수령 시 제작해드리는 향수는 요 글라스에 나갑니다:) 한손에 쏙 들어오지만 은근 용량도 되고 스프레이도 짱짱해요!★  오신 김에 다양하게 시향도 해보세요&gt;&lt; https://t.co/OUPSRbWqJI",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Craft_Codes",
+					"name": "크라프트 코데즈",
+					"id": 2992818511,
+					"id_str": "2992818511",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 852066912938807300,
+					"id_str": "852066912938807296",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/C9MmV8aU0AAa40c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9MmV8aU0AAa40c.jpg",
+					"url": "https://t.co/OUPSRbWqJI",
+					"display_url": "pic.twitter.com/OUPSRbWqJI",
+					"expanded_url": "https://twitter.com/Craft_Codes/status/852066963593379841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 561,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 989,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1187,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 852066963593379800,
+					"source_status_id_str": "852066963593379841",
+					"source_user_id": 2992818511,
+					"source_user_id_str": "2992818511"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 852066912938807300,
+					"id_str": "852066912938807296",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/C9MmV8aU0AAa40c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9MmV8aU0AAa40c.jpg",
+					"url": "https://t.co/OUPSRbWqJI",
+					"display_url": "pic.twitter.com/OUPSRbWqJI",
+					"expanded_url": "https://twitter.com/Craft_Codes/status/852066963593379841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 561,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 989,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1187,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 852066963593379800,
+					"source_status_id_str": "852066963593379841",
+					"source_user_id": 2992818511,
+					"source_user_id_str": "2992818511"
+				},
+				{
+					"id": 852066935424532500,
+					"id_str": "852066935424532480",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/C9MmXQLVwAApc9e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9MmXQLVwAApc9e.jpg",
+					"url": "https://t.co/OUPSRbWqJI",
+					"display_url": "pic.twitter.com/OUPSRbWqJI",
+					"expanded_url": "https://twitter.com/Craft_Codes/status/852066963593379841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 504,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1517,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 889,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 852066963593379800,
+					"source_status_id_str": "852066963593379841",
+					"source_user_id": 2992818511,
+					"source_user_id_str": "2992818511"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5717,
+			"friends_count": 1127,
+			"listed_count": 0,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5487,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125600,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Apr 12 07:52:49 +0000 2017",
+			"id": 852066963593379800,
+			"id_str": "852066963593379841",
+			"text": "방문수령 시 제작해드리는 향수는 요 글라스에 나갑니다:) 한손에 쏙 들어오지만 은근 용량도 되고 스프레이도 짱짱해요!★  오신 김에 다양하게 시향도 해보세요&gt;&lt; https://t.co/OUPSRbWqJI",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 852066912938807300,
+						"id_str": "852066912938807296",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/C9MmV8aU0AAa40c.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9MmV8aU0AAa40c.jpg",
+						"url": "https://t.co/OUPSRbWqJI",
+						"display_url": "pic.twitter.com/OUPSRbWqJI",
+						"expanded_url": "https://twitter.com/Craft_Codes/status/852066963593379841/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 561,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 989,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1440,
+								"h": 1187,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 852066912938807300,
+						"id_str": "852066912938807296",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/C9MmV8aU0AAa40c.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9MmV8aU0AAa40c.jpg",
+						"url": "https://t.co/OUPSRbWqJI",
+						"display_url": "pic.twitter.com/OUPSRbWqJI",
+						"expanded_url": "https://twitter.com/Craft_Codes/status/852066963593379841/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 561,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 989,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1440,
+								"h": 1187,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 852066935424532500,
+						"id_str": "852066935424532480",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/C9MmXQLVwAApc9e.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9MmXQLVwAApc9e.jpg",
+						"url": "https://t.co/OUPSRbWqJI",
+						"display_url": "pic.twitter.com/OUPSRbWqJI",
+						"expanded_url": "https://twitter.com/Craft_Codes/status/852066963593379841/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 504,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1517,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 889,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2992818511,
+				"id_str": "2992818511",
+				"name": "크라프트 코데즈",
+				"screen_name": "Craft_Codes",
+				"location": "",
+				"description": "[사업자 : 217 12 77565/ 자가검사번호 : C-A09B-A102001-A150] 비누, 캔들, 디퓨저. 수공예 공방 크라프트 코데즈입니다:)* 왁스부터 부재료까지 오로지 내추럴을 고집합니다. 정성을 다할게요-.",
+				"url": "https://t.co/ofgU0gMQ4B",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ofgU0gMQ4B",
+								"expanded_url": "http://craft.codes",
+								"display_url": "craft.codes",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1275,
+				"friends_count": 172,
+				"listed_count": 31,
+				"created_at": "Fri Jan 23 02:08:26 +0000 2015",
+				"favourites_count": 1007,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2704,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/839759264344264705/E3HBtd3g_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/839759264344264705/E3HBtd3g_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2992818511/1489049859",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed Apr 12 11:43:01 +0000 2017",
 		"id": 852124895576170500,
 		"id_str": "852124895576170497",
