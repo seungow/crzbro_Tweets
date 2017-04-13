@@ -1,6 +1,2045 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Thu Apr 13 16:39:32 +0000 2017",
+		"id": 852561904492888000,
+		"id_str": "852561904492888064",
+		"text": "RT @01040405: 언젠가 탐라에서 봤던 글 꼭 기억하고 있다.누굴 뽑을지 고민된다면 세월호 유가족 욕했던 사람, 사대강 찬양했던 사람, 박근혜 뽑았던 사람이 지금 누굴 지지하는지를 보면 된다고. 그 사람을 피하면 된다고.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "01040405",
+					"name": "행여은삶",
+					"id": 140108420,
+					"id_str": "140108420",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5717,
+			"friends_count": 1127,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5486,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125610,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Apr 13 16:20:20 +0000 2017",
+			"id": 852557074282070000,
+			"id_str": "852557074282070016",
+			"text": "언젠가 탐라에서 봤던 글 꼭 기억하고 있다.누굴 뽑을지 고민된다면 세월호 유가족 욕했던 사람, 사대강 찬양했던 사람, 박근혜 뽑았던 사람이 지금 누굴 지지하는지를 보면 된다고. 그 사람을 피하면 된다고.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 140108420,
+				"id_str": "140108420",
+				"name": "행여은삶",
+				"screen_name": "01040405",
+				"location": "",
+				"description": "극단적인것들에 스트레스받음.\n맵고 슬프고 뜨겁고 소름끼치는 가창력 같은.\n고양이 여섯마리와 살아요.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 366,
+				"friends_count": 376,
+				"listed_count": 5,
+				"created_at": "Tue May 04 16:11:52 +0000 2010",
+				"favourites_count": 319,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6500,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/810740309776736257/00UXjWBE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/810740309776736257/00UXjWBE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/140108420/1380726571",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 36,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Apr 13 16:14:35 +0000 2017",
+		"id": 852555626873933800,
+		"id_str": "852555626873933825",
+		"text": "RT @FromWonderwall: '보좌관 저승사자' 안철수 선생의 부인 김미경씨의 보좌관 공유? - JTBC 뉴스룸 캡쳐 3\n\n김용남과 달리 폭력이 없는 것 같은데도 보좌관 대탈출 현상(Adexit)이 일어나는건 이런 이유가 아닐까. https:…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FromWonderwall",
+					"name": "shdqn",
+					"id": 2927747030,
+					"id_str": "2927747030",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5717,
+			"friends_count": 1127,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5486,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125610,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Apr 13 11:56:02 +0000 2017",
+			"id": 852490558798913500,
+			"id_str": "852490558798913536",
+			"text": "'보좌관 저승사자' 안철수 선생의 부인 김미경씨의 보좌관 공유? - JTBC 뉴스룸 캡쳐 3\n\n김용남과 달리 폭력이 없는 것 같은데도 보좌관 대탈출 현상(Adexit)이 일어나는건 이런 이유가 아닐까. https://t.co/yjuJRCsGZn",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 852490536434806800,
+						"id_str": "852490536434806784",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/C9SnoE6UMAAsQeP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9SnoE6UMAAsQeP.jpg",
+						"url": "https://t.co/yjuJRCsGZn",
+						"display_url": "pic.twitter.com/yjuJRCsGZn",
+						"expanded_url": "https://twitter.com/FromWonderwall/status/852490558798913536/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 852490536434806800,
+						"id_str": "852490536434806784",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/C9SnoE6UMAAsQeP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9SnoE6UMAAsQeP.jpg",
+						"url": "https://t.co/yjuJRCsGZn",
+						"display_url": "pic.twitter.com/yjuJRCsGZn",
+						"expanded_url": "https://twitter.com/FromWonderwall/status/852490558798913536/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 852490543036719100,
+						"id_str": "852490543036719104",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/C9SnodgVYAA-New.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9SnodgVYAA-New.jpg",
+						"url": "https://t.co/yjuJRCsGZn",
+						"display_url": "pic.twitter.com/yjuJRCsGZn",
+						"expanded_url": "https://twitter.com/FromWonderwall/status/852490558798913536/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 852490550615855100,
+						"id_str": "852490550615855105",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/C9Sno5vV0AEiWqZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9Sno5vV0AEiWqZ.jpg",
+						"url": "https://t.co/yjuJRCsGZn",
+						"display_url": "pic.twitter.com/yjuJRCsGZn",
+						"expanded_url": "https://twitter.com/FromWonderwall/status/852490558798913536/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 852488642496823300,
+			"in_reply_to_status_id_str": "852488642496823296",
+			"in_reply_to_user_id": 2927747030,
+			"in_reply_to_user_id_str": "2927747030",
+			"in_reply_to_screen_name": "FromWonderwall",
+			"user": {
+				"id": 2927747030,
+				"id_str": "2927747030",
+				"name": "shdqn",
+				"screen_name": "FromWonderwall",
+				"location": "",
+				"description": "여의도 4관왕-보좌관 저승사자 안철수(주먹) 연구 권위자",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 618,
+				"friends_count": 69,
+				"listed_count": 3,
+				"created_at": "Fri Dec 12 17:57:32 +0000 2014",
+				"favourites_count": 501,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5350,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/850487705926475778/46wslvRE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/850487705926475778/46wslvRE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2927747030/1488220812",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Apr 13 16:14:32 +0000 2017",
+		"id": 852555612877594600,
+		"id_str": "852555612877594628",
+		"text": "RT @FromWonderwall: '보좌관 저승사자' 안철수 선생의 부인 김미경씨의 보좌관 공유? - JTBC 뉴스룸 캡쳐 2 https://t.co/xW6nPsayRd",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FromWonderwall",
+					"name": "shdqn",
+					"id": 2927747030,
+					"id_str": "2927747030",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 852488573920067600,
+					"id_str": "852488573920067584",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/C9Sl11-VwAAdOWy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9Sl11-VwAAdOWy.jpg",
+					"url": "https://t.co/xW6nPsayRd",
+					"display_url": "pic.twitter.com/xW6nPsayRd",
+					"expanded_url": "https://twitter.com/FromWonderwall/status/852488642496823296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 852488642496823300,
+					"source_status_id_str": "852488642496823296",
+					"source_user_id": 2927747030,
+					"source_user_id_str": "2927747030"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 852488573920067600,
+					"id_str": "852488573920067584",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/C9Sl11-VwAAdOWy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9Sl11-VwAAdOWy.jpg",
+					"url": "https://t.co/xW6nPsayRd",
+					"display_url": "pic.twitter.com/xW6nPsayRd",
+					"expanded_url": "https://twitter.com/FromWonderwall/status/852488642496823296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 852488642496823300,
+					"source_status_id_str": "852488642496823296",
+					"source_user_id": 2927747030,
+					"source_user_id_str": "2927747030"
+				},
+				{
+					"id": 852488593700290600,
+					"id_str": "852488593700290560",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/C9Sl2_qUAAAY4F6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9Sl2_qUAAAY4F6.jpg",
+					"url": "https://t.co/xW6nPsayRd",
+					"display_url": "pic.twitter.com/xW6nPsayRd",
+					"expanded_url": "https://twitter.com/FromWonderwall/status/852488642496823296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 852488642496823300,
+					"source_status_id_str": "852488642496823296",
+					"source_user_id": 2927747030,
+					"source_user_id_str": "2927747030"
+				},
+				{
+					"id": 852488602051268600,
+					"id_str": "852488602051268608",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/C9Sl3exV0AAJYJf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9Sl3exV0AAJYJf.jpg",
+					"url": "https://t.co/xW6nPsayRd",
+					"display_url": "pic.twitter.com/xW6nPsayRd",
+					"expanded_url": "https://twitter.com/FromWonderwall/status/852488642496823296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 852488642496823300,
+					"source_status_id_str": "852488642496823296",
+					"source_user_id": 2927747030,
+					"source_user_id_str": "2927747030"
+				},
+				{
+					"id": 852488609521205200,
+					"id_str": "852488609521205248",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/C9Sl36mUAAAKRR1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9Sl36mUAAAKRR1.jpg",
+					"url": "https://t.co/xW6nPsayRd",
+					"display_url": "pic.twitter.com/xW6nPsayRd",
+					"expanded_url": "https://twitter.com/FromWonderwall/status/852488642496823296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 852488642496823300,
+					"source_status_id_str": "852488642496823296",
+					"source_user_id": 2927747030,
+					"source_user_id_str": "2927747030"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5717,
+			"friends_count": 1127,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5486,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125610,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Apr 13 11:48:25 +0000 2017",
+			"id": 852488642496823300,
+			"id_str": "852488642496823296",
+			"text": "'보좌관 저승사자' 안철수 선생의 부인 김미경씨의 보좌관 공유? - JTBC 뉴스룸 캡쳐 2 https://t.co/xW6nPsayRd",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 852488573920067600,
+						"id_str": "852488573920067584",
+						"indices": [
+							52,
+							75
+						],
+						"media_url": "http://pbs.twimg.com/media/C9Sl11-VwAAdOWy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9Sl11-VwAAdOWy.jpg",
+						"url": "https://t.co/xW6nPsayRd",
+						"display_url": "pic.twitter.com/xW6nPsayRd",
+						"expanded_url": "https://twitter.com/FromWonderwall/status/852488642496823296/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 852488573920067600,
+						"id_str": "852488573920067584",
+						"indices": [
+							52,
+							75
+						],
+						"media_url": "http://pbs.twimg.com/media/C9Sl11-VwAAdOWy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9Sl11-VwAAdOWy.jpg",
+						"url": "https://t.co/xW6nPsayRd",
+						"display_url": "pic.twitter.com/xW6nPsayRd",
+						"expanded_url": "https://twitter.com/FromWonderwall/status/852488642496823296/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 852488593700290600,
+						"id_str": "852488593700290560",
+						"indices": [
+							52,
+							75
+						],
+						"media_url": "http://pbs.twimg.com/media/C9Sl2_qUAAAY4F6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9Sl2_qUAAAY4F6.jpg",
+						"url": "https://t.co/xW6nPsayRd",
+						"display_url": "pic.twitter.com/xW6nPsayRd",
+						"expanded_url": "https://twitter.com/FromWonderwall/status/852488642496823296/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 852488602051268600,
+						"id_str": "852488602051268608",
+						"indices": [
+							52,
+							75
+						],
+						"media_url": "http://pbs.twimg.com/media/C9Sl3exV0AAJYJf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9Sl3exV0AAJYJf.jpg",
+						"url": "https://t.co/xW6nPsayRd",
+						"display_url": "pic.twitter.com/xW6nPsayRd",
+						"expanded_url": "https://twitter.com/FromWonderwall/status/852488642496823296/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 852488609521205200,
+						"id_str": "852488609521205248",
+						"indices": [
+							52,
+							75
+						],
+						"media_url": "http://pbs.twimg.com/media/C9Sl36mUAAAKRR1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9Sl36mUAAAKRR1.jpg",
+						"url": "https://t.co/xW6nPsayRd",
+						"display_url": "pic.twitter.com/xW6nPsayRd",
+						"expanded_url": "https://twitter.com/FromWonderwall/status/852488642496823296/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 852488378326982700,
+			"in_reply_to_status_id_str": "852488378326982656",
+			"in_reply_to_user_id": 2927747030,
+			"in_reply_to_user_id_str": "2927747030",
+			"in_reply_to_screen_name": "FromWonderwall",
+			"user": {
+				"id": 2927747030,
+				"id_str": "2927747030",
+				"name": "shdqn",
+				"screen_name": "FromWonderwall",
+				"location": "",
+				"description": "여의도 4관왕-보좌관 저승사자 안철수(주먹) 연구 권위자",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 618,
+				"friends_count": 69,
+				"listed_count": 3,
+				"created_at": "Fri Dec 12 17:57:32 +0000 2014",
+				"favourites_count": 501,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5350,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/850487705926475778/46wslvRE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/850487705926475778/46wslvRE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2927747030/1488220812",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Apr 13 16:14:30 +0000 2017",
+		"id": 852555603717218300,
+		"id_str": "852555603717218304",
+		"text": "RT @FromWonderwall: '보좌관 저승사자' 안철수 선생의 부인 김미경씨의 보좌관 이용 - JTBC 뉴스룸 캡쳐 https://t.co/mdT9PA7ugN",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FromWonderwall",
+					"name": "shdqn",
+					"id": 2927747030,
+					"id_str": "2927747030",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 852488205832077300,
+					"id_str": "852488205832077312",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/C9SlgavUwAAgWkx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9SlgavUwAAgWkx.jpg",
+					"url": "https://t.co/mdT9PA7ugN",
+					"display_url": "pic.twitter.com/mdT9PA7ugN",
+					"expanded_url": "https://twitter.com/FromWonderwall/status/852488378326982656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 852488378326982700,
+					"source_status_id_str": "852488378326982656",
+					"source_user_id": 2927747030,
+					"source_user_id_str": "2927747030"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 852488205832077300,
+					"id_str": "852488205832077312",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/C9SlgavUwAAgWkx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9SlgavUwAAgWkx.jpg",
+					"url": "https://t.co/mdT9PA7ugN",
+					"display_url": "pic.twitter.com/mdT9PA7ugN",
+					"expanded_url": "https://twitter.com/FromWonderwall/status/852488378326982656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 852488378326982700,
+					"source_status_id_str": "852488378326982656",
+					"source_user_id": 2927747030,
+					"source_user_id_str": "2927747030"
+				},
+				{
+					"id": 852488216380702700,
+					"id_str": "852488216380702720",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/C9SlhCCUAAANwgM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9SlhCCUAAANwgM.jpg",
+					"url": "https://t.co/mdT9PA7ugN",
+					"display_url": "pic.twitter.com/mdT9PA7ugN",
+					"expanded_url": "https://twitter.com/FromWonderwall/status/852488378326982656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 852488378326982700,
+					"source_status_id_str": "852488378326982656",
+					"source_user_id": 2927747030,
+					"source_user_id_str": "2927747030"
+				},
+				{
+					"id": 852488222697373700,
+					"id_str": "852488222697373696",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/C9SlhZkUwAAOdV3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9SlhZkUwAAOdV3.jpg",
+					"url": "https://t.co/mdT9PA7ugN",
+					"display_url": "pic.twitter.com/mdT9PA7ugN",
+					"expanded_url": "https://twitter.com/FromWonderwall/status/852488378326982656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 852488378326982700,
+					"source_status_id_str": "852488378326982656",
+					"source_user_id": 2927747030,
+					"source_user_id_str": "2927747030"
+				},
+				{
+					"id": 852488230314299400,
+					"id_str": "852488230314299392",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/C9Slh18V0AAglJT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9Slh18V0AAglJT.jpg",
+					"url": "https://t.co/mdT9PA7ugN",
+					"display_url": "pic.twitter.com/mdT9PA7ugN",
+					"expanded_url": "https://twitter.com/FromWonderwall/status/852488378326982656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 852488378326982700,
+					"source_status_id_str": "852488378326982656",
+					"source_user_id": 2927747030,
+					"source_user_id_str": "2927747030"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5717,
+			"friends_count": 1127,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5486,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125610,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Apr 13 11:47:22 +0000 2017",
+			"id": 852488378326982700,
+			"id_str": "852488378326982656",
+			"text": "'보좌관 저승사자' 안철수 선생의 부인 김미경씨의 보좌관 이용 - JTBC 뉴스룸 캡쳐 https://t.co/mdT9PA7ugN",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 852488205832077300,
+						"id_str": "852488205832077312",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/C9SlgavUwAAgWkx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9SlgavUwAAgWkx.jpg",
+						"url": "https://t.co/mdT9PA7ugN",
+						"display_url": "pic.twitter.com/mdT9PA7ugN",
+						"expanded_url": "https://twitter.com/FromWonderwall/status/852488378326982656/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 852488205832077300,
+						"id_str": "852488205832077312",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/C9SlgavUwAAgWkx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9SlgavUwAAgWkx.jpg",
+						"url": "https://t.co/mdT9PA7ugN",
+						"display_url": "pic.twitter.com/mdT9PA7ugN",
+						"expanded_url": "https://twitter.com/FromWonderwall/status/852488378326982656/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 852488216380702700,
+						"id_str": "852488216380702720",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/C9SlhCCUAAANwgM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9SlhCCUAAANwgM.jpg",
+						"url": "https://t.co/mdT9PA7ugN",
+						"display_url": "pic.twitter.com/mdT9PA7ugN",
+						"expanded_url": "https://twitter.com/FromWonderwall/status/852488378326982656/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 852488222697373700,
+						"id_str": "852488222697373696",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/C9SlhZkUwAAOdV3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9SlhZkUwAAOdV3.jpg",
+						"url": "https://t.co/mdT9PA7ugN",
+						"display_url": "pic.twitter.com/mdT9PA7ugN",
+						"expanded_url": "https://twitter.com/FromWonderwall/status/852488378326982656/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 852488230314299400,
+						"id_str": "852488230314299392",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/C9Slh18V0AAglJT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9Slh18V0AAglJT.jpg",
+						"url": "https://t.co/mdT9PA7ugN",
+						"display_url": "pic.twitter.com/mdT9PA7ugN",
+						"expanded_url": "https://twitter.com/FromWonderwall/status/852488378326982656/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 852487525734137900,
+			"in_reply_to_status_id_str": "852487525734137857",
+			"in_reply_to_user_id": 2927747030,
+			"in_reply_to_user_id_str": "2927747030",
+			"in_reply_to_screen_name": "FromWonderwall",
+			"user": {
+				"id": 2927747030,
+				"id_str": "2927747030",
+				"name": "shdqn",
+				"screen_name": "FromWonderwall",
+				"location": "",
+				"description": "여의도 4관왕-보좌관 저승사자 안철수(주먹) 연구 권위자",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 618,
+				"friends_count": 69,
+				"listed_count": 3,
+				"created_at": "Fri Dec 12 17:57:32 +0000 2014",
+				"favourites_count": 501,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5350,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/850487705926475778/46wslvRE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/850487705926475778/46wslvRE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2927747030/1488220812",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 29,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Apr 13 16:14:29 +0000 2017",
+		"id": 852555598549794800,
+		"id_str": "852555598549794816",
+		"text": "RT @FromWonderwall: '보좌관 저승사자' 안철수 선생\n- 2년 9개월 동안(2013년 5월 ~ 2016년 2월) 23명 도주\n\n사진1 : 안철수 선생을 떠나며 성호사설을 인용한 보좌관(현재는 삭제)\n사진2 : 안선생 보좌관 대탈출, 나…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FromWonderwall",
+					"name": "shdqn",
+					"id": 2927747030,
+					"id_str": "2927747030",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5717,
+			"friends_count": 1127,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5486,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125610,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Apr 13 11:43:59 +0000 2017",
+			"id": 852487525734137900,
+			"id_str": "852487525734137857",
+			"text": "'보좌관 저승사자' 안철수 선생\n- 2년 9개월 동안(2013년 5월 ~ 2016년 2월) 23명 도주\n\n사진1 : 안철수 선생을 떠나며 성호사설을 인용한 보좌관(현재는 삭제)\n사진2 : 안선생 보좌관 대탈… https://t.co/1TbnRE5kdU",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/1TbnRE5kdU",
+						"expanded_url": "https://twitter.com/i/web/status/852487525734137857",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 852486873846960100,
+			"in_reply_to_status_id_str": "852486873846960128",
+			"in_reply_to_user_id": 2927747030,
+			"in_reply_to_user_id_str": "2927747030",
+			"in_reply_to_screen_name": "FromWonderwall",
+			"user": {
+				"id": 2927747030,
+				"id_str": "2927747030",
+				"name": "shdqn",
+				"screen_name": "FromWonderwall",
+				"location": "",
+				"description": "여의도 4관왕-보좌관 저승사자 안철수(주먹) 연구 권위자",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 618,
+				"friends_count": 69,
+				"listed_count": 3,
+				"created_at": "Fri Dec 12 17:57:32 +0000 2014",
+				"favourites_count": 501,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5350,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/850487705926475778/46wslvRE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/850487705926475778/46wslvRE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2927747030/1488220812",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 66,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 66,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Apr 13 16:14:25 +0000 2017",
+		"id": 852555585035812900,
+		"id_str": "852555585035812864",
+		"text": "RT @FromWonderwall: '보좌관 저승사자', '여의도 4관왕' 안철수 선생의 보좌관 도주가 얼마나 심각한 일인지 비교해보겠다.\n\n개누리당 김용남 의원 (2014년 7.30 재보궐 선거로 국회 입성)\n- 보좌관을 두들겨 패고 욕해서 13개…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FromWonderwall",
+					"name": "shdqn",
+					"id": 2927747030,
+					"id_str": "2927747030",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5717,
+			"friends_count": 1127,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5486,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125610,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Apr 13 11:41:23 +0000 2017",
+			"id": 852486873846960100,
+			"id_str": "852486873846960128",
+			"text": "'보좌관 저승사자', '여의도 4관왕' 안철수 선생의 보좌관 도주가 얼마나 심각한 일인지 비교해보겠다.\n\n개누리당 김용남 의원 (2014년 7.30 재보궐 선거로 국회 입성)\n- 보좌관을 두들겨 패고 욕해서… https://t.co/qoizJrBQcB",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/qoizJrBQcB",
+						"expanded_url": "https://twitter.com/i/web/status/852486873846960128",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2927747030,
+				"id_str": "2927747030",
+				"name": "shdqn",
+				"screen_name": "FromWonderwall",
+				"location": "",
+				"description": "여의도 4관왕-보좌관 저승사자 안철수(주먹) 연구 권위자",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 618,
+				"friends_count": 69,
+				"listed_count": 3,
+				"created_at": "Fri Dec 12 17:57:32 +0000 2014",
+				"favourites_count": 501,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5350,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/850487705926475778/46wslvRE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/850487705926475778/46wslvRE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2927747030/1488220812",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 48,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Apr 13 16:13:05 +0000 2017",
+		"id": 852555250045132800,
+		"id_str": "852555250045132800",
+		"text": "[웹툰 자동 알림] 미생  [part2] 재연재 예고편 https://t.co/w8wsJezrqV",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/w8wsJezrqV",
+					"expanded_url": "https://goo.gl/fb/ysWh2G",
+					"display_url": "goo.gl/fb/ysWh2G",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.google.com/\" rel=\"nofollow\">Google</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5717,
+			"friends_count": 1127,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5486,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125610,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu Apr 13 16:01:19 +0000 2017",
 		"id": 852552286727356400,
 		"id_str": "852552286727356422",
