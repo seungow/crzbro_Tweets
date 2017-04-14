@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Fri Apr 14 01:36:32 +0000 2017",
+		"id": 852697043176902700,
+		"id_str": "852697043176902656",
+		"text": "RT @novaflare78: https://t.co/vbyaMFghwK 독버섯 체험담........ 너무 공포스럽다",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "novaflare78",
+					"name": "Filia the barbarian",
+					"id": 273786271,
+					"id_str": "273786271",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vbyaMFghwK",
+					"expanded_url": "http://www.todayhumor.co.kr/board/view.php?table=bestofbest&no=319881",
+					"display_url": "todayhumor.co.kr/board/view.php…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5717,
+			"friends_count": 1127,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5486,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125626,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Apr 13 02:31:09 +0000 2017",
+			"id": 852348403220594700,
+			"id_str": "852348403220594688",
+			"text": "https://t.co/vbyaMFghwK 독버섯 체험담........ 너무 공포스럽다",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/vbyaMFghwK",
+						"expanded_url": "http://www.todayhumor.co.kr/board/view.php?table=bestofbest&no=319881",
+						"display_url": "todayhumor.co.kr/board/view.php…",
+						"indices": [
+							0,
+							23
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 273786271,
+				"id_str": "273786271",
+				"name": "Filia the barbarian",
+				"screen_name": "novaflare78",
+				"location": "Korea",
+				"description": "아들딸엄마/육아지옥 독신천국/비자발적 실직자/ 프로 트잉여/novaflare 혹은 Filia /수내 팬/일베충혐오/ 트윗 내용 개인적 의견 많음 (적절히 필터링 요망)/부계정@Filia_teatime",
+				"url": "http://t.co/1tGL2ntTpD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/1tGL2ntTpD",
+								"expanded_url": "http://blog.naver.com/novaflare",
+								"display_url": "blog.naver.com/novaflare",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1292,
+				"friends_count": 516,
+				"listed_count": 23,
+				"created_at": "Tue Mar 29 04:45:21 +0000 2011",
+				"favourites_count": 15085,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 88973,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/838634715510898688/hZJnYeLu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/838634715510898688/hZJnYeLu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/273786271/1429072311",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 531,
+			"favorite_count": 113,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 531,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu Apr 13 19:53:13 +0000 2017",
 		"id": 852610645325258800,
 		"id_str": "852610645325258752",
@@ -356,7 +556,7 @@ Grailbird.data.tweets_2017_04 =
 			"user_mentions": [
 				{
 					"screen_name": "agarose326",
-					"name": "지애리👩🏻‍🔬",
+					"name": "지애리👩🏻🔬",
 					"id": 178500929,
 					"id_str": "178500929",
 					"indices": [
@@ -446,7 +646,7 @@ Grailbird.data.tweets_2017_04 =
 			"user": {
 				"id": 178500929,
 				"id_str": "178500929",
-				"name": "지애리👩🏻‍🔬",
+				"name": "지애리👩🏻🔬",
 				"screen_name": "agarose326",
 				"location": "돌고래호텔 ",
 				"description": "털털하고 뒤끝있어요~ If you love something, then YOU make it better. 초파리를 이용하여 12년째 이것저것에 대해 연구중. 처음에는 면역시스템, 그 다음에는 신경세포발생, 이제는 암 발생 및 조직성장과 소멸. 시애틀에 살아요.",
