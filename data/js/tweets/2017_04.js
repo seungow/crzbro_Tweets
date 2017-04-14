@@ -1,6 +1,380 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Fri Apr 14 12:23:04 +0000 2017",
+		"id": 852859749812981800,
+		"id_str": "852859749812981761",
+		"text": "RT @hankookilbo: 나사 중대발표 \"토성의 달에 생명체 가능성 있어\"\n\n특별 기자회견 열어 \"엘켈라두스에서 생명체의 에너지원 가능한 수소 분자 발견\"\n\nhttps://t.co/xCnyGD68ya https://t.co/Tp1lFl34Uc",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hankookilbo",
+					"name": "한국일보",
+					"id": 134371459,
+					"id_str": "134371459",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xCnyGD68ya",
+					"expanded_url": "https://goo.gl/DCw1gh",
+					"display_url": "goo.gl/DCw1gh",
+					"indices": [
+						91,
+						114
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 852854975919079400,
+					"id_str": "852854975919079425",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/C9XzFPyUwAELAzb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9XzFPyUwAELAzb.jpg",
+					"url": "https://t.co/Tp1lFl34Uc",
+					"display_url": "pic.twitter.com/Tp1lFl34Uc",
+					"expanded_url": "https://twitter.com/hankookilbo/status/852855055413690369/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 559,
+							"h": 326,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 559,
+							"h": 326,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 559,
+							"h": 326,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 852855055413690400,
+					"source_status_id_str": "852855055413690369",
+					"source_user_id": 134371459,
+					"source_user_id_str": "134371459"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 852854975919079400,
+					"id_str": "852854975919079425",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/C9XzFPyUwAELAzb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9XzFPyUwAELAzb.jpg",
+					"url": "https://t.co/Tp1lFl34Uc",
+					"display_url": "pic.twitter.com/Tp1lFl34Uc",
+					"expanded_url": "https://twitter.com/hankookilbo/status/852855055413690369/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 559,
+							"h": 326,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 559,
+							"h": 326,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 559,
+							"h": 326,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 852855055413690400,
+					"source_status_id_str": "852855055413690369",
+					"source_user_id": 134371459,
+					"source_user_id_str": "134371459"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5713,
+			"friends_count": 1128,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5487,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125640,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Apr 14 12:04:25 +0000 2017",
+			"id": 852855055413690400,
+			"id_str": "852855055413690369",
+			"text": "나사 중대발표 \"토성의 달에 생명체 가능성 있어\"\n\n특별 기자회견 열어 \"엘켈라두스에서 생명체의 에너지원 가능한 수소 분자 발견\"\n\nhttps://t.co/xCnyGD68ya https://t.co/Tp1lFl34Uc",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/xCnyGD68ya",
+						"expanded_url": "https://goo.gl/DCw1gh",
+						"display_url": "goo.gl/DCw1gh",
+						"indices": [
+							74,
+							97
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 852854975919079400,
+						"id_str": "852854975919079425",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/C9XzFPyUwAELAzb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9XzFPyUwAELAzb.jpg",
+						"url": "https://t.co/Tp1lFl34Uc",
+						"display_url": "pic.twitter.com/Tp1lFl34Uc",
+						"expanded_url": "https://twitter.com/hankookilbo/status/852855055413690369/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 559,
+								"h": 326,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 559,
+								"h": 326,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 559,
+								"h": 326,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 852854975919079400,
+						"id_str": "852854975919079425",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/C9XzFPyUwAELAzb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9XzFPyUwAELAzb.jpg",
+						"url": "https://t.co/Tp1lFl34Uc",
+						"display_url": "pic.twitter.com/Tp1lFl34Uc",
+						"expanded_url": "https://twitter.com/hankookilbo/status/852855055413690369/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 559,
+								"h": 326,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 559,
+								"h": 326,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 559,
+								"h": 326,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 134371459,
+				"id_str": "134371459",
+				"name": "한국일보",
+				"screen_name": "hankookilbo",
+				"location": "Seoul,KOREA",
+				"description": "한국일보 공식 트위터입니다. 치우치지 않는 신문.사실에 충실한 보도. 중도ㆍ정론지. 한국일보가 여러분에게 눈과 귀를 열고 있습니다. 어떤 제보도 어떤 지적도 환영합니다.\r\n02)724-2489~2490\r\nnews@hk.co.kr\r\nhttp://t.co/TXSUlvj7",
+				"url": "http://t.co/HpuZ3tGl9f",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/HpuZ3tGl9f",
+								"expanded_url": "http://www.hankookilbo.com",
+								"display_url": "hankookilbo.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/TXSUlvj7",
+								"expanded_url": "http://www.facebook.com/hkilbo",
+								"display_url": "facebook.com/hkilbo",
+								"indices": [
+									129,
+									149
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 108059,
+				"friends_count": 50519,
+				"listed_count": 2668,
+				"created_at": "Sun Apr 18 06:43:33 +0000 2010",
+				"favourites_count": 878,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 43892,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/741258876608090115/LTRiJbbn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/741258876608090115/LTRiJbbn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/134371459/1439279203",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 33,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Apr 14 11:15:16 +0000 2017",
 		"id": 852842688961327100,
 		"id_str": "852842688961327104",
