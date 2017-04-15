@@ -1,6 +1,698 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Sat Apr 15 16:07:02 +0000 2017",
+		"id": 853278501486473200,
+		"id_str": "853278501486473217",
+		"text": "RT @sametime21: 오늘같은 날에 복습 한 번 하고 가십시다. https://t.co/VnMnceiUEj",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sametime21",
+					"name": "봉구의 뒤태",
+					"id": 434213899,
+					"id_str": "434213899",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 853266496478302200,
+					"id_str": "853266496478302208",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/C9dpW5VU0AA3Vqq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9dpW5VU0AA3Vqq.jpg",
+					"url": "https://t.co/VnMnceiUEj",
+					"display_url": "pic.twitter.com/VnMnceiUEj",
+					"expanded_url": "https://twitter.com/sametime21/status/853266512706019331/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 581,
+							"h": 76,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 581,
+							"h": 76,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 76,
+							"h": 76,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 581,
+							"h": 76,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 853266512706019300,
+					"source_status_id_str": "853266512706019331",
+					"source_user_id": 434213899,
+					"source_user_id_str": "434213899"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 853266496478302200,
+					"id_str": "853266496478302208",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/C9dpW5VU0AA3Vqq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9dpW5VU0AA3Vqq.jpg",
+					"url": "https://t.co/VnMnceiUEj",
+					"display_url": "pic.twitter.com/VnMnceiUEj",
+					"expanded_url": "https://twitter.com/sametime21/status/853266512706019331/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 581,
+							"h": 76,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 581,
+							"h": 76,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 76,
+							"h": 76,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 581,
+							"h": 76,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 853266512706019300,
+					"source_status_id_str": "853266512706019331",
+					"source_user_id": 434213899,
+					"source_user_id_str": "434213899"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5711,
+			"friends_count": 1127,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5488,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125668,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 15 15:19:24 +0000 2017",
+			"id": 853266512706019300,
+			"id_str": "853266512706019331",
+			"text": "오늘같은 날에 복습 한 번 하고 가십시다. https://t.co/VnMnceiUEj",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 853266496478302200,
+						"id_str": "853266496478302208",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/C9dpW5VU0AA3Vqq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9dpW5VU0AA3Vqq.jpg",
+						"url": "https://t.co/VnMnceiUEj",
+						"display_url": "pic.twitter.com/VnMnceiUEj",
+						"expanded_url": "https://twitter.com/sametime21/status/853266512706019331/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 581,
+								"h": 76,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 581,
+								"h": 76,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 76,
+								"h": 76,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 581,
+								"h": 76,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 853266496478302200,
+						"id_str": "853266496478302208",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/C9dpW5VU0AA3Vqq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9dpW5VU0AA3Vqq.jpg",
+						"url": "https://t.co/VnMnceiUEj",
+						"display_url": "pic.twitter.com/VnMnceiUEj",
+						"expanded_url": "https://twitter.com/sametime21/status/853266512706019331/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 581,
+								"h": 76,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 581,
+								"h": 76,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 76,
+								"h": 76,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 581,
+								"h": 76,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 434213899,
+				"id_str": "434213899",
+				"name": "봉구의 뒤태",
+				"screen_name": "sametime21",
+				"location": "",
+				"description": "30개월 뒤태",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 707,
+				"friends_count": 147,
+				"listed_count": 19,
+				"created_at": "Sun Dec 11 15:32:34 +0000 2011",
+				"favourites_count": 233,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 231,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/852362364989001729/kLMmPwFV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/852362364989001729/kLMmPwFV_normal.jpg",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Apr 15 15:15:56 +0000 2017",
+		"id": 853265639921696800,
+		"id_str": "853265639921696768",
+		"text": "RT @katokiyomasa86: 이번 북한군 열병식때 모습을 드러낸 북한군 애들 모습들.\n\n와...씨발 잠깐만...ㅋㅋㅋㅋㅋㅋ? 이 새끼들 갑자기 장비가 왜 이리 좋아졌어?? 저놈의 군장하고 야투경들 중국제 물건들이잖아?!! https://t.c…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "katokiyomasa86",
+					"name": "가등청정",
+					"id": 225520832,
+					"id_str": "225520832",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5711,
+			"friends_count": 1127,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5488,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125668,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 15 08:43:41 +0000 2017",
+			"id": 853166928034013200,
+			"id_str": "853166928034013185",
+			"text": "이번 북한군 열병식때 모습을 드러낸 북한군 애들 모습들.\n\n와...씨발 잠깐만...ㅋㅋㅋㅋㅋㅋ? 이 새끼들 갑자기 장비가 왜 이리 좋아졌어?? 저놈의 군장하고 야투경들 중국제 물건들이잖아?!! https://t.co/EsQfNax8lS",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 853166376592187400,
+						"id_str": "853166376592187393",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/C9cOTJsVoAEJgPn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9cOTJsVoAEJgPn.jpg",
+						"url": "https://t.co/EsQfNax8lS",
+						"display_url": "pic.twitter.com/EsQfNax8lS",
+						"expanded_url": "https://twitter.com/katokiyomasa86/status/853166928034013185/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 850,
+								"h": 637,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 850,
+								"h": 637,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 853166376592187400,
+						"id_str": "853166376592187393",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/C9cOTJsVoAEJgPn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9cOTJsVoAEJgPn.jpg",
+						"url": "https://t.co/EsQfNax8lS",
+						"display_url": "pic.twitter.com/EsQfNax8lS",
+						"expanded_url": "https://twitter.com/katokiyomasa86/status/853166928034013185/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 850,
+								"h": 637,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 850,
+								"h": 637,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 853166383835693000,
+						"id_str": "853166383835693057",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/C9cOTkrUwAEFUJO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9cOTkrUwAEFUJO.jpg",
+						"url": "https://t.co/EsQfNax8lS",
+						"display_url": "pic.twitter.com/EsQfNax8lS",
+						"expanded_url": "https://twitter.com/katokiyomasa86/status/853166928034013185/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1200,
+								"h": 802,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 802,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 853166391825842200,
+						"id_str": "853166391825842177",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/C9cOUCcUwAES_br.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9cOUCcUwAES_br.jpg",
+						"url": "https://t.co/EsQfNax8lS",
+						"display_url": "pic.twitter.com/EsQfNax8lS",
+						"expanded_url": "https://twitter.com/katokiyomasa86/status/853166928034013185/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 449,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 792,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 792,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 853166910610882600,
+						"id_str": "853166910610882560",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/C9cOyPEUQAAiV20.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9cOyPEUQAAiV20.jpg",
+						"url": "https://t.co/EsQfNax8lS",
+						"display_url": "pic.twitter.com/EsQfNax8lS",
+						"expanded_url": "https://twitter.com/katokiyomasa86/status/853166928034013185/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 225520832,
+				"id_str": "225520832",
+				"name": "가등청정",
+				"screen_name": "katokiyomasa86",
+				"location": "Republic of Korea",
+				"description": "러시아군 재현팀 -STAVKA-팀장 / 코스어/밀덕질과 역사덕질, 애니와 게임 영화등을 좋아하는 인생 / 상호간 덕질에 취향을 존중합시다.  https://t.co/pYscekXSJE",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/pYscekXSJE",
+								"expanded_url": "http://worldcosplay.net/member/47038",
+								"display_url": "worldcosplay.net/member/47038",
+								"indices": [
+									79,
+									102
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 751,
+				"friends_count": 859,
+				"listed_count": 8,
+				"created_at": "Sat Dec 11 19:40:20 +0000 2010",
+				"favourites_count": 27838,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 41699,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/813619384665018368/owwInQ4P_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/813619384665018368/owwInQ4P_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/225520832/1457792436",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 535,
+			"favorite_count": 58,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 535,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Apr 15 15:08:12 +0000 2017",
 		"id": 853263696574914600,
 		"id_str": "853263696574914560",
