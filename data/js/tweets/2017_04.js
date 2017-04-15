@@ -1,6 +1,1128 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Sat Apr 15 17:39:27 +0000 2017",
+		"id": 853301756981157900,
+		"id_str": "853301756981157890",
+		"text": "RT @CNN: North Korea flexed its missile muscle at its annual military parade https://t.co/WVWlm5RLU8 https://t.co/kL9m5Mnjtb",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CNN",
+					"name": "CNN",
+					"id": 759251,
+					"id_str": "759251",
+					"indices": [
+						3,
+						7
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WVWlm5RLU8",
+					"expanded_url": "http://cnn.it/2pn0XEo",
+					"display_url": "cnn.it/2pn0XEo",
+					"indices": [
+						77,
+						100
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 853299386138361900,
+					"id_str": "853299386138361856",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/853299386138361856/img/ai_W25Auyt7wMiN6.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/853299386138361856/img/ai_W25Auyt7wMiN6.jpg",
+					"url": "https://t.co/kL9m5Mnjtb",
+					"display_url": "pic.twitter.com/kL9m5Mnjtb",
+					"expanded_url": "https://twitter.com/CNN/status/853299712266567682/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 853299712266567700,
+					"source_status_id_str": "853299712266567682",
+					"source_user_id": 759251,
+					"source_user_id_str": "759251"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 853299386138361900,
+					"id_str": "853299386138361856",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/853299386138361856/img/ai_W25Auyt7wMiN6.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/853299386138361856/img/ai_W25Auyt7wMiN6.jpg",
+					"url": "https://t.co/kL9m5Mnjtb",
+					"display_url": "pic.twitter.com/kL9m5Mnjtb",
+					"expanded_url": "https://twitter.com/CNN/status/853299712266567682/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 853299712266567700,
+					"source_status_id_str": "853299712266567682",
+					"source_user_id": 759251,
+					"source_user_id_str": "759251",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 182850,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/853299386138361856/pl/9XQsUHHPrCfJXzWU.m3u8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/853299386138361856/vid/640x360/Tqtzc2shl8o2O2yZ.mp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/853299386138361856/vid/1280x720/VJJJOz0TdC2kBOk9.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/853299386138361856/vid/320x180/qFE2R8cN6Is7BZoo.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 759251,
+							"id_str": "759251",
+							"name": "CNN",
+							"screen_name": "CNN",
+							"location": "",
+							"description": "It’s our job to #GoThere and tell the most difficult stories. Come with us!\n\n➡︎ For more breaking news updates follow @CNNBRK",
+							"url": "http://t.co/IaghNW8Xm2",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "http://t.co/IaghNW8Xm2",
+											"expanded_url": "http://www.cnn.com",
+											"display_url": "cnn.com",
+											"indices": [
+												0,
+												22
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 33506011,
+							"friends_count": 1120,
+							"listed_count": 125739,
+							"created_at": "Fri Feb 09 00:35:02 +0000 2007",
+							"favourites_count": 1461,
+							"utc_offset": -14400,
+							"time_zone": "Eastern Time (US & Canada)",
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 126365,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": true,
+							"profile_background_color": "323232",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/515228058286952449/zVfUxqPl.jpeg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/515228058286952449/zVfUxqPl.jpeg",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED_normal.png",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED_normal.png",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/759251/1486579954",
+							"profile_link_color": "004287",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "EEEEEE",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "regular"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5711,
+			"friends_count": 1127,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5488,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125675,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 15 17:31:19 +0000 2017",
+			"id": 853299712266567700,
+			"id_str": "853299712266567682",
+			"text": "North Korea flexed its missile muscle at its annual military parade https://t.co/WVWlm5RLU8 https://t.co/kL9m5Mnjtb",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/WVWlm5RLU8",
+						"expanded_url": "http://cnn.it/2pn0XEo",
+						"display_url": "cnn.it/2pn0XEo",
+						"indices": [
+							68,
+							91
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 853299386138361900,
+						"id_str": "853299386138361856",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/853299386138361856/img/ai_W25Auyt7wMiN6.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/853299386138361856/img/ai_W25Auyt7wMiN6.jpg",
+						"url": "https://t.co/kL9m5Mnjtb",
+						"display_url": "pic.twitter.com/kL9m5Mnjtb",
+						"expanded_url": "https://twitter.com/CNN/status/853299712266567682/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 853299386138361900,
+						"id_str": "853299386138361856",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/853299386138361856/img/ai_W25Auyt7wMiN6.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/853299386138361856/img/ai_W25Auyt7wMiN6.jpg",
+						"url": "https://t.co/kL9m5Mnjtb",
+						"display_url": "pic.twitter.com/kL9m5Mnjtb",
+						"expanded_url": "https://twitter.com/CNN/status/853299712266567682/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 182850,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/853299386138361856/pl/9XQsUHHPrCfJXzWU.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/853299386138361856/vid/640x360/Tqtzc2shl8o2O2yZ.mp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/853299386138361856/vid/1280x720/VJJJOz0TdC2kBOk9.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/853299386138361856/vid/320x180/qFE2R8cN6Is7BZoo.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 759251,
+				"id_str": "759251",
+				"name": "CNN",
+				"screen_name": "CNN",
+				"location": "",
+				"description": "It’s our job to #GoThere and tell the most difficult stories. Come with us!\n\n➡︎ For more breaking news updates follow @CNNBRK",
+				"url": "http://t.co/IaghNW8Xm2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/IaghNW8Xm2",
+								"expanded_url": "http://www.cnn.com",
+								"display_url": "cnn.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 33506011,
+				"friends_count": 1120,
+				"listed_count": 125739,
+				"created_at": "Fri Feb 09 00:35:02 +0000 2007",
+				"favourites_count": 1461,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 126365,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "323232",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/515228058286952449/zVfUxqPl.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/515228058286952449/zVfUxqPl.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/759251/1486579954",
+				"profile_link_color": "004287",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EEEEEE",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 552,
+			"favorite_count": 476,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 552,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Apr 15 17:28:48 +0000 2017",
+		"id": 853299078590996500,
+		"id_str": "853299078590996480",
+		"text": "RT @leekaaro: 72. 눈물의 기자회견 https://t.co/USNd9k8HBw",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "leekaaro",
+					"name": "이카루",
+					"id": 721535999344414700,
+					"id_str": "721535999344414720",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 775511124888264700,
+					"id_str": "775511124888264705",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/775511124888264705/pu/img/QkTf42vwAyRuCSSd.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/775511124888264705/pu/img/QkTf42vwAyRuCSSd.jpg",
+					"url": "https://t.co/USNd9k8HBw",
+					"display_url": "pic.twitter.com/USNd9k8HBw",
+					"expanded_url": "https://twitter.com/leekaaro/status/775511273542823936/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 255,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 775511273542824000,
+					"source_status_id_str": "775511273542823936",
+					"source_user_id": 721535999344414700,
+					"source_user_id_str": "721535999344414720"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 775511124888264700,
+					"id_str": "775511124888264705",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/775511124888264705/pu/img/QkTf42vwAyRuCSSd.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/775511124888264705/pu/img/QkTf42vwAyRuCSSd.jpg",
+					"url": "https://t.co/USNd9k8HBw",
+					"display_url": "pic.twitter.com/USNd9k8HBw",
+					"expanded_url": "https://twitter.com/leekaaro/status/775511273542823936/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 255,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 775511273542824000,
+					"source_status_id_str": "775511273542823936",
+					"source_user_id": 721535999344414700,
+					"source_user_id_str": "721535999344414720",
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 42933,
+						"variants": [
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/775511124888264705/pu/vid/240x180/Uh27jluydo0tJOnv.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/775511124888264705/pu/pl/AbN6YxVrMUrSIFUr.m3u8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/775511124888264705/pu/vid/480x360/y4TttMJId53KaF_e.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 721535999344414700,
+							"id_str": "721535999344414720",
+							"name": "이카루",
+							"screen_name": "leekaaro",
+							"location": "RPS MARK 攻 | 맠도 (비팔로알림X)",
+							"description": "돈과 명예 중 하나를 골라 한 치 고민없이 난 이민형",
+							"url": "https://t.co/zca2RIx9zw",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/zca2RIx9zw",
+											"expanded_url": "http://kaaro.dothome.co.kr",
+											"display_url": "kaaro.dothome.co.kr",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 5058,
+							"friends_count": 207,
+							"listed_count": 25,
+							"created_at": "Sun Apr 17 03:09:22 +0000 2016",
+							"favourites_count": 1902,
+							"utc_offset": -25200,
+							"time_zone": "Pacific Time (US & Canada)",
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 17743,
+							"lang": "ko",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/851074725354684416/sscCmohG_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/851074725354684416/sscCmohG_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/721535999344414720/1490976623",
+							"profile_link_color": "7FDBB6",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5711,
+			"friends_count": 1127,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5488,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125675,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Sep 13 01:47:50 +0000 2016",
+			"id": 775511273542824000,
+			"id_str": "775511273542823936",
+			"text": "72. 눈물의 기자회견 https://t.co/USNd9k8HBw",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 775511124888264700,
+						"id_str": "775511124888264705",
+						"indices": [
+							13,
+							36
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/775511124888264705/pu/img/QkTf42vwAyRuCSSd.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/775511124888264705/pu/img/QkTf42vwAyRuCSSd.jpg",
+						"url": "https://t.co/USNd9k8HBw",
+						"display_url": "pic.twitter.com/USNd9k8HBw",
+						"expanded_url": "https://twitter.com/leekaaro/status/775511273542823936/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 255,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 775511124888264700,
+						"id_str": "775511124888264705",
+						"indices": [
+							13,
+							36
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/775511124888264705/pu/img/QkTf42vwAyRuCSSd.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/775511124888264705/pu/img/QkTf42vwAyRuCSSd.jpg",
+						"url": "https://t.co/USNd9k8HBw",
+						"display_url": "pic.twitter.com/USNd9k8HBw",
+						"expanded_url": "https://twitter.com/leekaaro/status/775511273542823936/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 255,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								4,
+								3
+							],
+							"duration_millis": 42933,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/775511124888264705/pu/vid/240x180/Uh27jluydo0tJOnv.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/775511124888264705/pu/pl/AbN6YxVrMUrSIFUr.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/775511124888264705/pu/vid/480x360/y4TttMJId53KaF_e.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 767355378401054700,
+			"in_reply_to_status_id_str": "767355378401054721",
+			"in_reply_to_user_id": 721535999344414700,
+			"in_reply_to_user_id_str": "721535999344414720",
+			"in_reply_to_screen_name": "leekaaro",
+			"user": {
+				"id": 721535999344414700,
+				"id_str": "721535999344414720",
+				"name": "이카루",
+				"screen_name": "leekaaro",
+				"location": "RPS MARK 攻 | 맠도 (비팔로알림X)",
+				"description": "돈과 명예 중 하나를 골라 한 치 고민없이 난 이민형",
+				"url": "https://t.co/zca2RIx9zw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zca2RIx9zw",
+								"expanded_url": "http://kaaro.dothome.co.kr",
+								"display_url": "kaaro.dothome.co.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5058,
+				"friends_count": 207,
+				"listed_count": 25,
+				"created_at": "Sun Apr 17 03:09:22 +0000 2016",
+				"favourites_count": 1902,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 17743,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/851074725354684416/sscCmohG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/851074725354684416/sscCmohG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/721535999344414720/1490976623",
+				"profile_link_color": "7FDBB6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5056,
+			"favorite_count": 1349,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5056,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Apr 15 17:26:01 +0000 2017",
+		"id": 853298376338620400,
+		"id_str": "853298376338620417",
+		"text": "RT @intoTEUS: 플필에 \"적폐세력형\"이라 쓴 등신들은 정말로 죄다 적폐세력[....]",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "intoTEUS",
+					"name": "🎗①ℬLUEnLIVE🦇",
+					"id": 1023072296,
+					"id_str": "1023072296",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5711,
+			"friends_count": 1127,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5488,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125675,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 15 17:23:44 +0000 2017",
+			"id": 853297801341444100,
+			"id_str": "853297801341444096",
+			"text": "플필에 \"적폐세력형\"이라 쓴 등신들은 정말로 죄다 적폐세력[....]",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1023072296,
+				"id_str": "1023072296",
+				"name": "🎗①ℬLUEnLIVE🦇",
+				"screen_name": "intoTEUS",
+				"location": "ıllıllı anoтнer place ıllıllı",
+				"description": "007덕, 닭나덕, 셜덕, 앱등이, iTrans, 메모장2-mod, DD-WRT, LibreELEC, 노빠, 문빠, #remember140416",
+				"url": "https://t.co/LbN33sd6mX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LbN33sd6mX",
+								"expanded_url": "http://TEUS.me",
+								"display_url": "TEUS.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2296,
+				"friends_count": 899,
+				"listed_count": 0,
+				"created_at": "Wed Dec 19 23:05:43 +0000 2012",
+				"favourites_count": 1115,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 129029,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0F0F0F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/432330347439599616/kHm5wtiT.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/432330347439599616/kHm5wtiT.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/851401656193306625/MNPdZKos_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/851401656193306625/MNPdZKos_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1023072296/1491824851",
+				"profile_link_color": "2970A6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "1C1C1C",
+				"profile_text_color": "627E91",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Apr 15 16:17:46 +0000 2017",
 		"id": 853281201540407300,
 		"id_str": "853281201540407296",
