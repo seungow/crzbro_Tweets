@@ -1,6 +1,367 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Sun Apr 16 23:02:47 +0000 2017",
+		"id": 853745515229356000,
+		"id_str": "853745515229356032",
+		"text": "RT @netflixkr_up: '아머드(Armored)'가 넷플릭스에 업데이트되었습니다.\n음성: 영어(2.0, 5.1)\n자막: 한국어,영어\nhttps://t.co/TdD9eD4TX3 https://t.co/YDRy1wuiUW",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "netflixkr_up",
+					"name": "넷플릭스 업데이트봇",
+					"id": 701825105538646000,
+					"id_str": "701825105538646016",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TdD9eD4TX3",
+					"expanded_url": "https://www.netflix.com/title/70113008",
+					"display_url": "netflix.com/title/70113008",
+					"indices": [
+						79,
+						102
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 853216276583374800,
+					"id_str": "853216276583374848",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/C9c7rtpVYAA-AjE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9c7rtpVYAA-AjE.jpg",
+					"url": "https://t.co/YDRy1wuiUW",
+					"display_url": "pic.twitter.com/YDRy1wuiUW",
+					"expanded_url": "https://twitter.com/netflixkr_up/status/853216302315429888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1378,
+							"h": 1061,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 924,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 524,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 853216302315429900,
+					"source_status_id_str": "853216302315429888",
+					"source_user_id": 701825105538646000,
+					"source_user_id_str": "701825105538646016"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 853216276583374800,
+					"id_str": "853216276583374848",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/C9c7rtpVYAA-AjE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9c7rtpVYAA-AjE.jpg",
+					"url": "https://t.co/YDRy1wuiUW",
+					"display_url": "pic.twitter.com/YDRy1wuiUW",
+					"expanded_url": "https://twitter.com/netflixkr_up/status/853216302315429888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1378,
+							"h": 1061,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 924,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 524,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 853216302315429900,
+					"source_status_id_str": "853216302315429888",
+					"source_user_id": 701825105538646000,
+					"source_user_id_str": "701825105538646016"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5707,
+			"friends_count": 1126,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5489,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125764,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 15 11:59:53 +0000 2017",
+			"id": 853216302315429900,
+			"id_str": "853216302315429888",
+			"text": "'아머드(Armored)'가 넷플릭스에 업데이트되었습니다.\n음성: 영어(2.0, 5.1)\n자막: 한국어,영어\nhttps://t.co/TdD9eD4TX3 https://t.co/YDRy1wuiUW",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/TdD9eD4TX3",
+						"expanded_url": "https://www.netflix.com/title/70113008",
+						"display_url": "netflix.com/title/70113008",
+						"indices": [
+							61,
+							84
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 853216276583374800,
+						"id_str": "853216276583374848",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/C9c7rtpVYAA-AjE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9c7rtpVYAA-AjE.jpg",
+						"url": "https://t.co/YDRy1wuiUW",
+						"display_url": "pic.twitter.com/YDRy1wuiUW",
+						"expanded_url": "https://twitter.com/netflixkr_up/status/853216302315429888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1378,
+								"h": 1061,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 924,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 524,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 853216276583374800,
+						"id_str": "853216276583374848",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/C9c7rtpVYAA-AjE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9c7rtpVYAA-AjE.jpg",
+						"url": "https://t.co/YDRy1wuiUW",
+						"display_url": "pic.twitter.com/YDRy1wuiUW",
+						"expanded_url": "https://twitter.com/netflixkr_up/status/853216302315429888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1378,
+								"h": 1061,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 924,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 524,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 701825105538646000,
+				"id_str": "701825105538646016",
+				"name": "넷플릭스 업데이트봇",
+				"screen_name": "netflixkr_up",
+				"location": "넷플릭스",
+				"description": "수동봇이라 업데이트 내역에 시간차가 있을 수 있습니다. 본 계정은 공식 계정이 아닙니다. 넷플릭스 관련 문의는 넷플릭스의 고객지원센터(https://t.co/BGkYn4Q3MP) 또는 트위터 공식계정(@NetflixKR)을 이용해 주세요.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/BGkYn4Q3MP",
+								"expanded_url": "https://help.netflix.com/help",
+								"display_url": "help.netflix.com/help",
+								"indices": [
+									75,
+									98
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 6324,
+				"friends_count": 7,
+				"listed_count": 64,
+				"created_at": "Mon Feb 22 17:45:19 +0000 2016",
+				"favourites_count": 30,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2172,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/715889434999136256/vwrK0BvZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/715889434999136256/vwrK0BvZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/701825105538646016/1491144222",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sun Apr 16 21:20:26 +0000 2017",
 		"id": 853719760265109500,
 		"id_str": "853719760265109504",
