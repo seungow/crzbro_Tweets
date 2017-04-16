@@ -1,6 +1,4784 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Sun Apr 16 02:22:25 +0000 2017",
+		"id": 853433366024077300,
+		"id_str": "853433366024077315",
+		"text": "RT @MedicaIGuide: This is how the world's first head transplant will be carried out #Medicalguide https://t.co/E3h0dCrxUt https://t.co/IpVM…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Medicalguide",
+					"indices": [
+						84,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MedicaIGuide",
+					"name": "Medical Guide 😷",
+					"id": 852434642041004000,
+					"id_str": "852434642041004032",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 852819991346860000,
+					"id_str": "852819991346860034",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/852819991346860034/pu/img/iI400zT8d4UxtWi1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/852819991346860034/pu/img/iI400zT8d4UxtWi1.jpg",
+					"url": "https://t.co/E3h0dCrxUt",
+					"display_url": "pic.twitter.com/E3h0dCrxUt",
+					"expanded_url": "https://twitter.com/RecipeClips/status/852820690478669826/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 518,
+							"h": 518,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 518,
+							"h": 518,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 852820690478669800,
+					"source_status_id_str": "852820690478669826",
+					"source_user_id": 769890801182580700,
+					"source_user_id_str": "769890801182580737"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 852819991346860000,
+					"id_str": "852819991346860034",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/852819991346860034/pu/img/iI400zT8d4UxtWi1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/852819991346860034/pu/img/iI400zT8d4UxtWi1.jpg",
+					"url": "https://t.co/E3h0dCrxUt",
+					"display_url": "pic.twitter.com/E3h0dCrxUt",
+					"expanded_url": "https://twitter.com/RecipeClips/status/852820690478669826/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 518,
+							"h": 518,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 518,
+							"h": 518,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 852820690478669800,
+					"source_status_id_str": "852820690478669826",
+					"source_user_id": 769890801182580700,
+					"source_user_id_str": "769890801182580737",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 81800,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/852819991346860034/pu/vid/480x480/HUqixMkQGRE09-u6.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/852819991346860034/pu/pl/rCa6PGbla3L9ycXa.m3u8"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/852819991346860034/pu/vid/240x240/FwB3MqKkoL94gcFx.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 769890801182580700,
+							"id_str": "769890801182580737",
+							"name": "Medical Videos",
+							"screen_name": "RecipeClips",
+							"location": "",
+							"description": "",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 587,
+							"friends_count": 2,
+							"listed_count": 2,
+							"created_at": "Sun Aug 28 13:34:05 +0000 2016",
+							"favourites_count": 0,
+							"utc_offset": -25200,
+							"time_zone": "Pacific Time (US & Canada)",
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 113,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/852521081143529473/ZF1CLQc3_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/852521081143529473/ZF1CLQc3_normal.jpg",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5708,
+			"friends_count": 1128,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5489,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125711,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 16 00:39:08 +0000 2017",
+			"id": 853407373414813700,
+			"id_str": "853407373414813696",
+			"text": "This is how the world's first head transplant will be carried out #Medicalguide https://t.co/E3h0dCrxUt https://t.co/IpVMVWBpoZ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Medicalguide",
+						"indices": [
+							66,
+							79
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 853406605416824800,
+						"id_str": "853406605416824832",
+						"indices": [
+							104,
+							127
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/853406605416824832/pu/img/H_LYuiMrmy2tPmmB.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/853406605416824832/pu/img/H_LYuiMrmy2tPmmB.jpg",
+						"url": "https://t.co/IpVMVWBpoZ",
+						"display_url": "pic.twitter.com/IpVMVWBpoZ",
+						"expanded_url": "https://twitter.com/MedicaIGuide/status/853407373414813696/video/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 852819991346860000,
+						"id_str": "852819991346860034",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/852819991346860034/pu/img/iI400zT8d4UxtWi1.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/852819991346860034/pu/img/iI400zT8d4UxtWi1.jpg",
+						"url": "https://t.co/E3h0dCrxUt",
+						"display_url": "pic.twitter.com/E3h0dCrxUt",
+						"expanded_url": "https://twitter.com/RecipeClips/status/852820690478669826/video/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 518,
+								"h": 518,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 518,
+								"h": 518,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 852820690478669800,
+						"source_status_id_str": "852820690478669826",
+						"source_user_id": 769890801182580700,
+						"source_user_id_str": "769890801182580737"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 853406605416824800,
+						"id_str": "853406605416824832",
+						"indices": [
+							104,
+							127
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/853406605416824832/pu/img/H_LYuiMrmy2tPmmB.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/853406605416824832/pu/img/H_LYuiMrmy2tPmmB.jpg",
+						"url": "https://t.co/IpVMVWBpoZ",
+						"display_url": "pic.twitter.com/IpVMVWBpoZ",
+						"expanded_url": "https://twitter.com/MedicaIGuide/status/853407373414813696/video/1",
+						"type": "video",
+						"sizes": {
+							"large": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 81800,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/853406605416824832/pu/vid/240x240/I-fDitXr58shNRlm.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/853406605416824832/pu/pl/AwjcDHHrJ7rXOEdc.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/853406605416824832/pu/vid/480x480/Mt4ooQMHSsxHDWPA.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					},
+					{
+						"id": 852819991346860000,
+						"id_str": "852819991346860034",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/852819991346860034/pu/img/iI400zT8d4UxtWi1.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/852819991346860034/pu/img/iI400zT8d4UxtWi1.jpg",
+						"url": "https://t.co/E3h0dCrxUt",
+						"display_url": "pic.twitter.com/E3h0dCrxUt",
+						"expanded_url": "https://twitter.com/RecipeClips/status/852820690478669826/video/1",
+						"type": "video",
+						"sizes": {
+							"large": {
+								"w": 518,
+								"h": 518,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 518,
+								"h": 518,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 852820690478669800,
+						"source_status_id_str": "852820690478669826",
+						"source_user_id": 769890801182580700,
+						"source_user_id_str": "769890801182580737",
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 81800,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/852819991346860034/pu/vid/480x480/HUqixMkQGRE09-u6.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/852819991346860034/pu/pl/rCa6PGbla3L9ycXa.m3u8"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/852819991346860034/pu/vid/240x240/FwB3MqKkoL94gcFx.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 769890801182580700,
+								"id_str": "769890801182580737",
+								"name": "Medical Videos",
+								"screen_name": "RecipeClips",
+								"location": "",
+								"description": "",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 587,
+								"friends_count": 2,
+								"listed_count": 2,
+								"created_at": "Sun Aug 28 13:34:05 +0000 2016",
+								"favourites_count": 0,
+								"utc_offset": -25200,
+								"time_zone": "Pacific Time (US & Canada)",
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 113,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "F5F8FA",
+								"profile_background_image_url": null,
+								"profile_background_image_url_https": null,
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/852521081143529473/ZF1CLQc3_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/852521081143529473/ZF1CLQc3_normal.jpg",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 852434642041004000,
+				"id_str": "852434642041004032",
+				"name": "Medical Guide 😷",
+				"screen_name": "MedicaIGuide",
+				"location": "",
+				"description": "💊 Educational videos!🔬Medical tips! 💉 #medicalguide",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6851,
+				"friends_count": 0,
+				"listed_count": 7,
+				"created_at": "Thu Apr 13 08:13:50 +0000 2017",
+				"favourites_count": 2,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 18,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/852436557676118016/5yIRwMMM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/852436557676118016/5yIRwMMM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/852434642041004032/1492072074",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 108,
+			"favorite_count": 125,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 108,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Apr 16 02:20:50 +0000 2017",
+		"id": 853432968961941500,
+		"id_str": "853432968961941505",
+		"text": "RT @MedicaIGuide: Episiotomy! #Medicalguide https://t.co/1wKMPnpuZm",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Medicalguide",
+					"indices": [
+						30,
+						43
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MedicaIGuide",
+					"name": "Medical Guide 😷",
+					"id": 852434642041004000,
+					"id_str": "852434642041004032",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 853385556130226200,
+					"id_str": "853385556130226176",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/853385556130226176/pu/img/NLFs1K7CHQf9bAFM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/853385556130226176/pu/img/NLFs1K7CHQf9bAFM.jpg",
+					"url": "https://t.co/1wKMPnpuZm",
+					"display_url": "pic.twitter.com/1wKMPnpuZm",
+					"expanded_url": "https://twitter.com/MedicaIGuide/status/853386026584354816/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 853386026584354800,
+					"source_status_id_str": "853386026584354816",
+					"source_user_id": 852434642041004000,
+					"source_user_id_str": "852434642041004032"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 853385556130226200,
+					"id_str": "853385556130226176",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/853385556130226176/pu/img/NLFs1K7CHQf9bAFM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/853385556130226176/pu/img/NLFs1K7CHQf9bAFM.jpg",
+					"url": "https://t.co/1wKMPnpuZm",
+					"display_url": "pic.twitter.com/1wKMPnpuZm",
+					"expanded_url": "https://twitter.com/MedicaIGuide/status/853386026584354816/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 853386026584354800,
+					"source_status_id_str": "853386026584354816",
+					"source_user_id": 852434642041004000,
+					"source_user_id_str": "852434642041004032",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 59927,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/853385556130226176/pu/vid/640x360/bBERx_oARruDAcyA.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/853385556130226176/pu/pl/ObifERX9XHQagkMp.m3u8"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/853385556130226176/pu/vid/320x180/ja5toVdXMh6e01uC.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 852434642041004000,
+							"id_str": "852434642041004032",
+							"name": "Medical Guide 😷",
+							"screen_name": "MedicaIGuide",
+							"location": "",
+							"description": "💊 Educational videos!🔬Medical tips! 💉 #medicalguide",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 6851,
+							"friends_count": 0,
+							"listed_count": 7,
+							"created_at": "Thu Apr 13 08:13:50 +0000 2017",
+							"favourites_count": 2,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 18,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/852436557676118016/5yIRwMMM_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/852436557676118016/5yIRwMMM_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/852434642041004032/1492072074",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5708,
+			"friends_count": 1128,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5489,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125711,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 15 23:14:18 +0000 2017",
+			"id": 853386026584354800,
+			"id_str": "853386026584354816",
+			"text": "Episiotomy! #Medicalguide https://t.co/1wKMPnpuZm",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Medicalguide",
+						"indices": [
+							12,
+							25
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 853385556130226200,
+						"id_str": "853385556130226176",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/853385556130226176/pu/img/NLFs1K7CHQf9bAFM.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/853385556130226176/pu/img/NLFs1K7CHQf9bAFM.jpg",
+						"url": "https://t.co/1wKMPnpuZm",
+						"display_url": "pic.twitter.com/1wKMPnpuZm",
+						"expanded_url": "https://twitter.com/MedicaIGuide/status/853386026584354816/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 853385556130226200,
+						"id_str": "853385556130226176",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/853385556130226176/pu/img/NLFs1K7CHQf9bAFM.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/853385556130226176/pu/img/NLFs1K7CHQf9bAFM.jpg",
+						"url": "https://t.co/1wKMPnpuZm",
+						"display_url": "pic.twitter.com/1wKMPnpuZm",
+						"expanded_url": "https://twitter.com/MedicaIGuide/status/853386026584354816/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 59927,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/853385556130226176/pu/vid/640x360/bBERx_oARruDAcyA.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/853385556130226176/pu/pl/ObifERX9XHQagkMp.m3u8"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/853385556130226176/pu/vid/320x180/ja5toVdXMh6e01uC.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 852434642041004000,
+				"id_str": "852434642041004032",
+				"name": "Medical Guide 😷",
+				"screen_name": "MedicaIGuide",
+				"location": "",
+				"description": "💊 Educational videos!🔬Medical tips! 💉 #medicalguide",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6851,
+				"friends_count": 0,
+				"listed_count": 7,
+				"created_at": "Thu Apr 13 08:13:50 +0000 2017",
+				"favourites_count": 2,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 18,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/852436557676118016/5yIRwMMM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/852436557676118016/5yIRwMMM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/852434642041004032/1492072074",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": true,
+			"lang": "pl"
+		},
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "pl"
+	},
+	{
+		"created_at": "Sun Apr 16 02:19:50 +0000 2017",
+		"id": 853432716343234600,
+		"id_str": "853432716343234560",
+		"text": "RT @MedicaIGuide: How lasik eye surgery is performed actually #Medicalguide https://t.co/T6nHE1E1jH",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Medicalguide",
+					"indices": [
+						62,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MedicaIGuide",
+					"name": "Medical Guide 😷",
+					"id": 852434642041004000,
+					"id_str": "852434642041004032",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 853382420439150600,
+					"id_str": "853382420439150593",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/853382420439150593/pu/img/pcKLKPCkoq7GvfJ4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/853382420439150593/pu/img/pcKLKPCkoq7GvfJ4.jpg",
+					"url": "https://t.co/T6nHE1E1jH",
+					"display_url": "pic.twitter.com/T6nHE1E1jH",
+					"expanded_url": "https://twitter.com/MedicaIGuide/status/853382939434000384/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 853382939434000400,
+					"source_status_id_str": "853382939434000384",
+					"source_user_id": 852434642041004000,
+					"source_user_id_str": "852434642041004032"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 853382420439150600,
+					"id_str": "853382420439150593",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/853382420439150593/pu/img/pcKLKPCkoq7GvfJ4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/853382420439150593/pu/img/pcKLKPCkoq7GvfJ4.jpg",
+					"url": "https://t.co/T6nHE1E1jH",
+					"display_url": "pic.twitter.com/T6nHE1E1jH",
+					"expanded_url": "https://twitter.com/MedicaIGuide/status/853382939434000384/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 853382939434000400,
+					"source_status_id_str": "853382939434000384",
+					"source_user_id": 852434642041004000,
+					"source_user_id_str": "852434642041004032",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 56657,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/853382420439150593/pu/pl/BSid5OU5ps3sXYkr.m3u8"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/853382420439150593/pu/vid/240x240/xHaY_juW_0zYtXJd.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/853382420439150593/pu/vid/480x480/eVOzkL7_FO0ShvZn.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 852434642041004000,
+							"id_str": "852434642041004032",
+							"name": "Medical Guide 😷",
+							"screen_name": "MedicaIGuide",
+							"location": "",
+							"description": "💊 Educational videos!🔬Medical tips! 💉 #medicalguide",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 6851,
+							"friends_count": 0,
+							"listed_count": 7,
+							"created_at": "Thu Apr 13 08:13:50 +0000 2017",
+							"favourites_count": 2,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 18,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/852436557676118016/5yIRwMMM_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/852436557676118016/5yIRwMMM_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/852434642041004032/1492072074",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5708,
+			"friends_count": 1128,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5489,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125711,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 15 23:02:02 +0000 2017",
+			"id": 853382939434000400,
+			"id_str": "853382939434000384",
+			"text": "How lasik eye surgery is performed actually #Medicalguide https://t.co/T6nHE1E1jH",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Medicalguide",
+						"indices": [
+							44,
+							57
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 853382420439150600,
+						"id_str": "853382420439150593",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/853382420439150593/pu/img/pcKLKPCkoq7GvfJ4.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/853382420439150593/pu/img/pcKLKPCkoq7GvfJ4.jpg",
+						"url": "https://t.co/T6nHE1E1jH",
+						"display_url": "pic.twitter.com/T6nHE1E1jH",
+						"expanded_url": "https://twitter.com/MedicaIGuide/status/853382939434000384/video/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 853382420439150600,
+						"id_str": "853382420439150593",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/853382420439150593/pu/img/pcKLKPCkoq7GvfJ4.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/853382420439150593/pu/img/pcKLKPCkoq7GvfJ4.jpg",
+						"url": "https://t.co/T6nHE1E1jH",
+						"display_url": "pic.twitter.com/T6nHE1E1jH",
+						"expanded_url": "https://twitter.com/MedicaIGuide/status/853382939434000384/video/1",
+						"type": "video",
+						"sizes": {
+							"large": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 56657,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/853382420439150593/pu/pl/BSid5OU5ps3sXYkr.m3u8"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/853382420439150593/pu/vid/240x240/xHaY_juW_0zYtXJd.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/853382420439150593/pu/vid/480x480/eVOzkL7_FO0ShvZn.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 852434642041004000,
+				"id_str": "852434642041004032",
+				"name": "Medical Guide 😷",
+				"screen_name": "MedicaIGuide",
+				"location": "",
+				"description": "💊 Educational videos!🔬Medical tips! 💉 #medicalguide",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6851,
+				"friends_count": 0,
+				"listed_count": 7,
+				"created_at": "Thu Apr 13 08:13:50 +0000 2017",
+				"favourites_count": 2,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 18,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/852436557676118016/5yIRwMMM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/852436557676118016/5yIRwMMM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/852434642041004032/1492072074",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 26,
+			"favorite_count": 56,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Apr 16 02:19:47 +0000 2017",
+		"id": 853432703944802300,
+		"id_str": "853432703944802305",
+		"text": "RT @MedicaIGuide: Immune system attacking sperms. #MedicalGuide https://t.co/DtjsZwcN39",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MedicalGuide",
+					"indices": [
+						50,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MedicaIGuide",
+					"name": "Medical Guide 😷",
+					"id": 852434642041004000,
+					"id_str": "852434642041004032",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 852864803509063700,
+					"id_str": "852864803509063682",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/852864803509063682/pu/img/yFDq_fh7tEjDf10z.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/852864803509063682/pu/img/yFDq_fh7tEjDf10z.jpg",
+					"url": "https://t.co/DtjsZwcN39",
+					"display_url": "pic.twitter.com/DtjsZwcN39",
+					"expanded_url": "https://twitter.com/RecipeClips/status/852865957366255616/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 852865957366255600,
+					"source_status_id_str": "852865957366255616",
+					"source_user_id": 769890801182580700,
+					"source_user_id_str": "769890801182580737"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 852864803509063700,
+					"id_str": "852864803509063682",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/852864803509063682/pu/img/yFDq_fh7tEjDf10z.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/852864803509063682/pu/img/yFDq_fh7tEjDf10z.jpg",
+					"url": "https://t.co/DtjsZwcN39",
+					"display_url": "pic.twitter.com/DtjsZwcN39",
+					"expanded_url": "https://twitter.com/RecipeClips/status/852865957366255616/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 852865957366255600,
+					"source_status_id_str": "852865957366255616",
+					"source_user_id": 769890801182580700,
+					"source_user_id_str": "769890801182580737",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 54588,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/852864803509063682/pu/pl/Z_gEve4lrcgQEqKw.m3u8"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/852864803509063682/pu/vid/320x180/ReVX3m-KH6stHMAx.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/852864803509063682/pu/vid/640x360/VOHb5qYPxvr7yaub.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 769890801182580700,
+							"id_str": "769890801182580737",
+							"name": "Medical Videos",
+							"screen_name": "RecipeClips",
+							"location": "",
+							"description": "",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 587,
+							"friends_count": 2,
+							"listed_count": 2,
+							"created_at": "Sun Aug 28 13:34:05 +0000 2016",
+							"favourites_count": 0,
+							"utc_offset": -25200,
+							"time_zone": "Pacific Time (US & Canada)",
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 113,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/852521081143529473/ZF1CLQc3_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/852521081143529473/ZF1CLQc3_normal.jpg",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5708,
+			"friends_count": 1128,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5489,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125711,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 15 17:02:43 +0000 2017",
+			"id": 853292514740248600,
+			"id_str": "853292514740248576",
+			"text": "Immune system attacking sperms. #MedicalGuide https://t.co/DtjsZwcN39",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MedicalGuide",
+						"indices": [
+							32,
+							45
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 852864803509063700,
+						"id_str": "852864803509063682",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/852864803509063682/pu/img/yFDq_fh7tEjDf10z.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/852864803509063682/pu/img/yFDq_fh7tEjDf10z.jpg",
+						"url": "https://t.co/DtjsZwcN39",
+						"display_url": "pic.twitter.com/DtjsZwcN39",
+						"expanded_url": "https://twitter.com/RecipeClips/status/852865957366255616/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 852865957366255600,
+						"source_status_id_str": "852865957366255616",
+						"source_user_id": 769890801182580700,
+						"source_user_id_str": "769890801182580737"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 852864803509063700,
+						"id_str": "852864803509063682",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/852864803509063682/pu/img/yFDq_fh7tEjDf10z.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/852864803509063682/pu/img/yFDq_fh7tEjDf10z.jpg",
+						"url": "https://t.co/DtjsZwcN39",
+						"display_url": "pic.twitter.com/DtjsZwcN39",
+						"expanded_url": "https://twitter.com/RecipeClips/status/852865957366255616/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 852865957366255600,
+						"source_status_id_str": "852865957366255616",
+						"source_user_id": 769890801182580700,
+						"source_user_id_str": "769890801182580737",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 54588,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/852864803509063682/pu/pl/Z_gEve4lrcgQEqKw.m3u8"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/852864803509063682/pu/vid/320x180/ReVX3m-KH6stHMAx.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/852864803509063682/pu/vid/640x360/VOHb5qYPxvr7yaub.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 769890801182580700,
+								"id_str": "769890801182580737",
+								"name": "Medical Videos",
+								"screen_name": "RecipeClips",
+								"location": "",
+								"description": "",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 587,
+								"friends_count": 2,
+								"listed_count": 2,
+								"created_at": "Sun Aug 28 13:34:05 +0000 2016",
+								"favourites_count": 0,
+								"utc_offset": -25200,
+								"time_zone": "Pacific Time (US & Canada)",
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 113,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "F5F8FA",
+								"profile_background_image_url": null,
+								"profile_background_image_url_https": null,
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/852521081143529473/ZF1CLQc3_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/852521081143529473/ZF1CLQc3_normal.jpg",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 852434642041004000,
+				"id_str": "852434642041004032",
+				"name": "Medical Guide 😷",
+				"screen_name": "MedicaIGuide",
+				"location": "",
+				"description": "💊 Educational videos!🔬Medical tips! 💉 #medicalguide",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6851,
+				"friends_count": 0,
+				"listed_count": 7,
+				"created_at": "Thu Apr 13 08:13:50 +0000 2017",
+				"favourites_count": 2,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 18,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/852436557676118016/5yIRwMMM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/852436557676118016/5yIRwMMM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/852434642041004032/1492072074",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 296,
+			"favorite_count": 489,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 296,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Apr 16 02:18:38 +0000 2017",
+		"id": 853432416781783000,
+		"id_str": "853432416781783040",
+		"text": "RT @MedicaIGuide: Beard hair transplant ! #Medicalguide https://t.co/zrBlRlzHfM",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Medicalguide",
+					"indices": [
+						42,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MedicaIGuide",
+					"name": "Medical Guide 😷",
+					"id": 852434642041004000,
+					"id_str": "852434642041004032",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 852476301596295200,
+					"id_str": "852476301596295168",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/852476301596295168/pu/img/nVGH0fbQT8FS3P_g.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/852476301596295168/pu/img/nVGH0fbQT8FS3P_g.jpg",
+					"url": "https://t.co/zrBlRlzHfM",
+					"display_url": "pic.twitter.com/zrBlRlzHfM",
+					"expanded_url": "https://twitter.com/MedicaIGuide/status/852484266067992576/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 852484266067992600,
+					"source_status_id_str": "852484266067992576",
+					"source_user_id": 852434642041004000,
+					"source_user_id_str": "852434642041004032"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 852476301596295200,
+					"id_str": "852476301596295168",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/852476301596295168/pu/img/nVGH0fbQT8FS3P_g.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/852476301596295168/pu/img/nVGH0fbQT8FS3P_g.jpg",
+					"url": "https://t.co/zrBlRlzHfM",
+					"display_url": "pic.twitter.com/zrBlRlzHfM",
+					"expanded_url": "https://twitter.com/MedicaIGuide/status/852484266067992576/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 852484266067992600,
+					"source_status_id_str": "852484266067992576",
+					"source_user_id": 852434642041004000,
+					"source_user_id_str": "852434642041004032",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 60027,
+						"variants": [
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/852476301596295168/pu/vid/240x240/zZCmc-NRPh4SHCP5.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/852476301596295168/pu/pl/mXbWPV8UZah_QBkn.m3u8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/852476301596295168/pu/vid/480x480/ZIA8iRC4VjJIntIM.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 852434642041004000,
+							"id_str": "852434642041004032",
+							"name": "Medical Guide 😷",
+							"screen_name": "MedicaIGuide",
+							"location": "",
+							"description": "💊 Educational videos!🔬Medical tips! 💉 #medicalguide",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 6851,
+							"friends_count": 0,
+							"listed_count": 7,
+							"created_at": "Thu Apr 13 08:13:50 +0000 2017",
+							"favourites_count": 2,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 18,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/852436557676118016/5yIRwMMM_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/852436557676118016/5yIRwMMM_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/852434642041004032/1492072074",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5708,
+			"friends_count": 1128,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5489,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125711,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Apr 13 11:31:02 +0000 2017",
+			"id": 852484266067992600,
+			"id_str": "852484266067992576",
+			"text": "Beard hair transplant ! #Medicalguide https://t.co/zrBlRlzHfM",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Medicalguide",
+						"indices": [
+							24,
+							37
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 852476301596295200,
+						"id_str": "852476301596295168",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/852476301596295168/pu/img/nVGH0fbQT8FS3P_g.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/852476301596295168/pu/img/nVGH0fbQT8FS3P_g.jpg",
+						"url": "https://t.co/zrBlRlzHfM",
+						"display_url": "pic.twitter.com/zrBlRlzHfM",
+						"expanded_url": "https://twitter.com/MedicaIGuide/status/852484266067992576/video/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 852476301596295200,
+						"id_str": "852476301596295168",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/852476301596295168/pu/img/nVGH0fbQT8FS3P_g.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/852476301596295168/pu/img/nVGH0fbQT8FS3P_g.jpg",
+						"url": "https://t.co/zrBlRlzHfM",
+						"display_url": "pic.twitter.com/zrBlRlzHfM",
+						"expanded_url": "https://twitter.com/MedicaIGuide/status/852484266067992576/video/1",
+						"type": "video",
+						"sizes": {
+							"large": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 60027,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/852476301596295168/pu/vid/240x240/zZCmc-NRPh4SHCP5.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/852476301596295168/pu/pl/mXbWPV8UZah_QBkn.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/852476301596295168/pu/vid/480x480/ZIA8iRC4VjJIntIM.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 852434642041004000,
+				"id_str": "852434642041004032",
+				"name": "Medical Guide 😷",
+				"screen_name": "MedicaIGuide",
+				"location": "",
+				"description": "💊 Educational videos!🔬Medical tips! 💉 #medicalguide",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6851,
+				"friends_count": 0,
+				"listed_count": 7,
+				"created_at": "Thu Apr 13 08:13:50 +0000 2017",
+				"favourites_count": 2,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 18,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/852436557676118016/5yIRwMMM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/852436557676118016/5yIRwMMM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/852434642041004032/1492072074",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 109,
+			"favorite_count": 114,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 109,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Apr 16 02:17:36 +0000 2017",
+		"id": 853432157439615000,
+		"id_str": "853432157439614976",
+		"text": "RT @MedicaIGuide: This is how brain tumors are removed! #Medicalguide https://t.co/5HMAggdsdn",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Medicalguide",
+					"indices": [
+						56,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MedicaIGuide",
+					"name": "Medical Guide 😷",
+					"id": 852434642041004000,
+					"id_str": "852434642041004032",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 852476301986463700,
+					"id_str": "852476301986463746",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/852476301986463746/pu/img/yJFPUekyFMM7nfe-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/852476301986463746/pu/img/yJFPUekyFMM7nfe-.jpg",
+					"url": "https://t.co/5HMAggdsdn",
+					"display_url": "pic.twitter.com/5HMAggdsdn",
+					"expanded_url": "https://twitter.com/MedicaIGuide/status/852480791863074816/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 268,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 268,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 190,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 852480791863074800,
+					"source_status_id_str": "852480791863074816",
+					"source_user_id": 852434642041004000,
+					"source_user_id_str": "852434642041004032"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 852476301986463700,
+					"id_str": "852476301986463746",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/852476301986463746/pu/img/yJFPUekyFMM7nfe-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/852476301986463746/pu/img/yJFPUekyFMM7nfe-.jpg",
+					"url": "https://t.co/5HMAggdsdn",
+					"display_url": "pic.twitter.com/5HMAggdsdn",
+					"expanded_url": "https://twitter.com/MedicaIGuide/status/852480791863074816/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 268,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 268,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 190,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 852480791863074800,
+					"source_status_id_str": "852480791863074816",
+					"source_user_id": 852434642041004000,
+					"source_user_id_str": "852434642041004032",
+					"video_info": {
+						"aspect_ratio": [
+							120,
+							67
+						],
+						"duration_millis": 59192,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/852476301986463746/pu/pl/-3VOVzoosjzINXjd.m3u8"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/852476301986463746/pu/vid/322x180/tRCrQIxcqb5AuqYL.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 852434642041004000,
+							"id_str": "852434642041004032",
+							"name": "Medical Guide 😷",
+							"screen_name": "MedicaIGuide",
+							"location": "",
+							"description": "💊 Educational videos!🔬Medical tips! 💉 #medicalguide",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 6851,
+							"friends_count": 0,
+							"listed_count": 7,
+							"created_at": "Thu Apr 13 08:13:50 +0000 2017",
+							"favourites_count": 2,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 18,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/852436557676118016/5yIRwMMM_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/852436557676118016/5yIRwMMM_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/852434642041004032/1492072074",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5708,
+			"friends_count": 1128,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5489,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125711,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Apr 13 11:17:13 +0000 2017",
+			"id": 852480791863074800,
+			"id_str": "852480791863074816",
+			"text": "This is how brain tumors are removed! #Medicalguide https://t.co/5HMAggdsdn",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Medicalguide",
+						"indices": [
+							38,
+							51
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 852476301986463700,
+						"id_str": "852476301986463746",
+						"indices": [
+							52,
+							75
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/852476301986463746/pu/img/yJFPUekyFMM7nfe-.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/852476301986463746/pu/img/yJFPUekyFMM7nfe-.jpg",
+						"url": "https://t.co/5HMAggdsdn",
+						"display_url": "pic.twitter.com/5HMAggdsdn",
+						"expanded_url": "https://twitter.com/MedicaIGuide/status/852480791863074816/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 480,
+								"h": 268,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 268,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 190,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 852476301986463700,
+						"id_str": "852476301986463746",
+						"indices": [
+							52,
+							75
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/852476301986463746/pu/img/yJFPUekyFMM7nfe-.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/852476301986463746/pu/img/yJFPUekyFMM7nfe-.jpg",
+						"url": "https://t.co/5HMAggdsdn",
+						"display_url": "pic.twitter.com/5HMAggdsdn",
+						"expanded_url": "https://twitter.com/MedicaIGuide/status/852480791863074816/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 480,
+								"h": 268,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 268,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 190,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								120,
+								67
+							],
+							"duration_millis": 59192,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/852476301986463746/pu/pl/-3VOVzoosjzINXjd.m3u8"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/852476301986463746/pu/vid/322x180/tRCrQIxcqb5AuqYL.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 852434642041004000,
+				"id_str": "852434642041004032",
+				"name": "Medical Guide 😷",
+				"screen_name": "MedicaIGuide",
+				"location": "",
+				"description": "💊 Educational videos!🔬Medical tips! 💉 #medicalguide",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6851,
+				"friends_count": 0,
+				"listed_count": 7,
+				"created_at": "Thu Apr 13 08:13:50 +0000 2017",
+				"favourites_count": 2,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 18,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/852436557676118016/5yIRwMMM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/852436557676118016/5yIRwMMM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/852434642041004032/1492072074",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 602,
+			"favorite_count": 704,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 602,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Apr 16 02:15:43 +0000 2017",
+		"id": 853431680194957300,
+		"id_str": "853431680194957312",
+		"text": "RT @MedicaIGuide: Braces off 😍😍😍 #Medicalguide https://t.co/MegKVHy2wV",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Medicalguide",
+					"indices": [
+						33,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MedicaIGuide",
+					"name": "Medical Guide 😷",
+					"id": 852434642041004000,
+					"id_str": "852434642041004032",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 852476308105957400,
+					"id_str": "852476308105957376",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/852476308105957376/pu/img/PpCc0ltXp0nCBa0n.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/852476308105957376/pu/img/PpCc0ltXp0nCBa0n.jpg",
+					"url": "https://t.co/MegKVHy2wV",
+					"display_url": "pic.twitter.com/MegKVHy2wV",
+					"expanded_url": "https://twitter.com/DentaIGuide/status/852481931518377987/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 852481931518378000,
+					"source_status_id_str": "852481931518377987",
+					"source_user_id": 852458920610336800,
+					"source_user_id_str": "852458920610336768"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 852476308105957400,
+					"id_str": "852476308105957376",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/852476308105957376/pu/img/PpCc0ltXp0nCBa0n.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/852476308105957376/pu/img/PpCc0ltXp0nCBa0n.jpg",
+					"url": "https://t.co/MegKVHy2wV",
+					"display_url": "pic.twitter.com/MegKVHy2wV",
+					"expanded_url": "https://twitter.com/DentaIGuide/status/852481931518377987/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 852481931518378000,
+					"source_status_id_str": "852481931518377987",
+					"source_user_id": 852458920610336800,
+					"source_user_id_str": "852458920610336768",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 23390,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/852476308105957376/pu/pl/rfmlJQv6bdLi6R59.m3u8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/852476308105957376/pu/vid/480x480/wSYRm3M98WZ1ZeKX.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/852476308105957376/pu/vid/240x240/toCCiuUOyXXgwuWs.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 852458920610336800,
+							"id_str": "852458920610336768",
+							"name": "Dental Guide 👅",
+							"screen_name": "DentaIGuide",
+							"location": "",
+							"description": "😷 showing dental secrets 😷 a Guide to healthier mouth and teeth 👅 it is all about dental care 👅 #Dentalguide",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 834,
+							"friends_count": 0,
+							"listed_count": 1,
+							"created_at": "Thu Apr 13 09:50:19 +0000 2017",
+							"favourites_count": 0,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 6,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/852460361940971520/g_8OrmSW_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/852460361940971520/g_8OrmSW_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/852458920610336768/1492077826",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5708,
+			"friends_count": 1128,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5489,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125711,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Apr 13 15:39:00 +0000 2017",
+			"id": 852546670394998800,
+			"id_str": "852546670394998784",
+			"text": "Braces off 😍😍😍 #Medicalguide https://t.co/MegKVHy2wV",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Medicalguide",
+						"indices": [
+							15,
+							28
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 852476308105957400,
+						"id_str": "852476308105957376",
+						"indices": [
+							29,
+							52
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/852476308105957376/pu/img/PpCc0ltXp0nCBa0n.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/852476308105957376/pu/img/PpCc0ltXp0nCBa0n.jpg",
+						"url": "https://t.co/MegKVHy2wV",
+						"display_url": "pic.twitter.com/MegKVHy2wV",
+						"expanded_url": "https://twitter.com/DentaIGuide/status/852481931518377987/video/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 852481931518378000,
+						"source_status_id_str": "852481931518377987",
+						"source_user_id": 852458920610336800,
+						"source_user_id_str": "852458920610336768"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 852476308105957400,
+						"id_str": "852476308105957376",
+						"indices": [
+							29,
+							52
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/852476308105957376/pu/img/PpCc0ltXp0nCBa0n.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/852476308105957376/pu/img/PpCc0ltXp0nCBa0n.jpg",
+						"url": "https://t.co/MegKVHy2wV",
+						"display_url": "pic.twitter.com/MegKVHy2wV",
+						"expanded_url": "https://twitter.com/DentaIGuide/status/852481931518377987/video/1",
+						"type": "video",
+						"sizes": {
+							"large": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 852481931518378000,
+						"source_status_id_str": "852481931518377987",
+						"source_user_id": 852458920610336800,
+						"source_user_id_str": "852458920610336768",
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 23390,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/852476308105957376/pu/pl/rfmlJQv6bdLi6R59.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/852476308105957376/pu/vid/480x480/wSYRm3M98WZ1ZeKX.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/852476308105957376/pu/vid/240x240/toCCiuUOyXXgwuWs.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 852458920610336800,
+								"id_str": "852458920610336768",
+								"name": "Dental Guide 👅",
+								"screen_name": "DentaIGuide",
+								"location": "",
+								"description": "😷 showing dental secrets 😷 a Guide to healthier mouth and teeth 👅 it is all about dental care 👅 #Dentalguide",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 834,
+								"friends_count": 0,
+								"listed_count": 1,
+								"created_at": "Thu Apr 13 09:50:19 +0000 2017",
+								"favourites_count": 0,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 6,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "F5F8FA",
+								"profile_background_image_url": null,
+								"profile_background_image_url_https": null,
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/852460361940971520/g_8OrmSW_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/852460361940971520/g_8OrmSW_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/852458920610336768/1492077826",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 852434642041004000,
+				"id_str": "852434642041004032",
+				"name": "Medical Guide 😷",
+				"screen_name": "MedicaIGuide",
+				"location": "",
+				"description": "💊 Educational videos!🔬Medical tips! 💉 #medicalguide",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6851,
+				"friends_count": 0,
+				"listed_count": 7,
+				"created_at": "Thu Apr 13 08:13:50 +0000 2017",
+				"favourites_count": 2,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 18,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/852436557676118016/5yIRwMMM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/852436557676118016/5yIRwMMM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/852434642041004032/1492072074",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 567,
+			"favorite_count": 1108,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 567,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Apr 16 02:15:39 +0000 2017",
+		"id": 853431664806027300,
+		"id_str": "853431664806027264",
+		"text": "RT @MedicaIGuide: Preparing teeth for braces 😁#MedicalGuide https://t.co/ueV6WIND3j",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MedicalGuide",
+					"indices": [
+						46,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MedicaIGuide",
+					"name": "Medical Guide 😷",
+					"id": 852434642041004000,
+					"id_str": "852434642041004032",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 852896277222305800,
+					"id_str": "852896277222305792",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/852896277222305792/pu/img/IktFyklmJZ401bT1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/852896277222305792/pu/img/IktFyklmJZ401bT1.jpg",
+					"url": "https://t.co/ueV6WIND3j",
+					"display_url": "pic.twitter.com/ueV6WIND3j",
+					"expanded_url": "https://twitter.com/DentaIGuide/status/852896574682353665/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 255,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 852896574682353700,
+					"source_status_id_str": "852896574682353665",
+					"source_user_id": 852458920610336800,
+					"source_user_id_str": "852458920610336768"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 852896277222305800,
+					"id_str": "852896277222305792",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/852896277222305792/pu/img/IktFyklmJZ401bT1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/852896277222305792/pu/img/IktFyklmJZ401bT1.jpg",
+					"url": "https://t.co/ueV6WIND3j",
+					"display_url": "pic.twitter.com/ueV6WIND3j",
+					"expanded_url": "https://twitter.com/DentaIGuide/status/852896574682353665/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 255,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 852896574682353700,
+					"source_status_id_str": "852896574682353665",
+					"source_user_id": 852458920610336800,
+					"source_user_id_str": "852458920610336768",
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 31031,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/852896277222305792/pu/pl/xWa0DJJG0Za1SOkk.m3u8"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/852896277222305792/pu/vid/240x180/tKo5ZPxr2EC_5eOJ.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/852896277222305792/pu/vid/480x360/b_HYHZnqV2HPXb4A.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 852458920610336800,
+							"id_str": "852458920610336768",
+							"name": "Dental Guide 👅",
+							"screen_name": "DentaIGuide",
+							"location": "",
+							"description": "😷 showing dental secrets 😷 a Guide to healthier mouth and teeth 👅 it is all about dental care 👅 #Dentalguide",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 834,
+							"friends_count": 0,
+							"listed_count": 1,
+							"created_at": "Thu Apr 13 09:50:19 +0000 2017",
+							"favourites_count": 0,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 6,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/852460361940971520/g_8OrmSW_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/852460361940971520/g_8OrmSW_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/852458920610336768/1492077826",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5708,
+			"friends_count": 1128,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5489,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125711,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 15 04:13:23 +0000 2017",
+			"id": 853098903666909200,
+			"id_str": "853098903666909184",
+			"text": "Preparing teeth for braces 😁#MedicalGuide https://t.co/ueV6WIND3j",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MedicalGuide",
+						"indices": [
+							28,
+							41
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 852896277222305800,
+						"id_str": "852896277222305792",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/852896277222305792/pu/img/IktFyklmJZ401bT1.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/852896277222305792/pu/img/IktFyklmJZ401bT1.jpg",
+						"url": "https://t.co/ueV6WIND3j",
+						"display_url": "pic.twitter.com/ueV6WIND3j",
+						"expanded_url": "https://twitter.com/DentaIGuide/status/852896574682353665/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 255,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 852896574682353700,
+						"source_status_id_str": "852896574682353665",
+						"source_user_id": 852458920610336800,
+						"source_user_id_str": "852458920610336768"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 852896277222305800,
+						"id_str": "852896277222305792",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/852896277222305792/pu/img/IktFyklmJZ401bT1.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/852896277222305792/pu/img/IktFyklmJZ401bT1.jpg",
+						"url": "https://t.co/ueV6WIND3j",
+						"display_url": "pic.twitter.com/ueV6WIND3j",
+						"expanded_url": "https://twitter.com/DentaIGuide/status/852896574682353665/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 255,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 852896574682353700,
+						"source_status_id_str": "852896574682353665",
+						"source_user_id": 852458920610336800,
+						"source_user_id_str": "852458920610336768",
+						"video_info": {
+							"aspect_ratio": [
+								4,
+								3
+							],
+							"duration_millis": 31031,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/852896277222305792/pu/pl/xWa0DJJG0Za1SOkk.m3u8"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/852896277222305792/pu/vid/240x180/tKo5ZPxr2EC_5eOJ.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/852896277222305792/pu/vid/480x360/b_HYHZnqV2HPXb4A.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 852458920610336800,
+								"id_str": "852458920610336768",
+								"name": "Dental Guide 👅",
+								"screen_name": "DentaIGuide",
+								"location": "",
+								"description": "😷 showing dental secrets 😷 a Guide to healthier mouth and teeth 👅 it is all about dental care 👅 #Dentalguide",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 834,
+								"friends_count": 0,
+								"listed_count": 1,
+								"created_at": "Thu Apr 13 09:50:19 +0000 2017",
+								"favourites_count": 0,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 6,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "F5F8FA",
+								"profile_background_image_url": null,
+								"profile_background_image_url_https": null,
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/852460361940971520/g_8OrmSW_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/852460361940971520/g_8OrmSW_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/852458920610336768/1492077826",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 852434642041004000,
+				"id_str": "852434642041004032",
+				"name": "Medical Guide 😷",
+				"screen_name": "MedicaIGuide",
+				"location": "",
+				"description": "💊 Educational videos!🔬Medical tips! 💉 #medicalguide",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6851,
+				"friends_count": 0,
+				"listed_count": 7,
+				"created_at": "Thu Apr 13 08:13:50 +0000 2017",
+				"favourites_count": 2,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 18,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/852436557676118016/5yIRwMMM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/852436557676118016/5yIRwMMM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/852434642041004032/1492072074",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 115,
+			"favorite_count": 180,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 115,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Apr 16 02:13:15 +0000 2017",
+		"id": 853431061820223500,
+		"id_str": "853431061820223493",
+		"text": "RT @MedicaIGuide: Braces 😷\n#medicalguide https://t.co/MGfuQ30tSZ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "medicalguide",
+					"indices": [
+						27,
+						40
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MedicaIGuide",
+					"name": "Medical Guide 😷",
+					"id": 852434642041004000,
+					"id_str": "852434642041004032",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 852444327196446700,
+					"id_str": "852444327196446725",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/852444327196446725/pu/img/dmNvi4Oq8yJpSbSL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/852444327196446725/pu/img/dmNvi4Oq8yJpSbSL.jpg",
+					"url": "https://t.co/MGfuQ30tSZ",
+					"display_url": "pic.twitter.com/MGfuQ30tSZ",
+					"expanded_url": "https://twitter.com/MedicaIGuide/status/852444561901330432/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 852444561901330400,
+					"source_status_id_str": "852444561901330432",
+					"source_user_id": 852434642041004000,
+					"source_user_id_str": "852434642041004032"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 852444327196446700,
+					"id_str": "852444327196446725",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/852444327196446725/pu/img/dmNvi4Oq8yJpSbSL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/852444327196446725/pu/img/dmNvi4Oq8yJpSbSL.jpg",
+					"url": "https://t.co/MGfuQ30tSZ",
+					"display_url": "pic.twitter.com/MGfuQ30tSZ",
+					"expanded_url": "https://twitter.com/MedicaIGuide/status/852444561901330432/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 852444561901330400,
+					"source_status_id_str": "852444561901330432",
+					"source_user_id": 852434642041004000,
+					"source_user_id_str": "852434642041004032",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 25225,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/852444327196446725/pu/vid/480x480/Hyz9pKwRx61GAZz6.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/852444327196446725/pu/pl/xaJAmQt-pctYGpwa.m3u8"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/852444327196446725/pu/vid/240x240/CJWs8lcsaPOzeNek.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 852434642041004000,
+							"id_str": "852434642041004032",
+							"name": "Medical Guide 😷",
+							"screen_name": "MedicaIGuide",
+							"location": "",
+							"description": "💊 Educational videos!🔬Medical tips! 💉 #medicalguide",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 6851,
+							"friends_count": 0,
+							"listed_count": 7,
+							"created_at": "Thu Apr 13 08:13:50 +0000 2017",
+							"favourites_count": 2,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 18,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/852436557676118016/5yIRwMMM_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/852436557676118016/5yIRwMMM_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/852434642041004032/1492072074",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5708,
+			"friends_count": 1128,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5489,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125711,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Apr 13 08:53:15 +0000 2017",
+			"id": 852444561901330400,
+			"id_str": "852444561901330432",
+			"text": "Braces 😷\n#medicalguide https://t.co/MGfuQ30tSZ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "medicalguide",
+						"indices": [
+							9,
+							22
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 852444327196446700,
+						"id_str": "852444327196446725",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/852444327196446725/pu/img/dmNvi4Oq8yJpSbSL.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/852444327196446725/pu/img/dmNvi4Oq8yJpSbSL.jpg",
+						"url": "https://t.co/MGfuQ30tSZ",
+						"display_url": "pic.twitter.com/MGfuQ30tSZ",
+						"expanded_url": "https://twitter.com/MedicaIGuide/status/852444561901330432/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 852444327196446700,
+						"id_str": "852444327196446725",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/852444327196446725/pu/img/dmNvi4Oq8yJpSbSL.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/852444327196446725/pu/img/dmNvi4Oq8yJpSbSL.jpg",
+						"url": "https://t.co/MGfuQ30tSZ",
+						"display_url": "pic.twitter.com/MGfuQ30tSZ",
+						"expanded_url": "https://twitter.com/MedicaIGuide/status/852444561901330432/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 25225,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/852444327196446725/pu/vid/480x480/Hyz9pKwRx61GAZz6.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/852444327196446725/pu/pl/xaJAmQt-pctYGpwa.m3u8"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/852444327196446725/pu/vid/240x240/CJWs8lcsaPOzeNek.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 852434642041004000,
+				"id_str": "852434642041004032",
+				"name": "Medical Guide 😷",
+				"screen_name": "MedicaIGuide",
+				"location": "",
+				"description": "💊 Educational videos!🔬Medical tips! 💉 #medicalguide",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6851,
+				"friends_count": 0,
+				"listed_count": 7,
+				"created_at": "Thu Apr 13 08:13:50 +0000 2017",
+				"favourites_count": 2,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 18,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/852436557676118016/5yIRwMMM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/852436557676118016/5yIRwMMM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/852434642041004032/1492072074",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 845,
+			"favorite_count": 865,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 845,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Apr 16 02:12:31 +0000 2017",
+		"id": 853430877199650800,
+		"id_str": "853430877199650816",
+		"text": "RT @MedicaIGuide: How braces are placed on teeth? #Medicalguide https://t.co/519Hv88W24",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Medicalguide",
+					"indices": [
+						50,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MedicaIGuide",
+					"name": "Medical Guide 😷",
+					"id": 852434642041004000,
+					"id_str": "852434642041004032",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 852476304616300500,
+					"id_str": "852476304616300544",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/852476304616300544/pu/img/cuRClCpwT-aiEDnc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/852476304616300544/pu/img/cuRClCpwT-aiEDnc.jpg",
+					"url": "https://t.co/519Hv88W24",
+					"display_url": "pic.twitter.com/519Hv88W24",
+					"expanded_url": "https://twitter.com/MedicaIGuide/status/852482243901747200/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 852482243901747200,
+					"source_status_id_str": "852482243901747200",
+					"source_user_id": 852434642041004000,
+					"source_user_id_str": "852434642041004032"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 852476304616300500,
+					"id_str": "852476304616300544",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/852476304616300544/pu/img/cuRClCpwT-aiEDnc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/852476304616300544/pu/img/cuRClCpwT-aiEDnc.jpg",
+					"url": "https://t.co/519Hv88W24",
+					"display_url": "pic.twitter.com/519Hv88W24",
+					"expanded_url": "https://twitter.com/MedicaIGuide/status/852482243901747200/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 852482243901747200,
+					"source_status_id_str": "852482243901747200",
+					"source_user_id": 852434642041004000,
+					"source_user_id_str": "852434642041004032",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 60027,
+						"variants": [
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/852476304616300544/pu/vid/240x240/jnB_wBYoX3MM6_pL.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/852476304616300544/pu/vid/480x480/PmKiu4Wt2yCf9DuR.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/852476304616300544/pu/pl/QW9m7-B76Mmju1a9.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 852434642041004000,
+							"id_str": "852434642041004032",
+							"name": "Medical Guide 😷",
+							"screen_name": "MedicaIGuide",
+							"location": "",
+							"description": "💊 Educational videos!🔬Medical tips! 💉 #medicalguide",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 6851,
+							"friends_count": 0,
+							"listed_count": 7,
+							"created_at": "Thu Apr 13 08:13:50 +0000 2017",
+							"favourites_count": 2,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 18,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/852436557676118016/5yIRwMMM_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/852436557676118016/5yIRwMMM_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/852434642041004032/1492072074",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5708,
+			"friends_count": 1128,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5489,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125711,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Apr 13 11:22:59 +0000 2017",
+			"id": 852482243901747200,
+			"id_str": "852482243901747200",
+			"text": "How braces are placed on teeth? #Medicalguide https://t.co/519Hv88W24",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Medicalguide",
+						"indices": [
+							32,
+							45
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 852476304616300500,
+						"id_str": "852476304616300544",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/852476304616300544/pu/img/cuRClCpwT-aiEDnc.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/852476304616300544/pu/img/cuRClCpwT-aiEDnc.jpg",
+						"url": "https://t.co/519Hv88W24",
+						"display_url": "pic.twitter.com/519Hv88W24",
+						"expanded_url": "https://twitter.com/MedicaIGuide/status/852482243901747200/video/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 852476304616300500,
+						"id_str": "852476304616300544",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/852476304616300544/pu/img/cuRClCpwT-aiEDnc.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/852476304616300544/pu/img/cuRClCpwT-aiEDnc.jpg",
+						"url": "https://t.co/519Hv88W24",
+						"display_url": "pic.twitter.com/519Hv88W24",
+						"expanded_url": "https://twitter.com/MedicaIGuide/status/852482243901747200/video/1",
+						"type": "video",
+						"sizes": {
+							"large": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 60027,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/852476304616300544/pu/vid/240x240/jnB_wBYoX3MM6_pL.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/852476304616300544/pu/vid/480x480/PmKiu4Wt2yCf9DuR.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/852476304616300544/pu/pl/QW9m7-B76Mmju1a9.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 852434642041004000,
+				"id_str": "852434642041004032",
+				"name": "Medical Guide 😷",
+				"screen_name": "MedicaIGuide",
+				"location": "",
+				"description": "💊 Educational videos!🔬Medical tips! 💉 #medicalguide",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6851,
+				"friends_count": 0,
+				"listed_count": 7,
+				"created_at": "Thu Apr 13 08:13:50 +0000 2017",
+				"favourites_count": 2,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 18,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/852436557676118016/5yIRwMMM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/852436557676118016/5yIRwMMM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/852434642041004032/1492072074",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2902,
+			"favorite_count": 4114,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2902,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Apr 16 02:11:28 +0000 2017",
 		"id": 853430610060222500,
 		"id_str": "853430610060222464",
