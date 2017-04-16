@@ -1,6 +1,187 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Sat Apr 15 23:23:51 +0000 2017",
+		"id": 853388429421301800,
+		"id_str": "853388429421301760",
+		"text": "RT @bulbsheep: 기억합니다. 작년 총선에서 승리하고 나서야 4월 16일에 차벽이 없어졌던 것을. 우리는 이번 선거에서도 이기겠습니다. 많은 억울한 죽음을 위하여, 우리를 위하여. 그리고 그걸 가능케할 나라다운 나라를 위하여.\n#세월호",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "세월호",
+					"indices": [
+						132,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bulbsheep",
+					"name": "전구양",
+					"id": 63572488,
+					"id_str": "63572488",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5710,
+			"friends_count": 1127,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5488,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125690,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 15 23:19:17 +0000 2017",
+			"id": 853387278772707300,
+			"id_str": "853387278772707328",
+			"text": "기억합니다. 작년 총선에서 승리하고 나서야 4월 16일에 차벽이 없어졌던 것을. 우리는 이번 선거에서도 이기겠습니다. 많은 억울한 죽음을 위하여, 우리를 위하여. 그리고 그걸 가능케할 나라다운 나라를 위하여.\n#세월호",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "세월호",
+						"indices": [
+							117,
+							121
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 63572488,
+				"id_str": "63572488",
+				"name": "전구양",
+				"screen_name": "bulbsheep",
+				"location": "Seoul, Korea",
+				"description": "워킹대드.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9333,
+				"friends_count": 1122,
+				"listed_count": 111,
+				"created_at": "Thu Aug 06 23:19:47 +0000 2009",
+				"favourites_count": 2504,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 64966,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "F5ABB5",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28367085/DSCF4080-1.JPG",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28367085/DSCF4080-1.JPG",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/757923550632083456/1YwDqP3A_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/757923550632083456/1YwDqP3A_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/63572488/1388708944",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 43,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Apr 15 22:44:29 +0000 2017",
 		"id": 853378522445889500,
 		"id_str": "853378522445889536",
@@ -12,7 +193,7 @@ Grailbird.data.tweets_2017_04 =
 			"user_mentions": [
 				{
 					"screen_name": "agarose326",
-					"name": "지애리👩🏻‍🔬",
+					"name": "지애리👩🏻🔬",
 					"id": 178500929,
 					"id_str": "178500929",
 					"indices": [
@@ -102,7 +283,7 @@ Grailbird.data.tweets_2017_04 =
 			"user": {
 				"id": 178500929,
 				"id_str": "178500929",
-				"name": "지애리👩🏻‍🔬",
+				"name": "지애리👩🏻🔬",
 				"screen_name": "agarose326",
 				"location": "돌고래호텔 ",
 				"description": "털털하고 뒤끝있어요~ If you love something, then YOU make it better. 초파리를 이용하여 12년째 이것저것에 대해 연구중. 처음에는 면역시스템, 그 다음에는 신경세포발생, 이제는 암 발생 및 조직성장과 소멸. 시애틀에 살아요.",
