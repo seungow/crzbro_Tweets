@@ -1,6 +1,1214 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Sun Apr 16 13:09:20 +0000 2017",
+		"id": 853596167992516600,
+		"id_str": "853596167992516609",
+		"text": "RT @denyeveryth1ng: 200만원이면 다녀오는데 아크테릭스 다운점퍼가 그정도 한다.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "denyeveryth1ng",
+					"name": "곰디곰",
+					"id": 459265072,
+					"id_str": "459265072",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5709,
+			"friends_count": 1128,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5489,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125719,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 15 23:45:19 +0000 2017",
+			"id": 853393831982649300,
+			"id_str": "853393831982649345",
+			"text": "200만원이면 다녀오는데 아크테릭스 다운점퍼가 그정도 한다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 853393465601704000,
+			"in_reply_to_status_id_str": "853393465601703936",
+			"in_reply_to_user_id": 459265072,
+			"in_reply_to_user_id_str": "459265072",
+			"in_reply_to_screen_name": "denyeveryth1ng",
+			"user": {
+				"id": 459265072,
+				"id_str": "459265072",
+				"name": "곰디곰",
+				"screen_name": "denyeveryth1ng",
+				"location": "루뱐카",
+				"description": "곰은 역시 소비에트 불곰",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3928,
+				"friends_count": 670,
+				"listed_count": 65,
+				"created_at": "Mon Jan 09 13:28:22 +0000 2012",
+				"favourites_count": 100,
+				"utc_offset": 10800,
+				"time_zone": "Volgograd",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 97089,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/836215821101719553/qKRz8y2E_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/836215821101719553/qKRz8y2E_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/459265072/1490245211",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Apr 16 13:09:15 +0000 2017",
+		"id": 853596146387656700,
+		"id_str": "853596146387656705",
+		"text": "RT @denyeveryth1ng: 이 사람은 지하철 등산노인네들 입는 아크테릭스 등산점퍼 하나면 히말라야 트래킹을 비행기값 식대 포함 다녀올 수 있다는 사실을 모릅니다. https://t.co/B4AzGc8OlB",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "denyeveryth1ng",
+					"name": "곰디곰",
+					"id": 459265072,
+					"id_str": "459265072",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/B4AzGc8OlB",
+					"expanded_url": "https://twitter.com/JeongtaeRoh/status/853224213200519169",
+					"display_url": "twitter.com/JeongtaeRoh/st…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5709,
+			"friends_count": 1128,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5489,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125719,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 15 23:43:52 +0000 2017",
+			"id": 853393465601704000,
+			"id_str": "853393465601703936",
+			"text": "이 사람은 지하철 등산노인네들 입는 아크테릭스 등산점퍼 하나면 히말라야 트래킹을 비행기값 식대 포함 다녀올 수 있다는 사실을 모릅니다. https://t.co/B4AzGc8OlB",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/B4AzGc8OlB",
+						"expanded_url": "https://twitter.com/JeongtaeRoh/status/853224213200519169",
+						"display_url": "twitter.com/JeongtaeRoh/st…",
+						"indices": [
+							76,
+							99
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 459265072,
+				"id_str": "459265072",
+				"name": "곰디곰",
+				"screen_name": "denyeveryth1ng",
+				"location": "루뱐카",
+				"description": "곰은 역시 소비에트 불곰",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3928,
+				"friends_count": 670,
+				"listed_count": 65,
+				"created_at": "Mon Jan 09 13:28:22 +0000 2012",
+				"favourites_count": 100,
+				"utc_offset": 10800,
+				"time_zone": "Volgograd",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 97089,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/836215821101719553/qKRz8y2E_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/836215821101719553/qKRz8y2E_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/459265072/1490245211",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 853224213200519200,
+			"quoted_status_id_str": "853224213200519169",
+			"quoted_status": {
+				"created_at": "Sat Apr 15 12:31:19 +0000 2017",
+				"id": 853224213200519200,
+				"id_str": "853224213200519169",
+				"text": "히말라야 산행은 '고급 유희'로 치부되지도 비난받지도 않는다. 여론을 주도하는 상위 10% 계층이 '지하철 1호선 노인네'들과 거리를 두면서도 등산을 하고 싶을 때 가는 코스니까...",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 358287354,
+					"id_str": "358287354",
+					"name": "JeongtaeRoh",
+					"screen_name": "JeongtaeRoh",
+					"location": "",
+					"description": "쉽게 가는 길 ㄴㄴ ; 멀리 돌아가 ㅇㅋ",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 11514,
+					"friends_count": 416,
+					"listed_count": 219,
+					"created_at": "Fri Aug 19 17:44:40 +0000 2011",
+					"favourites_count": 0,
+					"utc_offset": 32400,
+					"time_zone": "Seoul",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 168504,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/2409210983/hmu867lxvoxgbvuug99v_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/2409210983/hmu867lxvoxgbvuug99v_normal.jpeg",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 25,
+				"favorite_count": 7,
+				"favorited": false,
+				"retweeted": true,
+				"lang": "ko"
+			},
+			"retweet_count": 144,
+			"favorite_count": 31,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 853224213200519200,
+		"quoted_status_id_str": "853224213200519169",
+		"retweet_count": 144,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Apr 16 13:07:34 +0000 2017",
+		"id": 853595724482609200,
+		"id_str": "853595724482609153",
+		"text": "RT @Medic_LCM: 사상최강의 이등병 https://t.co/z2VhILH2LA",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Medic_LCM",
+					"name": "메딕",
+					"id": 3825939320,
+					"id_str": "3825939320",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 853341212736053200,
+					"id_str": "853341212736053248",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/C9etT9FVYAAvWmG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9etT9FVYAAvWmG.jpg",
+					"url": "https://t.co/z2VhILH2LA",
+					"display_url": "pic.twitter.com/z2VhILH2LA",
+					"expanded_url": "https://twitter.com/Medic_LCM/status/853341219992215552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 606,
+							"h": 850,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 606,
+							"h": 850,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 485,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 853341219992215600,
+					"source_status_id_str": "853341219992215552",
+					"source_user_id": 3825939320,
+					"source_user_id_str": "3825939320"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 853341212736053200,
+					"id_str": "853341212736053248",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/C9etT9FVYAAvWmG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9etT9FVYAAvWmG.jpg",
+					"url": "https://t.co/z2VhILH2LA",
+					"display_url": "pic.twitter.com/z2VhILH2LA",
+					"expanded_url": "https://twitter.com/Medic_LCM/status/853341219992215552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 606,
+							"h": 850,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 606,
+							"h": 850,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 485,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 853341219992215600,
+					"source_status_id_str": "853341219992215552",
+					"source_user_id": 3825939320,
+					"source_user_id_str": "3825939320"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5709,
+			"friends_count": 1128,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5489,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125719,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 15 20:16:15 +0000 2017",
+			"id": 853341219992215600,
+			"id_str": "853341219992215552",
+			"text": "사상최강의 이등병 https://t.co/z2VhILH2LA",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 853341212736053200,
+						"id_str": "853341212736053248",
+						"indices": [
+							10,
+							33
+						],
+						"media_url": "http://pbs.twimg.com/media/C9etT9FVYAAvWmG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9etT9FVYAAvWmG.jpg",
+						"url": "https://t.co/z2VhILH2LA",
+						"display_url": "pic.twitter.com/z2VhILH2LA",
+						"expanded_url": "https://twitter.com/Medic_LCM/status/853341219992215552/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 606,
+								"h": 850,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 606,
+								"h": 850,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 485,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 853341212736053200,
+						"id_str": "853341212736053248",
+						"indices": [
+							10,
+							33
+						],
+						"media_url": "http://pbs.twimg.com/media/C9etT9FVYAAvWmG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9etT9FVYAAvWmG.jpg",
+						"url": "https://t.co/z2VhILH2LA",
+						"display_url": "pic.twitter.com/z2VhILH2LA",
+						"expanded_url": "https://twitter.com/Medic_LCM/status/853341219992215552/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 606,
+								"h": 850,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 606,
+								"h": 850,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 485,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3825939320,
+				"id_str": "3825939320",
+				"name": "메딕",
+				"screen_name": "Medic_LCM",
+				"location": "이불 안(들어가면 못나옴)",
+				"description": "태양 만세!",
+				"url": "https://t.co/7tPwLv5OpE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7tPwLv5OpE",
+								"expanded_url": "http://favolog.org/Medic_LCM",
+								"display_url": "favolog.org/Medic_LCM",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 558,
+				"friends_count": 1379,
+				"listed_count": 0,
+				"created_at": "Thu Oct 08 13:58:31 +0000 2015",
+				"favourites_count": 9137,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 68305,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/853333289704144896/ZaIq3HEQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/853333289704144896/ZaIq3HEQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3825939320/1491663301",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2062,
+			"favorite_count": 187,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2062,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Apr 16 13:03:45 +0000 2017",
+		"id": 853594762779254800,
+		"id_str": "853594762779254784",
+		"text": "RT @prettydike100: 많이 아픈것 같으니까..\n입원 좀 시켜요..",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "prettydike100",
+					"name": "아나키(지바냥2)",
+					"id": 3254123827,
+					"id_str": "3254123827",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5709,
+			"friends_count": 1128,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5489,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125719,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 16 10:02:51 +0000 2017",
+			"id": 853549239632187400,
+			"id_str": "853549239632187392",
+			"text": "많이 아픈것 같으니까..\n입원 좀 시켜요..",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3254123827,
+				"id_str": "3254123827",
+				"name": "아나키(지바냥2)",
+				"screen_name": "prettydike100",
+				"location": "대한민국",
+				"description": "50대 주부 지바냥",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 573,
+				"friends_count": 777,
+				"listed_count": 6,
+				"created_at": "Tue Jun 23 23:56:15 +0000 2015",
+				"favourites_count": 68,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 16008,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/847435931418189824/GRJD3ZWH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/847435931418189824/GRJD3ZWH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3254123827/1467986807",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Apr 16 13:02:49 +0000 2017",
+		"id": 853594530955776000,
+		"id_str": "853594530955776001",
+		"text": "RT @prettydike100: https://t.co/2dMYmDzIol\n오제세의원(더불어민주당)이 지난 2014년 대표발의한  ‘의료사고 피해구제 및 의료분쟁 조정 등에 관한 법률 개정안(일명 신해철법, 최초 발의 당시에는 예강이법)이 19일…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "prettydike100",
+					"name": "아나키(지바냥2)",
+					"id": 3254123827,
+					"id_str": "3254123827",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2dMYmDzIol",
+					"expanded_url": "https://twitter.com/JeongtaeRoh/status/853545820347539459",
+					"display_url": "twitter.com/JeongtaeRoh/st…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95255804,
+			"id_str": "95255804",
+			"name": "미오",
+			"screen_name": "crzbro",
+			"location": "sol",
+			"description": "밥을 위해 법을 하는 불쌍한 법쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5709,
+			"friends_count": 1128,
+			"listed_count": 124,
+			"created_at": "Mon Dec 07 18:44:23 +0000 2009",
+			"favourites_count": 5489,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125719,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804406816092209152/4m9Qk-sm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95255804/1442844547",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 16 10:02:24 +0000 2017",
+			"id": 853549127564632000,
+			"id_str": "853549127564632064",
+			"text": "https://t.co/2dMYmDzIol\n오제세의원(더불어민주당)이 지난 2014년 대표발의한  ‘의료사고 피해구제 및 의료분쟁 조정 등에 관한 법률 개정안(일명 신해철법, 최초 발의 당시에는 예강이법)이 19일 2년만에 국회 본회의를 통과했다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/2dMYmDzIol",
+						"expanded_url": "https://twitter.com/JeongtaeRoh/status/853545820347539459",
+						"display_url": "twitter.com/JeongtaeRoh/st…",
+						"indices": [
+							0,
+							23
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3254123827,
+				"id_str": "3254123827",
+				"name": "아나키(지바냥2)",
+				"screen_name": "prettydike100",
+				"location": "대한민국",
+				"description": "50대 주부 지바냥",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 573,
+				"friends_count": 777,
+				"listed_count": 6,
+				"created_at": "Tue Jun 23 23:56:15 +0000 2015",
+				"favourites_count": 68,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 16008,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/847435931418189824/GRJD3ZWH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/847435931418189824/GRJD3ZWH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3254123827/1467986807",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 853545820347539500,
+			"quoted_status_id_str": "853545820347539459",
+			"quoted_status": {
+				"created_at": "Sun Apr 16 09:49:16 +0000 2017",
+				"id": 853545820347539500,
+				"id_str": "853545820347539459",
+				"text": "여러분의 뇌피셜 선악구도를 좀 버리고 세상을 바라보라고. 더민주가 무슨 사회적 이슈 생기면 달려가서 털어먹고 방치한 적이 한두번이야? 그걸 정작 뒷수습하는 사람들한테 악당 이미지 씌워서 욕하는 여러분들 참 개새끼들임.",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": 853541995528110100,
+				"in_reply_to_status_id_str": "853541995528110080",
+				"in_reply_to_user_id": 358287354,
+				"in_reply_to_user_id_str": "358287354",
+				"in_reply_to_screen_name": "JeongtaeRoh",
+				"user": {
+					"id": 358287354,
+					"id_str": "358287354",
+					"name": "JeongtaeRoh",
+					"screen_name": "JeongtaeRoh",
+					"location": "",
+					"description": "쉽게 가는 길 ㄴㄴ ; 멀리 돌아가 ㅇㅋ",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 11514,
+					"friends_count": 416,
+					"listed_count": 219,
+					"created_at": "Fri Aug 19 17:44:40 +0000 2011",
+					"favourites_count": 0,
+					"utc_offset": 32400,
+					"time_zone": "Seoul",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 168504,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/2409210983/hmu867lxvoxgbvuug99v_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/2409210983/hmu867lxvoxgbvuug99v_normal.jpeg",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 37,
+				"favorite_count": 16,
+				"favorited": false,
+				"retweeted": true,
+				"lang": "ko"
+			},
+			"retweet_count": 16,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 853545820347539500,
+		"quoted_status_id_str": "853545820347539459",
+		"retweet_count": 16,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sun Apr 16 05:56:11 +0000 2017",
 		"id": 853487163245080600,
 		"id_str": "853487163245080576",
